@@ -50,7 +50,7 @@ http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
 #EXTINF:-1 ,ТВЦ (+7)
 http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
 #EXTINF:-1 ,Лен ТВ 24 
-http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_SPBHD.m3u8
+http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
 #EXTINF:-1 ,Санкт-Петербург 
 http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_SPB.m3u8
 #EXTINF:-1 ,Первый канал 
@@ -60,8 +60,6 @@ http://flu.ttk.mx:9090/Telekafe/index.m3u8
 http://86.57.178.105:10822
 #EXTINF:-1 ,Время
 http://46.151.151.245:10007/play/a002
-#EXTINF:-1 group-title="ОБЩИЕ", БЕЛРОС
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское кино HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
 #EXTINF:-1 ,Дом Кино
@@ -80,19 +78,16 @@ http://stream01.vnet.am/Telekafe/mono.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Phoenix_HD/1080p.m3u8
 #EXTINF:-1 , РОДНОЕ КИНО
 https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
-#EXTINF:-1 , КИНО 1 INTERNATIONAL
-https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,Звезда 
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8?version=3#parser
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 ,Звезда Плюс
 http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 #EXTINF:-1 ,ОТР 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 ,РЕН ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 ,СТС 
-http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 ,СТС Love 
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
 #EXTINF:-1 ,Пятница 
