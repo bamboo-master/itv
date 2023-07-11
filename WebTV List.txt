@@ -1,0 +1,103 @@
+#NAME IPTV
+Channel name: НТВ
+URL: http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_NTV.m3u8
+Channel name: НТВ +1
+URL: https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+Channel name: НТВ +2
+URL: https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
+Channel name: НТВ +4
+URL: https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
+Channel name: НТВ +7
+URL: https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+Channel name: НТВ Хит
+URL: https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+Channel name: НТВ Сериал
+URL: https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+Channel name: НТВ Право
+URL: https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+Channel name: НТВ Стиль
+URL: https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+Channel name: Россия 1
+URL: http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_ROSSIA1.m3u8
+Channel name: Россия 1 (+1)
+URL: http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+Channel name: Россия 1 (+2)
+URL: http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
+Channel name: Россия 1 (+3)
+URL: http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+Channel name: Россия 1 (+4)
+URL: http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_4/variant.m3u8
+Channel name: Россия 1 (+5)
+URL: https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
+Channel name: Россия 1 (+6)
+URL: http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_7/variant.m3u8
+Channel name: Россия 1 (+7)
+URL: https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_ROSSIA1/variant.m3u8
+Channel name: Россия 1 (+8)
+URL: http://s14553.cdn.ngenix.net/hls/CH_R04_OTT_DV_SLIN_ROSSIA1_SLIN/variant.m3u8
+Channel name: Россия 1 (+9)
+URL: http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+Channel name: Пятый канал
+URL: http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_5TV.m3u8
+Channel name: Пятый канал (+2)
+URL: http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8
+Channel name: Пятый канал (+4)
+URL: http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV_4/variant.m3u8
+Channel name: Пятый канал (+7)
+URL: http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+Channel name: ТВЦ
+URL: http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_TVC.m3u8
+Channel name: ТВЦ (+2)
+URL: http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
+Channel name: ТВЦ (+4)
+URL: http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_4/variant.m3u8
+Channel name: ТВЦ (+7)
+URL: http://a775798246-zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+Channel name: Санкт-Петербург
+URL: http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_SPB.m3u8
+Channel name: Первый канал
+URL: http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_1TV.m3u8
+Channel name: Звезда
+URL: http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+Channel name: Звезда Плюс
+URL: http://146.158.0.56:80/ZvezdaPlus/index.m3u8
+Channel name: ОТР
+URL: http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+Channel name: РЕН ТВ
+URL: http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+Channel name: СТС
+URL: http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+Channel name: СТС Love
+URL: http://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+Channel name: Пятница
+URL: http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+Channel name: Суббота!
+URL: http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+Channel name: ТВ3
+URL: http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+Channel name: Домашний
+URL: http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+Channel name: Ю
+URL: http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+Channel name: Россия К
+URL: http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+Channel name: Мир
+URL: http://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+Channel name: Мир 24 HD
+URL: http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+Channel name: Россия 24
+URL: http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+Channel name: САРАФАН
+URL: http://86.57.178.105:10822
+Channel name: Мосфильм. Золотая коллекция
+URL: http://europe3.livetv.az/russia/mosfilm_2023/playlist.m3u8
+Channel name: Время
+URL: http://46.151.151.245:10007/play/a002
+Channel name: Дом Кино
+URL: http://217.107.219.67:8006/playlist.m3u8
+Channel name: Дом кино Премиум HD
+URL: http://46.151.151.245:10007/play/a009
+Channel name: Кино 1 International
+URL: https://kino-1.catcast.tv/content/38617/index.m3u8
+Channel name: РОДНОЕ КИНО
+URL: https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
