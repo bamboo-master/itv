@@ -11,20 +11,10 @@ https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ +2
 https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ +3
-https://cdn.ntv.ru/ntv3/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ +4
 https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ +5
-https://cdn.ntv.ru/ntv5/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ +6
-https://cdn.ntv.ru/ntv6/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ +7
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ +8
-https://cdn.ntv.ru/ntv8/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ +9
-https://cdn.ntv.ru/ntv9/tracks-v1a1/playlist.m3u8
 #EXTINF:-1,Россия 1 (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
 #EXTINF:-1 ,Россия 1 (+2)
