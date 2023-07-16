@@ -1,9 +1,9 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (+1)
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_1.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (+2)
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_3.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (+3)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (+4)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (+5)
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_5.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (+6)
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_6.m3u8
