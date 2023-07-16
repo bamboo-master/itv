@@ -42,7 +42,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
 #EXTINF:-1 ,Пятый канал (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+4)
