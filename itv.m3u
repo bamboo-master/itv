@@ -75,6 +75,10 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_5.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
 #EXTINF:-1 ,ТВЦ (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
+#EXTINF:-1 ,ТВЦ (+8)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_8.m3u8
+#EXTINF:-1 ,ТВЦ (+9)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_9.m3u8
 #EXTINF:-1 ,Звезда Плюс
 http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 #EXTINF:-1 ,Дом кино Премиум HD
