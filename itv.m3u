@@ -26,20 +26,12 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
 #EXTINF:-1 ,Россия 1 (+5)
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_UUDE_ROSSIA1_ULAN/variant.m3u8
 #EXTINF:-1 ,Россия 1 (+6)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_DV_BLAG.m3u8
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD720_6.m3u8
 #EXTINF:-1 ,Россия 1 (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
 #EXTINF:-1,Россия 1 (+8)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
 #EXTINF:-1 ,Россия 1 (+9)
-#EXTINF:-1 ,Россия РТР (СНГ)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_SNG.m3u8
-#EXTINF:-1 ,Россия РТР (ASIA)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_ASIA.m3u8
-#EXTINF:-1 ,PLANETA RTR (EURO)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
-#EXTINF:-1,PLANETA RTR (USA)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_USA.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_2.m3u8
