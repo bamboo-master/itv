@@ -69,6 +69,14 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
 #EXTINF:- ,СТС Love (+4)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
+#EXTINF:-1 ,ТВ3 (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_2.m3u8
+#EXTINF:-1 ,ТВ3 (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_4.m3u8
+#EXTINF:-1 ,ТВ3 (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
+#EXTINF:-1 ,ТВ3 (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
 #EXTINF:-1 ,Дом кино Премиум HD
 http://46.151.151.245:10007/play/a009
 #EXTINF:-1 ,Кино 1 International
