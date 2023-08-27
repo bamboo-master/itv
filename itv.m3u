@@ -119,39 +119,7 @@ http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_STV24.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/ASTRH/CH_ASTRAKHAN24HD.m3u8
 #EXTINF:-1 ,Ачинское ТВ HD (Ачинск)
 http://dmi3y-tv.ru/hls/zabava/region/ACHINSK/CH_ACHINSKOETVHD.m3u8
-#EXTINF:-1 ,Толк (Барнаул)
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_TOLK.m3u8
-#EXTINF:-1 ,Бийское ТВ HD (Бийск)
-http://dmi3y-tv.ru/hls/zabava/region/BIYSK/CH_BIYSKTVHD.m3u8
-#EXTINF:-1 Актис HD720 (Ангарск)
-http://dmi3y-tv.ru/hls/zabava/region/BRATSK/CH_AKTIS_AGRSK.m3u8
-#EXTINF:-1 ,Новгородское областное телевидение (Великий Новгород)
-http://dmi3y-tv.ru/hls/zabava/region/NOVG/CH_NOVGORODTV.m3u8
-#EXTINF:-1 ,Волгоград 24 (Волгоград)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
-#EXTINF:-1 ,12 канал (Череповец)
-http://dmi3y-tv.ru/hls/zabava/region/VOL/CH_12CHANNEL_CHER.m3u8
-#EXTINF:-1 ,ОТВ HD (Екатеринбург)
-http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_OTVHD.m3u8
-#EXTINF:-1 ,Телекон 24 HD (Екатеринбург)
-http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_TELEKON24HD.m3u8
-#EXTINF:-1 ,МЭТР (Йошкар-Ола)
-http://dmi3y-tv.ru/hls/zabava/region/YOLA/CH_METR.m3u8
-#EXTINF:-1 ,Эфир (Казань)
-http://dmi3y-tv.ru/hls/zabava/region/KZN/CH_EFIR.m3u8
-#EXTINF:-1 ,Кузбасс 1 (Кемерово)
-http://dmi3y-tv.ru/hls/zabava/region/KEM/CH_KUZBASS1.m3u8
-#EXTINF:-1 ,Русь (Кострома)
-http://dmi3y-tv.ru/hls/zabava/region/KOSTROMA/CH_RUS.m3u8
-#EXTINF:-1 ,ИНФО 24 HD (Шадринск)
-http://dmi3y-tv.ru/hls/zabava/region/KRG/CH_INFO24HD.m3u8
-#EXTINF:-1 ,Липецкое время HD720 (Липецк)
-http://dmi3y-tv.ru/hls/region/CH_LVREMYAHD720_LIPETSK.m3u8
-#EXTINF:-1 ,ТЕО ТВ HD (Москва)
-http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_TEOTVHD.m3u8
-#EXTINF:-1 ,Эхо ТВ 24 (Новоуральск)
-http://dmi3y-tv.ru/hls/region/CH_ECHOTV24_NURLSK.m3u8
-#EXTINF:-1 ,Ямал-Регион (Салехард)
+
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_YAMREG.m3u8
 #EXTINF:-1 ,МИГ ТВ HD (Ноябрьск)
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_MIGTVHD.m3u8
