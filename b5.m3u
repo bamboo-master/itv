@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD",Беларусь 5 BY 
-https://mfe.svc.ott.zala.by/hls/JRKVSUPCP8_HLS/variant.m3u8
-#EXTINF:-1 tvg-id="belarus5" tvg-name="Беларусь 5 HD",Беларусь 5 BY 
-http://178.124.183.150/hls/JRKVSUPCP8_HLS/bw1200000/playlist.m3u8
 #EXTINF:-1,Беларусь 5
 http://82.209.197.187:8080/udp/239.0.100.9:1234
+
