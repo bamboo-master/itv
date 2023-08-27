@@ -73,6 +73,3 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_5.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
 #EXTINF:-1 ,ТВ3 (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
-#EXTINF:-1,Беларусь 5
-http://82.209.197.187:8080/udp/239.0.100.9:1234
-
