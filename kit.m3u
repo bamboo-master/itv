@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,НТВ СЕРИАЛ
+http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
+#EXTINF:-1 ,НТВ СТИЛЬ
+http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 ,НТВ ХИТ
+http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
 #EXTINF:-1 ,НТВ (+3)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_3.m3u8
 #EXTINF:-1 ,НТВ (+5)
@@ -69,3 +75,4 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
 #EXTINF:-1,Беларусь 5
 http://82.209.197.187:8080/udp/239.0.100.9:1234
+
