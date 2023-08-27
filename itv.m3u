@@ -85,8 +85,8 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
 #EXTINF:-1 ,Дом кино Премиум HD
 http://46.151.151.245:10007/play/a009
-#EXTINF:-1 ,Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-,СТВ (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_STVHD720_BLRUS.m3u8
 #EXTINF:-1 ,Мир Белогорья (Белгород)
 http://dmi3y-tv.ru/hls/zabava/region/BELG/CH_MIR_BLGRYA.m3u8
 #EXTINF:-1 ,НАШЕ НОВОЕ КИНО
