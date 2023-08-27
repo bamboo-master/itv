@@ -89,7 +89,19 @@ http://46.151.151.245:10007/play/a009
 http://dmi3y-tv.ru/hls/blrus/CH_STVHD720_BLRUS.m3u8
 #EXTINF:-1 ,НАШЕ НОВОЕ КИНО
 http://dmi3y-tv.ru/hls/CH_NASHENOVOEKINO.m3u8
+#EXTINF:-1 ,STAR CINEMA
+http://dmi3y-tv.ru/hls/okko/CH_STARCINEMA.m3u8
+#EXTINF:-1 ,STAR FAMILY
+http://dmi3y-tv.ru/hls/okko/CH_STARFAMILY.m3u8
+#EXTINF:-1 ,7tv
+http://dmi3y-tv.ru/hls/CH_7TV.m3u8
 #EXTINF:-1 ,Кухня ТВ
 http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
+#EXTINF:-1 ,Кино и сериалы (СМОТРИМ)
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:-1 ,Мелодрамы (СМОТРИМ)
+http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
+#EXTINF:-1 ,Выборг ТВ
+http://dmi3y-tv.ru/hls/CH_WTV.m3u8
 #EXTINF:-1 ,Мир Белогорья (Белгород)
 http://dmi3y-tv.ru/hls/zabava/region/BELG/CH_MIR_BLGRYA.m3u8
