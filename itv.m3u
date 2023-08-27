@@ -155,3 +155,37 @@ http://dmi3y-tv.ru/hls/region/CH_ECHOTV24_NURLSK.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_YAMREG.m3u8
 #EXTINF:-1 ,МИГ ТВ HD (Ноябрьск)
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_MIGTVHD.m3u8
+#EXTINF:-1 ,Импульс HD (Новый Уренгой)
+http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_IMPULSHD.m3u8
+#EXTINF:-1 ,Вектор 24 (Губкинский)
+http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_VEKTOR24_GUBK.m3u8
+#EXTINF:-1 ,Луч HD (Тарко-Сале)
+http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_LUTCHHD.m3u8
+#EXTINF:-1 ,Продвижение HD (Омск)
+http://dmi3y-tv.ru/hls/zabava/region/OMSK/CH_PRODVIZHENIEHD.m3u8
+#EXTINF:-1 ,Первый областной (Орел)
+http://dmi3y-tv.ru/hls/zabava/region/ORL/CH_1OBLASTNOY.m3u8
+#EXTINF:-1 ,Экспресс HD (Пенза)
+http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
+#EXTINF:-1 ,Волгодонский Вестник (Волгодонск)
+http://dmi3y-tv.ru/hls/zabava/region/RD/CH_VOLGVEST_VOLG.m3u8
+#EXTINF:-1 ,Народное телевидение Мордовии (Саранск)
+http://dmi3y-tv.ru/hls/zabava/region/SRNK/CH_NTM.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сочи 24 HD (Сочи)
+http://dmi3y-tv.ru/hls/zabava/region/SOCHI/CH_SOCHI24HD.m3u8
+#EXTINF:-1 ,ТНР24 HD (Нижневартовск)
+http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_TNR24HD_NIZH.m3u8
+#EXTINF:-1 ,Самотлор HD (Нижневартовск)
+http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_SAMOTLORHD_NIZH.m3u8
+#EXTINF:-1 ,Тверской Проспект HD (Тверь)
+http://dmi3y-tv.ru/hls/zabava/region/TVER/CH_TVERPROSPHD.m3u8
+#EXTINF:-1 ,Томское время HD (Томск)
+http://dmi3y-tv.ru/hls/zabava/region/TOMSK/CH_TOMSKVREMYAHD.m3u8
+#EXTINF:-1 ,Тюменское время HD (Тюмень)
+http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TUMVREMYA.m3u8
+#EXTINF:-1 ,ТVОЯ (Тюмень)
+http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TVOYA.m3u8
+#EXTINF:-1 ,Тивиком HD (Улан-Удэ)
+http://dmi3y-tv.ru/hls/zabava/region/UUDE/CH_TIVICOMHD.m3u8
+#EXTINF:-1 ,Репортер 73 HD (Ульяновск)
+http://dmi3y-tv.ru/hls/region/CH_REP73HD_UL.m3u8
