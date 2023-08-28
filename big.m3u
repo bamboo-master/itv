@@ -935,8 +935,6 @@ http://dmi3y-tv.ru/hls/region/CH_TVPOISK_KLIN.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE-1.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (+2)
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (+4)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE
@@ -951,8 +949,6 @@ http://dmi3y-tv.ru/hls/okko/CH_ViPSERIAL.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_TV1000.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 ACTION
 http://dmi3y-tv.ru/hls/okko/CH_TV1000ACTION.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 РУССКОЕ КИНО
-http://dmi3y-tv.ru/hls/okko/CH_TV1000RUSSKOEKINO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Точка SCI-FI
 http://dmi3y-tv.ru/hls/okko/CH_SCI-FI.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Точка BLACK
@@ -965,8 +961,6 @@ http://dmi3y-tv.ru/hls/okko/CH_AMEDIAI.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_AMEDIAII.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA HIT
 http://dmi3y-tv.ru/hls/okko/CH_AMEDIAHIT.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA PREMIUM HD (auto)
-http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV DARK HD
 http://dmi3y-tv.ru/hls/CH_BACKUSTVDARKHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV ORIGINAL HD
@@ -985,10 +979,6 @@ http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",САПФИР
 http://dmi3y-tv.ru/hls/okko/CH_FOXLIFE.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",FILM BOX
-http://dmi3y-tv.ru/hls/CH_FILMBOX.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",FILM BOX ARTHOUSE
-http://dmi3y-tv.ru/hls/CH_FILMBOX_ARTHOUSE.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Выборг ТВ
 http://dmi3y-tv.ru/hls/CH_WTV.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BOLT
