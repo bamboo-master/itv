@@ -925,16 +925,8 @@ http://dmi3y-tv.ru/hls/zabava/region/YARL/CH_GTREG.m3u8
 http://dmi3y-tv.ru/hls/region/CH_SIMFEROPOL24HD_KRYM.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Легендарный 24 HD (Крым)
 http://dmi3y-tv.ru/hls/region/CH_LEGENDARNY24HD_KRYM.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Крымский (Крым)
-http://dmi3y-tv.ru/hls/region/CH_1KRYM_KRYM.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Крым 24 (Крым)
-http://dmi3y-tv.ru/hls/region/CH_KRYM24_KRYM.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Крым 24 HD (Крым)
-http://dmi3y-tv.ru/hls/region/CH_KRYM24HD_KRYM.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Запад 24 (Калининград)
 http://dmi3y-tv.ru/hls/smotrim/region/CH_ZAPAD24_KLGR.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Запад 24 HD (Калининград)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_ZAPAD24HD_KLGR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Норд ТВ (Новодвинск)
 http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_NORDTV_NVDSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВ ПОИСК (Клин)
