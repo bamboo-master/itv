@@ -1359,132 +1359,30 @@ http://dmi3y-tv.ru/hls/CH_JOYCOOKHD720.m3u8
 http://dmi3y-tv.ru/hls/CH_BST.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Ключ
 http://dmi3y-tv.ru/hls/CH_KLUCH.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (-1)
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY-1.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+2)
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_2.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+4)
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_4.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+6)
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_6.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+7)
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_7.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Мультиландия
-http://dmi3y-tv.ru/hls/okko/CH_MULTILANDIYA.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Мультиландия HD
-http://dmi3y-tv.ru/hls/okko/CH_MULTILANDIYAHD.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",СТС Kids
-http://dmi3y-tv.ru/hls/okko/CH_STSKIDS.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",СТС Kids HD
-http://dmi3y-tv.ru/hls/okko/CH_STSKIDSHD.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Радость моя
-http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",FAN
-http://dmi3y-tv.ru/hls/CH_FAN.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Duck TV
-http://dmi3y-tv.ru/hls/okko/CH_DUCKTV.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Duck TV HD
-http://dmi3y-tv.ru/hls/okko/CH_DUCKTVHD.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Da Vinci Kids
-http://dmi3y-tv.ru/hls/okko/CH_DAVINCIKIDS.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Лёва HD (auto)
-http://strm.yandex.ru/kal/leva/leva0.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Чижик
-http://dmi3y-tv.ru/hls/CH_CHIZHIK.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Чижик HD
-http://dmi3y-tv.ru/hls/CH_CHIZHIKHD.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Уникум
-http://dmi3y-tv.ru/hls/CH_UNIKUM.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Капитан фантастика
-http://dmi3y-tv.ru/hls/CH_KAPITANFANTASTIKA.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Капитан фантастика HD
-http://dmi3y-tv.ru/hls/CH_KAPITANFANTASTIKAHD.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",СУПЕР ГЕРОИ
-http://dmi3y-tv.ru/hls/CH_SUPERGEROI.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",МУЛЬТ
-http://dmi3y-tv.ru/hls/CH_MULT.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Рыжий
-http://dmi3y-tv.ru/hls/CH_PYZHIY.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Смайлик ТВ
-http://dmi3y-tv.ru/hls/CH_SMAYLIK.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",TiJi
-http://dmi3y-tv.ru/hls/CH_TIJI.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",ТИП ТОП
-http://dmi3y-tv.ru/hls/CH_TIPTOP.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",ТИП ТОП HD
-http://dmi3y-tv.ru/hls/CH_TIPTOPHD.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",В гостях у сказки
-http://dmi3y-tv.ru/hls/CH_VGOSTYAHUSKAZKI.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",В гостях у сказки HD
-http://dmi3y-tv.ru/hls/CH_VGOSTYAHUSKAZKIHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя планета
-http://dmi3y-tv.ru/hls/smotrim/CH_MOYAPLANETA.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",NANO
 http://dmi3y-tv.ru/hls/okko/CH_NANO.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",NANO HD
-http://dmi3y-tv.ru/hls/okko/CH_NANOHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ПРОДВИЖЕНИЕ
 http://dmi3y-tv.ru/hls/CH_PRODVIZHENIE.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",KAZAKH TV [RUS]
 http://dmi3y-tv.ru/hls/CH_KAZAKHTV_RUS.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",KAZAKH TV HD [RUS]
-http://dmi3y-tv.ru/hls/CH_KAZAKHTVHD_RUS.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",KAZAKH TV [KAZ]
-http://dmi3y-tv.ru/hls/CH_KAZAKHTV_KAZ.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",KAZAKH TV HD [KAZ]
-http://dmi3y-tv.ru/hls/CH_KAZAKHTVHD_KAZ.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",KAZAKH TV [ENG]
-http://dmi3y-tv.ru/hls/CH_KAZAKHTV_ENG.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",KAZAKH TV HD [ENG]
-http://dmi3y-tv.ru/hls/CH_KAZAKHTVHD_ENG.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",KAZAKH TV [KIR]
-http://dmi3y-tv.ru/hls/CH_KAZAKHTV_KIR.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",KAZAKH TV HD [KIR]
-http://dmi3y-tv.ru/hls/CH_KAZAKHTVHD_KIR.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",KAZAKH TV [UZB]
-http://dmi3y-tv.ru/hls/CH_KAZAKHTV_UZB.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",KAZAKH TV HD [UZB]
-http://dmi3y-tv.ru/hls/CH_KAZAKHTVHD_UZB.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",СОЮЗ
 http://dmi3y-tv.ru/hls/CH_SOYUZ.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",СОЮЗ HD
-http://dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ТВ7
 http://dmi3y-tv.ru/hls/CH_TV7.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ТВ7 HD720
-http://dmi3y-tv.ru/hls/CH_TV7HD720.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
 http://dmi3y-tv.ru/hls/okko/CH_VIASATEXPLORE.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore HD
-http://dmi3y-tv.ru/hls/okko/CH_VIASATEXPLOREHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
 http://dmi3y-tv.ru/hls/okko/CH_VIASATNATURE.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature HD
-http://dmi3y-tv.ru/hls/okko/CH_VIASATNATUREHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat History
 http://dmi3y-tv.ru/hls/okko/CH_VIASATHISTORY.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat History HD
-http://dmi3y-tv.ru/hls/okko/CH_VIASATHISTORYHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature History
 http://dmi3y-tv.ru/hls/okko/CH_VIASATNATUREHISTORY.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature History HD
-http://dmi3y-tv.ru/hls/okko/CH_VIASATNATUREHISTORYHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",TOP SECRET
 http://dmi3y-tv.ru/hls/CH_TOPSECRET.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",TERRA
 http://dmi3y-tv.ru/hls/okko/CH_NATGEO.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",TERRA HD
-http://dmi3y-tv.ru/hls/okko/CH_NATGEOHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Ратник
 http://dmi3y-tv.ru/hls/CH_RATNIK.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Ратник HD
-http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Грозный
-http://dmi3y-tv.ru/hls/CH_GROZNY.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Грозный HD720
-http://dmi3y-tv.ru/hls/CH_GROZNYHD720.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Наша Сибирь HD (auto)
 http://strm.yandex.ru/kal/sibir/sibir0.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",RTG HD (auto)
@@ -1493,94 +1391,10 @@ http://strm.yandex.ru/kal/rtg/rtg0.m3u8
 http://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ
 http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ HD
-http://dmi3y-tv.ru/hls/CH_UNKNOWN_RUSSIAHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Кухня ТВ
 http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Еда
-http://dmi3y-tv.ru/hls/CH_EDA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Food time
-http://dmi3y-tv.ru/hls/CH_FOOD_TIME.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Food time HD
-http://dmi3y-tv.ru/hls/CH_FOOD_TIMEHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",RTG tv
 http://dmi3y-tv.ru/hls/CH_RTGTV.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",RTG SD
-http://dmi3y-tv.ru/hls/CH_RTGSD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",RTG HD
-http://dmi3y-tv.ru/hls/CH_RTGHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",АРСЕНАЛ
-http://dmi3y-tv.ru/hls/CH_ARSENAL.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",АРСЕНАЛ HD
-http://dmi3y-tv.ru/hls/CH_ARSENALHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",BIG PLANET
-http://dmi3y-tv.ru/hls/CH_BIGPLANET.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",BIG PLANET HD
-http://dmi3y-tv.ru/hls/CH_BIGPLANETHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",БОБЁР
-http://dmi3y-tv.ru/hls/CH_BOBER.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая охота
-http://dmi3y-tv.ru/hls/CH_DIKAYAOHOTA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая охота HD
-http://dmi3y-tv.ru/hls/CH_DIKAYAOHOTAHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая рыбалка
-http://dmi3y-tv.ru/hls/CH_DIKAYARYBALKA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Дикая рыбалка HD
-http://dmi3y-tv.ru/hls/CH_DIKAYARYBALKAHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Доктор
-http://dmi3y-tv.ru/hls/CH_DOKTOR.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ЕГЭ ТВ
-http://dmi3y-tv.ru/hls/CH_EGETV.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",История
-http://dmi3y-tv.ru/hls/CH_ISTORIYA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Глазами туриста
-http://dmi3y-tv.ru/hls/CH_GLAZAMITURISTA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Глазами туриста HD
-http://dmi3y-tv.ru/hls/CH_GLAZAMITURISTAHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НАУКА 20
-http://dmi3y-tv.ru/hls/CH_HAUKA20.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НОСТАЛЬГИЯ
-http://dmi3y-tv.ru/hls/CH_NOCTALGIYA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Приключения
-http://dmi3y-tv.ru/hls/CH_PRIKLUCHENIYA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Приключения HD
-http://dmi3y-tv.ru/hls/CH_PRIKLUCHENIYAHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ПРО БИЗНЕС
-http://dmi3y-tv.ru/hls/CH_PROBIZNES.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Рыболов
-http://dmi3y-tv.ru/hls/CH_PYBOLOV.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel+Adventure
-http://dmi3y-tv.ru/hls/CH_TRAVELPLUSADVENTURE.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Travel+Adventure HD
-http://dmi3y-tv.ru/hls/CH_TRAVELPLUSADVENTUREHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Загородная жизнь
-http://dmi3y-tv.ru/hls/CH_ZAGORODNAYAZHIZN.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая природа
-http://dmi3y-tv.ru/hls/CH_ZHIVAYAPRIRODA.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая природа HD
-http://dmi3y-tv.ru/hls/CH_ZHIVAYAPRIRODAHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Зоо ТВ
-http://dmi3y-tv.ru/hls/CH_3OOTB.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Первый космический
-http://dmi3y-tv.ru/hls/CH_1KOSMICHESKIY.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Первый космический HD
-http://dmi3y-tv.ru/hls/CH_1KOSMICHESKIYHD.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Пёс и Ко
-http://dmi3y-tv.ru/hls/CH_PESIKO.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ТБН
-http://dmi3y-tv.ru/hls/CH_TBN.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Terra Incognita HD720
-http://dmi3y-tv.ru/hls/CH_TERRAINCOGNITAHD720.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Тномер
-http://dmi3y-tv.ru/hls/CH_TNOMER.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Звезда плюс
-http://dmi3y-tv.ru/hls/CH_3BE3DAPLUS.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Калейдоскоп ТВ
-http://dmi3y-tv.ru/hls/CH_KALEYDOSKOPTV.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Кто есть кто
-http://dmi3y-tv.ru/hls/CH_KTOISKTO.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Мужской
-http://dmi3y-tv.ru/hls/CH_MUZHSKOY.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Красная линия
 http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",1-вый Национальный канал HD720
