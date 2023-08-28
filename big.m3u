@@ -5,6 +5,8 @@ http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СТИЛЬ
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ПРАВО
+http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+1)
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
