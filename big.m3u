@@ -1761,42 +1761,24 @@ http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",ЛДПР ТВ
 http://dmi3y-tv.ru/hls/CH_LDPRTV.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",ЛДПР ТВ HD720
-http://dmi3y-tv.ru/hls/CH_LDPRTVHD720.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",RT HD
 http://dmi3y-tv.ru/hls/CH_RTHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",RTД
 http://dmi3y-tv.ru/hls/CH_RTD.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",RTД HD
-http://dmi3y-tv.ru/hls/CH_RTDHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Всё ТВ
 http://dmi3y-tv.ru/hls/zabava/CH_VSETV.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Всё ТВ HD
-http://dmi3y-tv.ru/hls/zabava/CH_VSETVHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Соловьев Live
 http://dmi3y-tv.ru/hls/smotrim/CH_SOLOVEVLIVE.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Соловьев Live HD
-http://dmi3y-tv.ru/hls/smotrim/CH_SOLOVEVLIVEHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РЖД ТВ
 http://dmi3y-tv.ru/hls/CH_RZHDTV.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",РЖД ТВ HD720
-http://dmi3y-tv.ru/hls/CH_RZHDTVHD720.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",TV BRICS HD [RUS]
 http://dmi3y-tv.ru/hls/CH_TVBRICSHD_RUS.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",TV BRICS HD [ENG]
-http://dmi3y-tv.ru/hls/CH_TVBRICSHD_ENG.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",ВМЕСТЕ РФ
 http://dmi3y-tv.ru/hls/CH_VMESTERF.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",ВМЕСТЕ РФ HD
-http://dmi3y-tv.ru/hls/CH_VMESTERFHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Дума ТВ
 http://dmi3y-tv.ru/hls/CH_DUMATV.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Дума ТВ HD
-http://dmi3y-tv.ru/hls/CH_DUMATVHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Хабар 24 HD
 http://dmi3y-tv.ru/hls/CH_HABAR24HD.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Благосфера ТВ HD
-http://dmi3y-tv.ru/hls/CH_BLAGOSFERAHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Известия
 http://dmi3y-tv.ru/hls/okko/CH_IZRU.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Известия HD
