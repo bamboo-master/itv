@@ -1,97 +1,91 @@
 #EXTM3U#
 
-#EXTINF:-1 ,НТВ СЕРИАЛ
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ"НТВ СЕРИАЛ
 http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
-#EXTINF:-1 ,НТВ СТИЛЬ
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ"НТВ СТИЛЬ
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
-#EXTINF:-1 ,НТВ ХИТ
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ"НТВ ХИТ
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
-#EXTINF:-1 ,НТВ (+1)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+1)
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ (+2)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
 https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ (+3)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+3)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_3.m3u8
-#EXTINF:-1 ,НТВ (+4)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+4)
 https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ (+5)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+5)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_5.m3u8
-#EXTINF:-1 ,НТВ (+6)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
-#EXTINF:-1 ,НТВ (+7)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+7)
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 ,Россия 1 (+2)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+2)
 http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_KRG.m3u8
-#EXTINF:-1,Россия 1 (+3)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 ,Россия 1 (+4)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 ,Россия 1 (+5)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+5)
 http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_IRK.m3u8
-#EXTINF:-1 ,Россия 1 (+6)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+6)
 http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_CHITA.m3u8
-#EXTINF:-1 ,Россия 1 (+7)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
-#EXTINF:-1,Россия 1 (+8)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+8)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
-#EXTINF:-1 ,Россия 1 (+9)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+9)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
-#EXTINF:-1 ,Пятый канал (+1)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_1.m3u8
-#EXTINF:-1 ,Пятый канал (+2)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_2.m3u8
-#EXTINF:-1 ,Пятый канал (+3)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+3)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_3.m3u8
-#EXTINF:-1 ,Пятый канал (+4)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_4.m3u8
-#EXTINF:-1 ,Пятый канал (+5)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+5)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_5.m3u8
-#EXTINF:-1 ,Пятый канал (+6)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
-#EXTINF:-1 ,Пятый канал (+7)
+#E#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
-#EXTINF:-1 ,ТВЦ (+1)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_1.m3u8
-#EXTINF:-1 ,ТВЦ (+2)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
-#EXTINF:-1 ,ТВЦ (+3)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+3)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_3.m3u8
-#EXTINF:-1 ,ТВЦ (+4)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_4.m3u8
-#EXTINF:-1 ,ТВЦ (+5)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+5)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_5.m3u8
-#EXTINF:-1 ,ТВЦ (+6)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
-#EXTINF:-1 ,ТВЦ (+7)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE-1.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ" ,СТС Love (+4)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
-#EXTINF:-1 ,ТВ3 (-1)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (-1)
 TV3(-1), http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
-#EXTINF:-1 ,ТВ3 (+1)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_1.m3u8
-#EXTINF:-1 ,ТВ3 (+2)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_2.m3u8
-#EXTINF:-1 ,ТВ3 (+3)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+3)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_3.m3u8
-#EXTINF:-1 ,ТВ3 (+4)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_4.m3u8
-#EXTINF:-1 ,ТВ3 (+5)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+5)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_5.m3u8
-#EXTINF:-1 ,ТВ3 (+6)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
-#EXTINF:-1 ,ТВ3 (+7)
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
-
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (+4)
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE
 http://dmi3y-tv.ru/hls/okko/CH_ViPPREMIERE.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP MEGAHIT
@@ -126,8 +120,6 @@ http://dmi3y-tv.ru/hls/okko/CH_STARTAIR.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_STARTWORLD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",САПФИР
 http://dmi3y-tv.ru/hls/okko/CH_FOXLIFE.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Выборг ТВ
-http://dmi3y-tv.ru/hls/CH_WTV.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BOLT
 http://dmi3y-tv.ru/hls/okko/CH_BOLT.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",STAR CINEMA
@@ -138,303 +130,12 @@ http://dmi3y-tv.ru/hls/okko/CH_STARCINEMAHD.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_STARFAMILY.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",STAR FAMILY HD
 http://dmi3y-tv.ru/hls/okko/CH_STARFAMILYHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Феникс+Кино
-http://dmi3y-tv.ru/hls/okko/CH_FENIKSPLUSKINO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино и сериалы (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Мелодрамы (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
-
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал HD
-http://dmi3y-tv.ru/hls/okko/CH_1TVHD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+8)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_8.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+9)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_9.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (Евразия)
-http://dmi3y-tv.ru/hls/T2/CH_1TV_KZ.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал HD720 (Евразия)
-http://dmi3y-tv.ru/hls/T2/CH_1TVHD720_KZ.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD
-http://dmi3y-tv.ru/hls/okko/CH_RUSSIA1HD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+8)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+9)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Матч!
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MATCHTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Матч! HD
-http://dmi3y-tv.ru/hls/okko/CH_MATCHTVHD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ HD
-http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIAK_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия РТР (СНГ)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_SNG.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия РТР (ASIA)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_ASIA.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",PLANETA RTR (EURO)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",PLANETA RTR (USA)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_USA.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+3)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24_3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA24_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+8)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_8.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
-http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР HD
-http://dmi3y-tv.ru/hls/T2/CH_OTRHD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР (+4)
-http://dmi3y-tv.ru/hls/T2/CH_OTR_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ HD
-http://dmi3y-tv.ru/hls/okko/CH_RENTVHD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС
-http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_SPAS_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС HD
-http://dmi3y-tv.ru/hls/okko/CH_STSHD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний HD
-http://dmi3y-tv.ru/hls/okko/CH_DOMASHNIYHD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 HD
-http://dmi3y-tv.ru/hls/okko/CH_TV3HD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница!
-http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! HD
-http://dmi3y-tv.ru/hls/okko/CH_FRIDAYHD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
-http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда HD
-http://dmi3y-tv.ru/hls/T2/CH_ZVEZDAHD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР HD
-http://dmi3y-tv.ru/hls/T2/CH_MIRHD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ HD
-http://dmi3y-tv.ru/hls/okko/CH_TNTHD.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (-1)
-http://dmi3y-tv.ru/hls/zabava/CH_CHE-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че!
-http://dmi3y-tv.ru/hls/zabava/CH_CHE.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+2)
-http://dmi3y-tv.ru/hls/zabava/CH_CHE_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+4)
-http://dmi3y-tv.ru/hls/zabava/CH_CHE_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+6)
-http://dmi3y-tv.ru/hls/zabava/CH_CHE_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+7)
-http://dmi3y-tv.ru/hls/zabava/CH_CHE_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (-1)
-http://dmi3y-tv.ru/hls/zabava/CH_U-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю
-http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+2)
-http://dmi3y-tv.ru/hls/zabava/CH_U_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+4)
-http://dmi3y-tv.ru/hls/zabava/CH_U_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+6)
-http://dmi3y-tv.ru/hls/zabava/CH_U_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+7)
-http://dmi3y-tv.ru/hls/zabava/CH_U_7.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Выборг ТВ
+http://dmi3y-tv.ru/hls/CH_WTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РТС HD720 (Абакан)
 http://dmi3y-tv.ru/hls/zabava/region/ABAKAN/CH_RTSHD720.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВ-7 HD (Абакан)
