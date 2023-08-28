@@ -1315,10 +1315,6 @@ http://dmi3y-tv.ru/hls/CH_RODNOYKANAL.m3u8
 http://dmi3y-tv.ru/hls/CH_RODNOYKANALHD720.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Точка отрыва
 http://dmi3y-tv.ru/hls/CH_TOCHKAOTRYVA.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Ники ТВ HD720
-http://dmi3y-tv.ru/hls/CH_NIKITVHD720.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",7tv
-http://dmi3y-tv.ru/hls/CH_7TV.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",HDL HD
 http://dmi3y-tv.ru/hls/CH_HDLHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",NANO
