@@ -537,20 +537,8 @@ http://dmi3y-tv.ru/hls/zabava/region/SAMARA/CH_TOLYTTI24HD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SAMARA/CH_GUBERNIA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Самара-Гис HD (Самара)
 http://dmi3y-tv.ru/hls/zabava/region/SAMARA/CH_SAMARAGISHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Лен ТВ 24 (Санкт-Петербург)
-http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Лен ТВ 24 HD (Санкт-Петербург)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_LENTV24HD_SPB.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Санкт-Петербург (Санкт-Петербург)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Санкт-Петербург HD (Санкт-Петербург)
-http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_SPB.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Теледом (Санкт-Петербург)
-http://dmi3y-tv.ru/hls/region/CH_TELEDOM_SPB.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Теледом HD720 (Санкт-Петербург)
 http://dmi3y-tv.ru/hls/region/CH_TELEDOMHD720_SPB.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Теледом HD (Санкт-Петербург)
-http://dmi3y-tv.ru/hls/region/CH_TELEDOMHD_SPB.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",10 канал/РЕН ТВ (Мордовия)
 http://dmi3y-tv.ru/hls/zabava/region/SRNK/CH_10CHANNEL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Народное телевидение Мордовии (Саранск)
@@ -571,8 +559,6 @@ http://dmi3y-tv.ru/hls/region/CH_MILLETHD720_SMRPL.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SOCHI/CH_SOCHI24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",SOCHI LIVE HD720 (Сочи)
 http://dmi3y-tv.ru/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СТРК HD720 (Сочи)
-http://dmi3y-tv.ru/hls/region/CH_CTPKHD720_SOCHI.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кавказ 24 (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СВОЁ ТВ (Ставрополь)
@@ -633,8 +619,6 @@ http://dmi3y-tv.ru/hls/region/CH_STV_SRVOY.m3u8
 http://dmi3y-tv.ru/hls/region/CH_SAROV24HD720_SAROV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Советск-Тильзит ТВ (Советск)
 http://dmi3y-tv.ru/hls/region/CH_STTV_SOVETSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новый век (Тамбов)
-http://dmi3y-tv.ru/hls/zabava/region/TAMB/CH_NOVIY_VEK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новый век HD720 (Тамбов)
 http://dmi3y-tv.ru/hls/region/CH_NOVIY_VEKHD720_TAMB.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Продвижение (Тамбов)
@@ -663,8 +647,6 @@ http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TOBOLSKOEVREMYA_TBLSK.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/UUDE/CH_ATVMEDIA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тивиком HD (Улан-Удэ)
 http://dmi3y-tv.ru/hls/zabava/region/UUDE/CH_TIVICOMHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Аригус (Улан-Удэ)
-http://dmi3y-tv.ru/hls/region/CH_ARIGUS_UUDE.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Аригус HD (Улан-Удэ)
 http://dmi3y-tv.ru/hls/zabava/region/UUDE/CH_ARIGUSHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Буряад ТВ HD (Улан-Удэ)
@@ -709,10 +691,6 @@ http://dmi3y-tv.ru/hls/zabava/region/DV_HVSK/CH_GUBERNIYA.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/DV_HVSK/CH_6TV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Комсомольское время 6ТВ (Хабаровск)
 http://dmi3y-tv.ru/hls/zabava/region/DV_HVSK/CH_6TVKMS.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Arirang KOREA (Хабаровск)
-http://dmi3y-tv.ru/hls/region/CH_ARIRANGKOREA_DV_HVSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Arirang KOREA HD720 (Хабаровск)
-http://dmi3y-tv.ru/hls/region/CH_ARIRANGKOREAHD720_DV_HVSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЮТВ (Чебоксары)
 http://dmi3y-tv.ru/hls/zabava/region/CHR/CH_UTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Чаваш Ен HD (Чебоксары)
