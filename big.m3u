@@ -1807,44 +1807,6 @@ http://dmi3y-tv.ru/hls/CH_78TV.m3u8
 http://live-mpd-okkotv.cdnvideo.ru/okkotv/okkotv-srt/manifest.mpd
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Большая Азия
 http://dmi3y-tv.ru/hls/CH_BASIYA.m3u8
-#EXTINF:-1 group-title="ТЕЛЕМАГАЗИНЫ",Shopping Live
-http://dmi3y-tv.ru/hls/CH_SHOPPINGLIVE.m3u8
-#EXTINF:-1 group-title="ТЕЛЕМАГАЗИНЫ",Leomax 24 HD
-http://dmi3y-tv.ru/hls/CH_LEOMAX24HD.m3u8
-#EXTINF:-1 group-title="ТЕЛЕМАГАЗИНЫ",Ювелирочка ТВ
-http://dmi3y-tv.ru/hls/CH_YUVELIROCHKATV.m3u8
-#EXTINF:-1 group-title="ТЕЛЕМАГАЗИНЫ",Витрина ТВ
-http://dmi3y-tv.ru/hls/CH_VITRINATV.m3u8
-#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Говорит Москва (Москва)
-http://dmi3y-tv.ru/hls/CH_GM_MOS.m3u8
-#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Говорит Москва HD720 (Москва)
-http://dmi3y-tv.ru/hls/CH_GMHD720_MOS.m3u8
-#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] РАДИО ХИТ HD720 (Орск)
-http://dmi3y-tv.ru/hls/CH_RADIOXITHD720_ORSK.m3u8
-#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] MCM HD720 [Иркутск]
-http://dmi3y-tv.ru/hls/CH_MCMHD720_IRK.m3u8
-#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] RADIO 51
-http://dmi3y-tv.ru/hls/CH_RADIO51.m3u8
-#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] M-1 HD720
-http://dmi3y-tv.ru/hls/CH_M1HD720.m3u8
-#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Наше время
-http://dmi3y-tv.ru/hls/smotrim/CH_RADIO_RUS.m3u8
-#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Наше время HD720
-http://dmi3y-tv.ru/hls/smotrim/CH_RADIO_RUSHD720.m3u8
-#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Радио Маяк
-http://dmi3y-tv.ru/hls/smotrim/CH_RADIO_MAYAK.m3u8
-#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] ВЕСТИ FM
-http://dmi3y-tv.ru/hls/smotrim/CH_VESTI_FM.m3u8
-#EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] ВЕСТИ FM HD
-http://dmi3y-tv.ru/hls/smotrim/CH_VESTI_FMHD.m3u8
-#EXTINF:-1 group-title="КАНАЛЫ О МОДЕ",Code Fashion TV HD
-http://dmi3y-tv.ru/hls/CH_CODE_FTVHD.m3u8
-#EXTINF:-1 group-title="КАНАЛЫ О МОДЕ",Fashion TV (SK)
-http://dmi3y-tv.ru/hls/CH_FASHIONTV_SK.m3u8
-#EXTINF:-1 group-title="КАНАЛЫ О МОДЕ",Fashion TV
-http://dmi3y-tv.ru/hls/okko/CH_FASHIONTV.m3u8
-#EXTINF:-1 group-title="КАНАЛЫ О МОДЕ",Fashion TV HD
-http://dmi3y-tv.ru/hls/CH_FASHIONTVHD.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 24 (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",СТВ HD (Беларусь)
