@@ -1575,8 +1575,6 @@ http://dmi3y-tv.ru/hls/CH_TERRAINCOGNITAHD720.m3u8
 http://dmi3y-tv.ru/hls/CH_TNOMER.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Звезда плюс
 http://dmi3y-tv.ru/hls/CH_3BE3DAPLUS.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",HD Media HD720
-http://dmi3y-tv.ru/hls/CH_HDMEDIAHD720.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Калейдоскоп ТВ
 http://dmi3y-tv.ru/hls/CH_KALEYDOSKOPTV.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Кто есть кто
