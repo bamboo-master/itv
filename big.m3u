@@ -1845,34 +1845,8 @@ http://dmi3y-tv.ru/hls/CH_FASHIONTV_SK.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_FASHIONTV.m3u8
 #EXTINF:-1 group-title="КАНАЛЫ О МОДЕ",Fashion TV HD
 http://dmi3y-tv.ru/hls/CH_FASHIONTVHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",ULTRA REX HD
-http://dmi3y-tv.ru/hls/zabava/CH_RUSSIANEXTREMEULTRAHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",ULTRA REX QHD
-http://dmi3y-tv.ru/hls/zabava/CH_RUSSIANEXTREMEULTRAQHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",ULTRA REX UHD
-http://dmi3y-tv.ru/hls/zabava/CH_RUSSIANEXTREMEULTRAUHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",Ultra HD Cinema HD
-http://dmi3y-tv.ru/hls/zabava/CH_ULTRAHDCINEMAHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",Ultra HD Cinema QHD
-http://dmi3y-tv.ru/hls/zabava/CH_ULTRAHDCINEMAQHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",Ultra HD Cinema UHD
-http://dmi3y-tv.ru/hls/zabava/CH_ULTRAHDCINEMAUHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",Наша Сибирь 4K HD
-http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",Наша Сибирь 4K QHD
-http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KQHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",Наша Сибирь 4K UHD
-http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KUHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",Глазами туриста 4K HD
-http://dmi3y-tv.ru/hls/CH_GLAZAMITURISTA4KHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",Глазами туриста 4K UHD
-http://dmi3y-tv.ru/hls/CH_GLAZAMITURISTA4KUHD.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 4 HD720 (Витебск)
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS4HD720_VIT.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 24 (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 24 HD (Беларусь)
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",СТВ HD (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_STVHD_BLRUS.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
