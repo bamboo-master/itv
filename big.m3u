@@ -507,8 +507,6 @@ http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_LTKHD_LSVA.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_SOYUZ_CHUS.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Псковский HD (Псков)
 http://dmi3y-tv.ru/hls/region/CH_1PSKOVSKIYHD_PSKV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сампо ТВ (Петрозаводск)
-http://dmi3y-tv.ru/hls/region/CH_SAMPOTV_PZAV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",КАРЕЛИЯ ONLINE (Петрозаводск)
 http://dmi3y-tv.ru/hls/region/CH_KARELIYAONLINE_PZAV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",КАРЕЛИЯ ONLINE HD (Петрозаводск)
