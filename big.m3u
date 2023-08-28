@@ -1273,42 +1273,6 @@ http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_4.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_6.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+7)
 http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA_7.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (-1)
-http://dmi3y-tv.ru/hls/zabava/CH_TNT4-1.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4
-http://dmi3y-tv.ru/hls/zabava/CH_TNT4.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 HD720
-http://bl.uma.media/live/317849/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+2)
-http://dmi3y-tv.ru/hls/zabava/CH_TNT4_2.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+4)
-http://dmi3y-tv.ru/hls/zabava/CH_TNT4_4.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+6)
-http://dmi3y-tv.ru/hls/zabava/CH_TNT4_6.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+7)
-http://dmi3y-tv.ru/hls/zabava/CH_TNT4_7.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",360°
-http://dmi3y-tv.ru/hls/smotrim/CH_360TV.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",360° HD
-http://dmi3y-tv.ru/hls/smotrim/CH_360TVHD.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",8 канал
-http://dmi3y-tv.ru/hls/CH_8CHANNEL.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",8 Канал (Европа)
-http://dmi3y-tv.ru/hls/CH_8CHANNEL_EUROPE.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",E TV HD
-http://dmi3y-tv.ru/hls/CH_ETVHD.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",TVM Channel
-http://dmi3y-tv.ru/hls/CH_TVMCHANNEL.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Просвещение
-http://dmi3y-tv.ru/hls/CH_PROSVESHENIE.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Жар Птица
-http://dmi3y-tv.ru/hls/CH_ZHARPTITCA.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Надежда HD720
-http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Три Ангела
-http://dmi3y-tv.ru/hls/CH_3ANGELA.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Три Ангела HD
-http://dmi3y-tv.ru/hls/CH_3ANGELAHD.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Родной канал
 http://dmi3y-tv.ru/hls/CH_RODNOYKANAL.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Родной канал HD720
