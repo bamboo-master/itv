@@ -947,63 +947,7 @@ http://193.33.233.109:9000/tv.ts
 http://dmi3y-tv.ru/hls/region/CH_LUGANSK24_LNR_LUGANSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",43 канал HD720 (Туапсе)
 http://dmi3y-tv.ru/hls/region/CH_43KANALHD720_TUAPCE.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ПЛАНЕТА
-http://bl.uma.media/live/126869/HLS/6866944_2/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ПЛАНЕТА HD720
-http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! БОЕЦ
-http://dmi3y-tv.ru/hls/CH_MATCHBOETZ.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! БОЕЦ HD
-http://dmi3y-tv.ru/hls/CH_MATCHBOETZHD.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Viasat Sport
-http://dmi3y-tv.ru/hls/okko/CH_VIASATSPORT.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Viasat Sport HD
-http://dmi3y-tv.ru/hls/okko/CH_VIASATSPORTHD.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Конный мир
-http://dmi3y-tv.ru/hls/CH_KONNYMIR.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Конный мир HD
-http://bl.uma.media/live/400930/HLS/4614144_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Старт
-http://dmi3y-tv.ru/hls/okko/CH_START.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Старт HD
-http://dmi3y-tv.ru/hls/okko/CH_STARTHD.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Старт ТРИУМФ
-http://dmi3y-tv.ru/hls/okko/CH_START_TRIUMF.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Старт ТРИУМФ HD
-http://dmi3y-tv.ru/hls/okko/CH_START_TRIUMFHD.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Удар HD (auto)
-http://strm.yandex.ru/kal/udar/udar0.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",ММА-TV
-http://dmi3y-tv.ru/hls/CH_MMA-TV.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Red Bull TV
-http://dmi3y-tv.ru/hls/CH_REDBULLTV.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Red Bull TV HD
-http://dmi3y-tv.ru/hls/CH_REDBULLTVHD.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",АВТО24
-http://dmi3y-tv.ru/hls/CH_AVTO24.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Авто плюс
-http://dmi3y-tv.ru/hls/CH_AVTOPLUS.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",ФУТБОЛ
-http://dmi3y-tv.ru/hls/CH_FUTBOL.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",ФУТБОЛ HD
-http://dmi3y-tv.ru/hls/CH_FUTBOLHD.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",ФУТБОЛЬНЫЙ
-http://dmi3y-tv.ru/hls/CH_FUTBOLNIY.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",ФУТБОЛЬНЫЙ HD
-http://dmi3y-tv.ru/hls/CH_FUTBOLNIYHD.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Спортивный
-http://dmi3y-tv.ru/hls/CH_SPORTIVNY.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Спортивный HD
-http://dmi3y-tv.ru/hls/CH_SPORTIVNYHD.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Хоккейный
-http://dmi3y-tv.ru/hls/CH_HOKKEYNY.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Хоккейный HD
-http://dmi3y-tv.ru/hls/CH_HOKKEYNYHD.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Русский экстрим
-http://dmi3y-tv.ru/hls/CH_RUSSKIY_EXTRIM.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Extreme sports
-http://dmi3y-tv.ru/hls/CH_EXTREMESPORTS.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (-1)
+##EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE-1.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
@@ -1013,32 +957,18 @@ http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE
 http://dmi3y-tv.ru/hls/okko/CH_ViPPREMIERE.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE HD
-http://dmi3y-tv.ru/hls/okko/CH_ViPPREMIEREHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP MEGAHIT
 http://dmi3y-tv.ru/hls/okko/CH_ViPMEGAHIT.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP MEGAHIT HD
-http://dmi3y-tv.ru/hls/okko/CH_ViPMEGAHITHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP COMEDY
 http://dmi3y-tv.ru/hls/okko/CH_ViPCOMEDY.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP COMEDY HD
-http://dmi3y-tv.ru/hls/okko/CH_ViPCOMEDYHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP SERIAL
 http://dmi3y-tv.ru/hls/okko/CH_ViPSERIAL.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP SERIAL HD
-http://dmi3y-tv.ru/hls/okko/CH_ViPSERIALHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000
 http://dmi3y-tv.ru/hls/okko/CH_TV1000.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 HD
-http://dmi3y-tv.ru/hls/okko/CH_TV1000HD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 ACTION
 http://dmi3y-tv.ru/hls/okko/CH_TV1000ACTION.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 ACTION HD
-http://dmi3y-tv.ru/hls/okko/CH_TV1000ACTIONHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 РУССКОЕ КИНО
 http://dmi3y-tv.ru/hls/okko/CH_TV1000RUSSKOEKINO.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 РУССКОЕ КИНО HD
-http://dmi3y-tv.ru/hls/okko/CH_TV1000RUSSKOEKINOHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Точка SCI-FI
 http://dmi3y-tv.ru/hls/okko/CH_SCI-FI.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Точка BLACK
@@ -1047,20 +977,10 @@ http://dmi3y-tv.ru/hls/okko/CH_BLACK.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_RED.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA I
 http://dmi3y-tv.ru/hls/okko/CH_AMEDIAI.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA I HD
-http://dmi3y-tv.ru/hls/okko/CH_AMEDIAIHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA II
 http://dmi3y-tv.ru/hls/okko/CH_AMEDIAII.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA II HD
-http://dmi3y-tv.ru/hls/okko/CH_AMEDIAIIHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA HIT
 http://dmi3y-tv.ru/hls/okko/CH_AMEDIAHIT.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA HIT HD
-http://dmi3y-tv.ru/hls/okko/CH_AMEDIAHITHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA PREMIUM
-http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUM.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA PREMIUM HD
-http://dmi3y-tv.ru/hls/CH_AMEDIAPREMIUMHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA PREMIUM HD (auto)
 http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV DARK HD
