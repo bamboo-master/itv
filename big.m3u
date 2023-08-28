@@ -1319,46 +1319,8 @@ http://dmi3y-tv.ru/hls/CH_TOCHKAOTRYVA.m3u8
 http://dmi3y-tv.ru/hls/CH_NIKITVHD720.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",7tv
 http://dmi3y-tv.ru/hls/CH_7TV.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",LIFE TV [RUS]
-http://dmi3y-tv.ru/hls/CH_LIFETV_RUS.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",LIFE TV [RUS/EST]
-http://dmi3y-tv.ru/hls/CH_LIFETV_RUSEST.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Живи!
-http://dmi3y-tv.ru/hls/CH_ZHIVI.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Живи активно
-http://dmi3y-tv.ru/hls/CH_ZHIVIAKTIVNO.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Живи активно HD
-http://dmi3y-tv.ru/hls/CH_ZHIVIAKTIVNOHD.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",КВН
-http://dmi3y-tv.ru/hls/CH_KBH.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Открытый мир
-http://dmi3y-tv.ru/hls/CH_OTKRYTY_MIR.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Первый вегетарианский
-http://dmi3y-tv.ru/hls/CH_1VEGETARIANSKIY.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Светлое ТВ
-http://dmi3y-tv.ru/hls/CH_SVETLOETV.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Светлое ТВ HD
-http://dmi3y-tv.ru/hls/CH_SVETLOETVHD.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Тайна
-http://dmi3y-tv.ru/hls/CH_TAYNA.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Телепутешествия
-http://dmi3y-tv.ru/hls/CH_TELEPUTESHESTVIYA.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Точка ТВ
-http://dmi3y-tv.ru/hls/CH_TOCHKATV.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",WM
-http://dmi3y-tv.ru/hls/CH_WM.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",WM HD
-http://dmi3y-tv.ru/hls/CH_WMHD.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",HDL
-http://dmi3y-tv.ru/hls/CH_HDL.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",HDL HD
 http://dmi3y-tv.ru/hls/CH_HDLHD.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",JOY COOK HD720
-http://dmi3y-tv.ru/hls/CH_JOYCOOKHD720.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",БСТ
-http://dmi3y-tv.ru/hls/CH_BST.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Ключ
-http://dmi3y-tv.ru/hls/CH_KLUCH.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",NANO
 http://dmi3y-tv.ru/hls/okko/CH_NANO.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ПРОДВИЖЕНИЕ
