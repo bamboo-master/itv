@@ -1873,8 +1873,6 @@ http://dmi3y-tv.ru/hls/blrus/CH_BELARUS4HD720_VIT.m3u8
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 24 HD (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",СТВ HD720 (Беларусь)
-http://dmi3y-tv.ru/hls/blrus/CH_STVHD720_BLRUS.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",СТВ HD (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_STVHD_BLRUS.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
