@@ -1801,10 +1801,6 @@ http://dmi3y-tv.ru/hls/CH_BLAGOSFERAHD.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_IZRU.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Известия HD
 http://dmi3y-tv.ru/hls/okko/CH_IZRUHD.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",78 канал
-http://dmi3y-tv.ru/hls/CH_78TV.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",78 канал HD (auto)
-http://live-mpd-okkotv.cdnvideo.ru/okkotv/okkotv-srt/manifest.mpd
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Большая Азия
 http://dmi3y-tv.ru/hls/CH_BASIYA.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 24 (Беларусь)
