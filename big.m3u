@@ -899,8 +899,6 @@ http://dmi3y-tv.ru/hls/region/CH_ARKHIZ24_CHERKS.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/CHERKS/CH_ARKHIZ24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Архыз 24 Light HD (Черкесия)
 http://dmi3y-tv.ru/hls/zabava/region/CHERKS/CH_ARKHIZ24LITEHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Чехов ТВ HD720 (Чехов)
-http://dmi3y-tv.ru/hls/region/CH_CHEKHOVTVHD720_CHEV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РТК Забайкалье (Чита)
 http://dmi3y-tv.ru/hls/region/CH_RTKZAB_CHITA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РТК Забайкалье HD (Чита)
@@ -909,16 +907,12 @@ http://dmi3y-tv.ru/hls/zabava/region/CHITA/CH_RTKZABHD.m3u8
 http://dmi3y-tv.ru/hls/region/CH_SHELKOVSKOETV_SHKV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НВК Саха HD (Якутск)
 http://dmi3y-tv.ru/hls/zabava/region/DV_YKT/CH_NVCHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Якутия 24 (Якутск)
-http://dmi3y-tv.ru/hls/zabava/region/DV_YKT/CH_YAKT24.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Якутия 24 HD (Якутск)
 http://dmi3y-tv.ru/hls/region/CH_YAKT24HD_DV_YKT.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мамонт (Якутск)
 http://dmi3y-tv.ru/hls/zabava/region/DV_YKT/CH_MAMONT.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Ярославский (Ярославль)
 http://dmi3y-tv.ru/hls/region/CH_1YAROSLAVSKIY_YARL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Ярославский HD (Ярославль)
-http://dmi3y-tv.ru/hls/zabava/region/YARL/CH_1YAROSLAVSKIYHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ГТ-Регион (Ярославль)
 http://dmi3y-tv.ru/hls/zabava/region/YARL/CH_GTREG.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Симферополь 24 HD (Крым)
@@ -997,20 +991,6 @@ http://dmi3y-tv.ru/hls/okko/CH_FENIKSPLUSKINO.m3u8
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Мелодрамы (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НАШЕ НОВОЕ КИНО
-http://dmi3y-tv.ru/hls/CH_NASHENOVOEKINO.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМИКС
-http://dmi3y-tv.ru/hls/CH_KINOMIKS.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОКОМЕДИЯ
-http://dmi3y-tv.ru/hls/CH_KINOKOMEDIYA.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Родной канал
-http://dmi3y-tv.ru/hls/CH_RODNOYKANAL.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Родной канал HD720
-http://dmi3y-tv.ru/hls/CH_RODNOYKANALHD720.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Точка отрыва
-http://dmi3y-tv.ru/hls/CH_TOCHKAOTRYVA.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",HDL HD
-http://dmi3y-tv.ru/hls/CH_HDLHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",NANO
 http://dmi3y-tv.ru/hls/okko/CH_NANO.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ПРОДВИЖЕНИЕ
