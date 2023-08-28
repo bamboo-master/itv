@@ -1867,10 +1867,6 @@ http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KUHD.m3u8
 http://dmi3y-tv.ru/hls/CH_GLAZAMITURISTA4KHD.m3u8
 #EXTINF:-1 group-title="4К (UltraHD)",Глазами туриста 4K UHD
 http://dmi3y-tv.ru/hls/CH_GLAZAMITURISTA4KUHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",NASA 4K HD
-http://dmi3y-tv.ru/hls/CH_NASA4KHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",NASA 4K UHD
-http://dmi3y-tv.ru/hls/CH_NASA4KUHD.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 4 HD720 (Витебск)
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS4HD720_VIT.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 24 (Беларусь)
@@ -1881,8 +1877,6 @@ http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
 http://dmi3y-tv.ru/hls/blrus/CH_STVHD720_BLRUS.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",СТВ HD (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_STVHD_BLRUS.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Витебск HD720 (Витебск)
-http://dmi3y-tv.ru/hls/blrus/CH_VITEBSKHD720_VIT.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS_BLRUS.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",ОНТ (Беларусь)
