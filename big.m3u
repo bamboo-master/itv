@@ -1069,12 +1069,8 @@ http://dmi3y-tv.ru/hls/CH_BACKUSTVDARKHD.m3u8
 http://dmi3y-tv.ru/hls/CH_BACKUSTVORIGINALHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",START AIR
 http://dmi3y-tv.ru/hls/okko/CH_STARTAIR.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",START AIR HD
-http://dmi3y-tv.ru/hls/okko/CH_STARTAIRHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",START WORLD
 http://dmi3y-tv.ru/hls/okko/CH_STARTWORLD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",START WORLD HD
-http://dmi3y-tv.ru/hls/okko/CH_STARTWORLDHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СЕРИАЛ
@@ -1083,32 +1079,16 @@ http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ХИТ
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ХИТ HD
-http://dmi3y-tv.ru/hls/CH_NTVHITHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНЕКО
-http://dmi3y-tv.ru/hls/okko/CH_FOX.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНЕКО HD
-http://dmi3y-tv.ru/hls/okko/CH_FOXHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",САПФИР
 http://dmi3y-tv.ru/hls/okko/CH_FOXLIFE.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",САПФИР HD
-http://dmi3y-tv.ru/hls/okko/CH_FOXLIFEHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",FILM BOX
 http://dmi3y-tv.ru/hls/CH_FILMBOX.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",FILM BOX ARTHOUSE
 http://dmi3y-tv.ru/hls/CH_FILMBOX_ARTHOUSE.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",FILM BOX ARTHOUSE HD
-http://dmi3y-tv.ru/hls/CH_FILMBOX_ARTHOUSEHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Выборг ТВ
 http://dmi3y-tv.ru/hls/CH_WTV.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Выборг ТВ HD720
-http://dmi3y-tv.ru/hls/CH_WTVHD720.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Выборг ТВ HD
-http://dmi3y-tv.ru/hls/CH_WTVHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BOLT
 http://dmi3y-tv.ru/hls/okko/CH_BOLT.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BOLT HD
-http://dmi3y-tv.ru/hls/okko/CH_BOLTHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",STAR CINEMA
 http://dmi3y-tv.ru/hls/okko/CH_STARCINEMA.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",STAR CINEMA HD
@@ -1119,36 +1099,14 @@ http://dmi3y-tv.ru/hls/okko/CH_STARFAMILY.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_STARFAMILYHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Феникс+Кино
 http://dmi3y-tv.ru/hls/okko/CH_FENIKSPLUSKINO.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Феникс+Кино HD
-http://dmi3y-tv.ru/hls/okko/CH_FENIKSPLUSKINOHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино и сериалы (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино и сериалы HD (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Мелодрамы (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Мелодрамы HD (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMYHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ДОРАМА
-http://dmi3y-tv.ru/hls/okko/CH_DORAMA.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ДОРАМА HD
-http://dmi3y-tv.ru/hls/okko/CH_DORAMAHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Индия
-http://dmi3y-tv.ru/hls/CH_INDIYA.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ИНДИЙСКОЕ КИНО
-http://dmi3y-tv.ru/hls/CH_INDIYSKOEKINO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НАШЕ НОВОЕ КИНО
 http://dmi3y-tv.ru/hls/CH_NASHENOVOEKINO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМИКС
 http://dmi3y-tv.ru/hls/CH_KINOMIKS.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОСЕРИЯ
-http://dmi3y-tv.ru/hls/CH_KINOSERIYA.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОСЕМЬЯ
-http://dmi3y-tv.ru/hls/CH_KINOSEMYA.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОСВИДАНИЕ
-http://dmi3y-tv.ru/hls/CH_KINOSVIDANIE.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОХИТ
-http://dmi3y-tv.ru/hls/CH_KINOHIT.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОКОМЕДИЯ
 http://dmi3y-tv.ru/hls/CH_KINOKOMEDIYA.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Родной канал
