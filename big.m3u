@@ -141,18 +141,13 @@ http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_KATUN24.m3u8
 https://tvbelgorod.ru:90/mirbelogorya/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Белгород 24 (Белгород)
 http://dmi3y-tv.ru/hls/zabava/region/BELG/CH_BELGOROD24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Бийское ТВ HD (Бийск)
-http://dmi3y-tv.ru/hls/zabava/region/BIYSK/CH_BIYSKTVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Арис 24 HD720 (Башкортостан)
-http://dmi3y-tv.ru/hls/region/CH_ARIS24HD720_BSHN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Амурское Областное Телевидение (Благовещенск)
 http://dmi3y-tv.ru/hls/zabava/region/DV_BLAG/CH_AOTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Город 24 (Благовещенск)
 http://dmi3y-tv.ru/hls/zabava/region/DV_BLAG/CH_GOROD24.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тында ТВ (Тында)
 http://dmi3y-tv.ru/hls/zabava/region/DV_BLAG/CH_TYNDATV_TYNDA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",БСТ-24 HD (Братск)
-http://dmi3y-tv.ru/hls/zabava/region/BRATSK/CH_BST24HD.m3u8
+
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",360 (Братск)
 http://dmi3y-tv.ru/hls/zabava/region/BRATSK/CH_360_BRATSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Актис HD720 (Ангарск)
@@ -173,8 +168,6 @@ http://dmi3y-tv.ru/hls/smotrim/region/CH_VOSTOK24HD_DV_VLD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/DV_VLD/CH_TELEMIKS.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вариант V (Владимир)
 http://dmi3y-tv.ru/hls/zabava/region/VLAD/CH_VARIANT_V.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",6 канал HD (Владимир)
-http://dmi3y-tv.ru/hls/zabava/region/VLAD/CH_6KANALHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волгоград 1 HD (Волгоград)
 http://dmi3y-tv.ru/hls/zabava/region/VGRAD/CH_VOLGOGRAD1HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волгоград 24 (Волгоград)
@@ -212,6 +205,8 @@ http://dmi3y-tv.ru/hls/zabava/region/YOLA/CH_METR.m3u8
 http://dmi3y-tv.ru/hls/region/CH_BAYKALUNIVERTVHD_IRK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ника ТВ (Калуга)
 http://dmi3y-tv.ru/hls/zabava/region/KALUGA/CH_NIKA.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Арис 24 HD720 (Башкортостан)
+http://dmi3y-tv.ru/hls/region/CH_ARIS24HD720_BSHN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Камчатка 1 HD (Камчатка)
 http://dmi3y-tv.ru/hls/zabava/region/DV_KAM/CH_KAMCHATKA1HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",41 Регион (Камчатка)
@@ -226,6 +221,8 @@ http://dmi3y-tv.ru/hls/zabava/region/KRSK/CH_ENISEYHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/KRSK/CH_AFONTOVOHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",7 канал HD (Красноярск)
 http://dmi3y-tv.ru/hls/zabava/region/KRSK/CH_7CHANNELHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВК 24 HD (Красноярск)
+http://dmi3y-tv.ru/hls/zabava/region/KRSK/CH_TVK24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Область 45 HD720 (Курган)
 http://dmi3y-tv.ru/hls/zabava/region/KRG/CH_OBLAST45HD720.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сейм (Курск)
@@ -238,8 +235,6 @@ http://dmi3y-tv.ru/hls/region/CH_OVAAHD720_TYVA.m3u8
 http://dmi3y-tv.ru/hls/region/CH_TVAIST_LD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Липецкое время HD720 (Липецк)
 http://dmi3y-tv.ru/hls/region/CH_LVREMYAHD720_LIPETSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Липецкое время HD (Липецк)
-http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_LVREMYAHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ВОТ ТВ HD (Липецк)
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_VOTTVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Липецк Тайм HD (Липецк)
@@ -256,44 +251,24 @@ http://dmi3y-tv.ru/hls/region/CH_KRIKTV_DV_MGDN.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РГВК Дагестан (Махачкала)
 http://dmi3y-tv.ru/hls/region/CH_DAGESTAN_MAHACHK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РГВК Дагестан HD (Махачкала)
-http://dmi3y-tv.ru/hls/zabava/region/MAHACHK/CH_DAGESTAN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Москва 24 (Москва)
 http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVA24.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Москва Доверие (Москва)
 http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТЕО ТВ HD (Москва)
 http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_TEOTVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мособр ТВ HD720 (Москва)
-http://dmi3y-tv.ru/hls/region/CH_MOSOBRTVHD720_MOS.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кабардино-Балкария HD (Нальчик)
-http://dmi3y-tv.ru/hls/zabava/region/NALCH/CH_KBR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Север (Нарьян-Мар)
 http://dmi3y-tv.ru/hls/region/CH_SEVER_NAO.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Север HD (Нарьян-Мар)
 http://dmi3y-tv.ru/hls/zabava/region/NAO/CH_SEVER.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волга (Нижний Новгород)
-http://dmi3y-tv.ru/hls/zabava/region/NN/CH_VOLGA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волга HD (Нижний Новгород)
 http://dmi3y-tv.ru/hls/region/CH_VOLGAHD_NN.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волга 24 HD720 (Нижний Новгород)
-http://dmi3y-tv.ru/hls/zabava/region/NN/CH_VOLGA24HD720.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ННТВ HD720 (Нижний Новгород)
 http://dmi3y-tv.ru/hls/zabava/region/NN/CH_NNTVHD720.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Нижний Новгород 24 (Нижний Новгород)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_NN24_NN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Нижний Новгород 24 HD (Нижний Новгород)
 http://dmi3y-tv.ru/hls/smotrim/region/CH_NN24HD_NN.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТРК Канал-16 (Саров)
-http://dmi3y-tv.ru/hls/zabava/region/NN/CH_KANAL16_SAROV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Дзержинск ТВ HD (Дзержинск)
-http://dmi3y-tv.ru/hls/zabava/region/NN/CH_DZERZHINSKHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Эхо ТВ 24 (Новоуральск)
-http://dmi3y-tv.ru/hls/region/CH_ECHOTV24_NURLSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тагил-ТВ (Нижний Тагил)
 http://dmi3y-tv.ru/hls/zabava/region/NTAG/CH_TAGILTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",10 канал (Новокузнецк)
-http://dmi3y-tv.ru/hls/zabava/region/NVKZ/CH_DESYATKA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Про жизнь HD (Новокузнецк)
 http://dmi3y-tv.ru/hls/zabava/region/NVKZ/CH_PROZHIZNHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новороссийск HD (Новороссийск)
@@ -302,30 +277,18 @@ http://dmi3y-tv.ru/hls/zabava/region/NVR/CH_NOVOROSSIYSKHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/NSK/CH_OTSHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НСК 49 канал (Новосибирск)
 http://dmi3y-tv.ru/hls/region/CH_NSK49CHANNEL_NSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НСК 49 канал HD (Новосибирск)
-http://dmi3y-tv.ru/hls/zabava/region/NSK/CH_NSK49CHANNELHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",8 канал (Новосибирск)
-http://dmi3y-tv.ru/hls/zabava/region/NSK/CH_8CHANNEL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сибирь 24 (Новосибирск)
 http://dmi3y-tv.ru/hls/smotrim/region/CH_SIBIR24_NSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сибирь 24 HD (Новосибирск)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_SIBIR24HD_NSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ямал-Регион (Салехард)
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_YAMREG.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ямал-Регион HD (Салехард)
-http://dmi3y-tv.ru/hls/region/CH_YAMREGHD_NBK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МИГ ТВ HD (Ноябрьск)
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_MIGTVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",БСТ (Ноябрьск)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_BST.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Импульс HD (Новый Уренгой)
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_IMPULSHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Муравленко 24 HD (Муравленко)
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_MURAVLENKO24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЯМАЛ 1 HD (Ноябрьск)
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_YAMAL1HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вектор 24 (Губкинский)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_VEKTOR24_GUBK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сигма ТВ HD (Новый Уренгой)
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_SIGMATVHD_NURNGOY.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вестник Надыма HD (Надым)
@@ -334,30 +297,16 @@ http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_VESTN_NADHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_LUTCHHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",12 Канал (Омск)
 http://dmi3y-tv.ru/hls/region/CH_12CHANNEL_OMSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",12 канал HD (Омск)
-http://dmi3y-tv.ru/hls/zabava/region/OMSK/CH_12CHANNELHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый городской (Омск)
-http://dmi3y-tv.ru/hls/zabava/region/OMSK/CH_1GORODSKOY.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Продвижение HD (Омск)
 http://dmi3y-tv.ru/hls/zabava/region/OMSK/CH_PRODVIZHENIEHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Омск ТВ HD (Омск)
-http://dmi3y-tv.ru/hls/zabava/region/OMSK/CH_OMSKTVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый областной (Орел)
 http://dmi3y-tv.ru/hls/zabava/region/ORL/CH_1OBLASTNOY.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Истоки (Орел)
-http://dmi3y-tv.ru/hls/zabava/region/ORL/CH_ISTOKI.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Орт Планета (Оренбург)
 http://dmi3y-tv.ru/hls/zabava/region/ORB/CH_ORTPLANETA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Евразия HD720 (Оренбург)
 http://dmi3y-tv.ru/hls/region/CH_EVRAZIYAHD720_ORB.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Евразия HD (Оренбург)
-http://dmi3y-tv.ru/hls/zabava/region/ORB/CH_EVRAZIYAHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Экспресс HD (Пенза)
 http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Наш дом (Пенза)
-http://dmi3y-tv.ru/hls/region/CH_NASHDOM_PENZA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Наш дом HD (Пенза)
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_NASHDOMHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ветта-24 (Пермь)
 http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_VETTA24.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Объектив 59 HD (Пермь)
@@ -368,16 +317,10 @@ http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_RIFEY.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_SVOETV_BRZKI.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Верх ТВ (Березники)
 http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_VERHTV_BRZKI.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РБК (Пермь)
-http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_RBC.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЛТК HD (Лысьва)
-http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_LTKHD_LSVA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СОЮЗ ТВ (Чусовой)
 http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_SOYUZ_CHUS.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Раменское ТВ (Раменское)
 http://dmi3y-tv.ru/hls/region/CH_RTV_RNKOE.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Раменское ТВ HD720 (Раменское)
-http://dmi3y-tv.ru/hls/region/CH_RTVHD720_RNKOE.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Ростовский (Ростов на Дону)
 http://dmi3y-tv.ru/hls/region/CH_1ROSTOVSKIY_RD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Ростовский HD (Ростов на Дону)
