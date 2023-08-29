@@ -421,7 +421,7 @@ http://80.94.225.126:8080/STV/mono.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS_BLRUS.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY] ,Беларусь 1
-http://37.17.12.124:8901/play/a003
+http://86.57.178.105:8421/bel1
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY],Беларусь 4 HD Витебск
 https://flu.vtv.by/bt4-non-by/index.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY], Витебск HD
