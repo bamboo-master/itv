@@ -420,8 +420,8 @@ http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
 http://dmi3y-tv.ru/hls/blrus/CH_STVHD_BLRUS.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS_BLRUS.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ [BY] ,Беларусь 1 (Mogilev)
-http://82.209.197.187:8080/udp/239.0.100.1:1234
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY] ,Беларусь 1
+http://37.17.12.124:8901/play/a003
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",ОНТ (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_ONT_BLRUS.m3u8
 
