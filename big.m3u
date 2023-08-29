@@ -93,44 +93,24 @@ http://dmi3y-tv.ru/hls/okko/CH_ViPMEGAHIT.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_ViPCOMEDY.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP SERIAL
 http://dmi3y-tv.ru/hls/okko/CH_ViPSERIAL.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000
-http://dmi3y-tv.ru/hls/okko/CH_TV1000.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 ACTION
 http://dmi3y-tv.ru/hls/okko/CH_TV1000ACTION.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Точка SCI-FI
-http://dmi3y-tv.ru/hls/okko/CH_SCI-FI.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Точка BLACK
-http://dmi3y-tv.ru/hls/okko/CH_BLACK.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Точка RED
-http://dmi3y-tv.ru/hls/okko/CH_RED.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA I
 http://dmi3y-tv.ru/hls/okko/CH_AMEDIAI.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA II
 http://dmi3y-tv.ru/hls/okko/CH_AMEDIAII.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA HIT
 http://dmi3y-tv.ru/hls/okko/CH_AMEDIAHIT.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV DARK HD
-http://dmi3y-tv.ru/hls/CH_BACKUSTVDARKHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV ORIGINAL HD
-http://dmi3y-tv.ru/hls/CH_BACKUSTVORIGINALHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",START AIR
 http://dmi3y-tv.ru/hls/okko/CH_STARTAIR.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",START WORLD
 http://dmi3y-tv.ru/hls/okko/CH_STARTWORLD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",САПФИР
-http://dmi3y-tv.ru/hls/okko/CH_FOXLIFE.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BOLT
-http://dmi3y-tv.ru/hls/okko/CH_BOLT.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",STAR CINEMA
 http://dmi3y-tv.ru/hls/okko/CH_STARCINEMA.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",STAR CINEMA HD
-http://dmi3y-tv.ru/hls/okko/CH_STARCINEMAHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",STAR FAMILY
 http://dmi3y-tv.ru/hls/okko/CH_STARFAMILY.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",STAR FAMILY HD
-http://dmi3y-tv.ru/hls/okko/CH_STARFAMILYHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино и сериалы (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BOLT
+http://dmi3y-tv.ru/hls/okko/CH_BOLT.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Мелодрамы (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Теледом HD720 (Санкт-Петербург)
