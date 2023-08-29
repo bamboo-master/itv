@@ -416,12 +416,16 @@ http://dmi3y-tv.ru/hls/region/CH_TVPOISK_KLIN.m3u8
 http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",1-вый Национальный канал HD720
 http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",СТВ HD (Беларусь)
-http://dmi3y-tv.ru/hls/blrus/CH_STVHD_BLRUS.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",СТВ (Беларусь)
+http://80.94.225.126:8080/STV/mono.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS_BLRUS.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY] ,Беларусь 1
 http://37.17.12.124:8901/play/a003
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY],Беларусь 4 HD Витебск
+https://flu.vtv.by/bt4-non-by/index.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY], Витебск HD
+https://flu.vtv.by/tvt-non-by/index.m3u8#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",ОНТ (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_ONT_BLRUS.m3u8
 
