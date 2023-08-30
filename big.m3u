@@ -7,6 +7,10 @@ http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ПРАВО
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Кухня ТВ
+http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Еда ТВ
+https://ip2.tvua.biz:1443/198/index.m3u8?wmsAuthSign=1693418423p631i212i42i59S83d4d63abfefcbf4O964ae43d1e5733c
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+1)
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
@@ -85,6 +89,20 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE-1.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ" ,СТС Love (+4)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",  Русский бестселлер
+https://ip2.tvua.biz:1443/135/index.m3u8?wmsAuthSign=1693417559p631i212i42i59Sf410eb481bab24O41c264d0b485ce2c2
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",  Русский роман
+https://ip1.tvua.biz:1443/556/index.m3u8?wmsAuthSign=1693418632p631i212i42i59S5e50609104ab4166O80d95006b07c348
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Мир сериала
+https://ip4.tvua.biz:1443/589/index.m3u8?wmsAuthSign=1693417784p631i212i42i59Saca100ac8O9e6563724ecbe496e72aaf
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Наше крутое
+https://ip1.tvua.biz:1443/171/index.m3u8?wmsAuthSign=1693417656p631i212i42i59Sbb18902459efO79a73ae377e9a3ca003
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Наш Кинороман 
+https://ip1.tvua.biz:1443/172/index.m3u8?wmsAuthSign=1693417905p631i212i42i59S35fdb7210a793O0b16e3fd7f866ced20
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Дом кино Премиум
+https://ip2.tvua.biz:1443/187/index.m3u8?wmsAuthSign=1693418871p631i212i42i59S7a34f623d9d63O3558ecddd67d9669d8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Наше любимое кино
+https://ip4.tvua.biz:1443/534/index.m3u8?wmsAuthSign=1693418957p631i212i42i59Sbf93b3363cd486bO76eb5157676bb4ed
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE
 http://dmi3y-tv.ru/hls/okko/CH_ViPPREMIERE.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP MEGAHIT
@@ -398,8 +416,6 @@ http://dmi3y-tv.ru/hls/smotrim/region/CH_ZAPAD24_KLGR.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_NORDTV_NVDSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВ ПОИСК (Клин)
 http://dmi3y-tv.ru/hls/region/CH_TVPOISK_KLIN.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Кухня ТВ
-http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",1-вый Национальный канал HD720
 http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",СТВ (Беларусь)
@@ -410,14 +426,6 @@ http://dmi3y-tv.ru/hls/blrus/CH_BELROS_BLRUS.m3u8
 http://46.29.235.97:8081/2023/belarus-1-channel/chunks.m3u8?nimblesessionid=27392&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIzIDEyOjMxOjQwIFBNJmhhc2hfdmFsdWU9dlkwMjdjNVQ0NTJaM29iMlE4QzFhdz09JnZhbGlkbWludXRlcz0yNQ==
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY] ,Беларусь 2
 https://ip4.tvua.biz:1443/558/index.m3u8?wmsAuthSign=1693417423p631i212i42i59S9443b8a1cde3e0de7bb20c302ed98bbc
-
-#EXTINF:-1 group-title="БЕЛАРУСЬ [BY] ,Беларусь 5
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY] ,Беларусь 3
+#EXTINF:-1 group-title="БЕЛАhttps://ip4.tvua.biz:1443/559/index.m3u8?wmsAuthSign=1693419235p631i212i42i59S59e98ee7b8f794914bO300ec1a169b3bРУСЬ [BY] ,Беларусь 5
 https://cdn-cache01.voka.tv/live/9-req_offset_28000000-req_window_0-4k_v5.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",  Русский бестселлер
-https://ip2.tvua.biz:1443/135/index.m3u8?wmsAuthSign=1693417559p631i212i42i59Sf410eb481bab24O41c264d0b485ce2c2
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Мир сериала
-https://ip4.tvua.biz:1443/589/index.m3u8?wmsAuthSign=1693417784p631i212i42i59Saca100ac8O9e6563724ecbe496e72aaf
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Наше крутое
-https://ip1.tvua.biz:1443/171/index.m3u8?wmsAuthSign=1693417656p631i212i42i59Sbb18902459efO79a73ae377e9a3ca003
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Наш Кинороман 
-https://ip1.tvua.biz:1443/172/index.m3u8?wmsAuthSign=1693417905p631i212i42i59S35fdb7210a793O0b16e3fd7f866ced20
