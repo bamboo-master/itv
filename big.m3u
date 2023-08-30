@@ -428,5 +428,7 @@ http://46.29.235.97:8081/2023/belarus-1-channel/chunks.m3u8?nimblesessionid=2739
 https://ip4.tvua.biz:1443/558/index.m3u8?wmsAuthSign=1693417423p631i212i42i59S9443b8a1cde3e0de7bb20c302ed98bbc
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY] ,Беларусь 3
 https://ip4.tvua.biz:1443/559/index.m3u8?wmsAuthSign=1693419235p631i212i42i59S59e98ee7b8f794914bO300ec1a169b3b
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY] ,Беларусь 4
+https://flu.vtv.by/bt4-non-by/index.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY] ,Беларусь 5
 https://cdn-cache01.voka.tv/live/9-req_offset_28000000-req_window_0-4k_v5.m3u8
