@@ -419,7 +419,7 @@ http://dmi3y-tv.ru/hls/region/CH_TVPOISK_KLIN.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",1-вый Национальный канал HD720
 http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",СТВ (Беларусь)
-https://edge55.dc.beltelecom.by/ctv/_definst_/ctv.stream/chunklist_w1513762704.m3u8
+http://80.94.225.126:8080/STV/mono.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS_BLRUS.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY] ,Беларусь 1
