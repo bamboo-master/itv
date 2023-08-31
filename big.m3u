@@ -418,7 +418,5 @@ http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
 http://dmi3y-tv.ru/hls/blrus/CH_STVHD720_BLRUS.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS_BLRUS.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ [BY] ,Беларусь 4
-https://flu.vtv.by/bt4-non-by/index.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY] ,Беларусь 5
 https://cdn-cache01.voka.tv/live/9-req_offset_28000000-req_window_0-4k_v5.m3u8
