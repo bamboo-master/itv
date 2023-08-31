@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Каналы от Dmitry-tv",D-TV6
-http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
-#EXTINF:-1 group-title="Каналы от Dmitry-tv",Dmitry-tv HD
-http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал SD
 http://dmi3y-tv.ru/hls/okko/48/CH_1TVSD.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 SD
@@ -175,7 +171,4 @@ http://dmi3y-tv.ru/hls/okko/48/CH_IZRU.m3u8
 http://dmi3y-tv.ru/hls/okko/48/CH_360TV_NEWS.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",МИР 24
 http://dmi3y-tv.ru/hls/okko/48/CH_MIR24.m3u8
-#EXTINF:-1 group-title="ТЕЛЕМАГАЗИНЫ",Ювелирочка ТВ
-http://dmi3y-tv.ru/hls/okko/48/CH_YUVELIROCHKATV.m3u8
-#EXTINF:-1 group-title="КАНАЛЫ О МОДЕ",Fashion TV
-http://dmi3y-tv.ru/hls/okko/48/CH_FASHIONTV.m3u8
+
