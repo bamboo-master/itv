@@ -94,19 +94,11 @@ http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE-1.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ" ,СТС Love (+4)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",  Русский бестселлер
-http://50.7.120.164:8081/rys_bes/index.m3u8?wmsAuthSign=1022449c4e13d8c5d2824c50eb6ea24b-1693489630-631i212i42i59
+http://50.7.120.164:8081/rys_bes/index.m3u8?wmsAuthSign=e5c5ee008ba83f7dd8bfc6951730531a-1693529336-631i212i42i59
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",  Русский роман
 http://46.151.151.245:10002/play/a0b3
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Мир сериала
-http://50.7.120.164:8081/mirseriala/index.m3u8?wmsAuthSign=c2f6936d0376837a91cbbcca49ddf261-1693489807-631i212i42i59
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Наше крутое
-http://50.7.120.164:8081/semeinoe/index.m3u8?wmsAuthSign=95ce563bc907685af58b94e3ca9d0f8e-1693489724-631i212i42i59
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Наш Кинороман 
-http://50.7.120.164:8081/nashe/index.m3u8?wmsAuthSign=1fe8c55474b542e50e5478e70c329486-1693489851-631i212i42i59
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Дом кино Премиум
-http://50.7.120.164:8081/dom_prem/index.m3u8?wmsAuthSign=1d74030e15b1601490ae53b79e3b1c5d-1693490034-631i212i42i59
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Наш Кинороман 
-http://50.7.120.164:8081/nashe/index.m3u8?wmsAuthSign=1fe8c55474b542e50e5478e70c329486-1693489851-631i212i42i59
+http://50.7.120.164:8081/mirseriala/index.m3u8?wmsAuthSign=2ea6885f961b647dc145ec6536e50646-1693529269-631i212i42i59
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Кино 1 International 
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE
