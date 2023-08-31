@@ -1,4 +1,181 @@
 #EXTM3U
-#EXTINF:-1,Беларусь 5
-http://82.209.197.187:8080/udp/239.0.100.9:1234
-
+#EXTINF:-1 group-title="Каналы от Dmitry-tv",D-TV6
+http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
+#EXTINF:-1 group-title="Каналы от Dmitry-tv",Dmitry-tv HD
+http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал SD
+http://dmi3y-tv.ru/hls/okko/48/CH_1TVSD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 SD
+http://dmi3y-tv.ru/hls/okko/48/CH_RUSSIA1SD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Матч!
+http://dmi3y-tv.ru/hls/okko/48/CH_MATCHTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ SD
+http://dmi3y-tv.ru/hls/48/CH_NTVSD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
+http://dmi3y-tv.ru/hls/48/CH_NTV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+4)
+http://dmi3y-tv.ru/hls/48/CH_NTV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+7)
+http://dmi3y-tv.ru/hls/48/CH_NTV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
+http://dmi3y-tv.ru/hls/okko/48/CH_5TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К
+http://dmi3y-tv.ru/hls/okko/48/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmi3y-tv.ru/hls/okko/48/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ SD
+http://dmi3y-tv.ru/hls/okko/48/CH_RENTVSD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС
+http://dmi3y-tv.ru/hls/okko/48/CH_SPAS.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
+http://dmi3y-tv.ru/hls/okko/48/CH_STS.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний
+http://dmi3y-tv.ru/hls/okko/48/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
+http://dmi3y-tv.ru/hls/okko/48/CH_TV3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! SD
+http://dmi3y-tv.ru/hls/okko/48/CH_FRIDAYSD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
+http://dmi3y-tv.ru/hls/okko/48/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР
+http://dmi3y-tv.ru/hls/okko/48/CH_MIR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
+http://dmi3y-tv.ru/hls/okko/48/CH_TNT.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
+http://dmi3y-tv.ru/hls/okko/48/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Че!
+http://dmi3y-tv.ru/hls/okko/48/CH_CHE.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю
+http://dmi3y-tv.ru/hls/okko/48/CH_U.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! СТРАНА
+http://bl.uma.media/live/291663/HLS/4614144_1/2/1/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 1
+http://bl.uma.media/live/126863/HLS/6866944_1/2/1/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 2
+http://bl.uma.media/live/126864/HLS/6866944_1/2/1/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 3
+http://bl.uma.media/live/126865/HLS/6866944_1/2/1/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ПРЕМЬЕР
+http://bl.uma.media/live/126866/HLS/6866944_1/2/1/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! АРЕНА
+http://bl.uma.media/live/126868/HLS/6866944_1/2/1/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ПЛАНЕТА
+http://bl.uma.media/live/126869/HLS/6866944_1/2/1/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",Viasat Sport
+http://dmi3y-tv.ru/hls/okko/48/CH_VIASATSPORT.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",Конный мир
+http://bl.uma.media/live/400930/HLS/4614144_1/2/1/playlist.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",Старт
+http://dmi3y-tv.ru/hls/okko/48/CH_START.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",Старт ТРИУМФ
+http://dmi3y-tv.ru/hls/okko/48/CH_START_TRIUMF.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",KHL
+http://dmi3y-tv.ru/hls/okko/48/CH_KHL.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",KHL PRIME
+http://dmi3y-tv.ru/hls/okko/48/CH_KHLPRIME.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love
+http://dmi3y-tv.ru/hls/okko/48/CH_STSLOVE.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE
+http://dmi3y-tv.ru/hls/okko/48/CH_ViPPREMIERE.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP MEGAHIT
+http://dmi3y-tv.ru/hls/okko/48/CH_ViPMEGAHIT.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP COMEDY
+http://dmi3y-tv.ru/hls/okko/48/CH_ViPCOMEDY.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP SERIAL
+http://dmi3y-tv.ru/hls/okko/48/CH_ViPSERIAL.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000
+http://dmi3y-tv.ru/hls/okko/48/CH_TV1000.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 ACTION
+http://dmi3y-tv.ru/hls/okko/48/CH_TV1000ACTION.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 РУССКОЕ КИНО
+http://dmi3y-tv.ru/hls/okko/48/CH_TV1000RUSSKOEKINO.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Точка SCI-FI
+http://dmi3y-tv.ru/hls/okko/48/CH_SCI-FI.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Точка BLACK
+http://dmi3y-tv.ru/hls/okko/48/CH_BLACK.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Точка RED
+http://dmi3y-tv.ru/hls/okko/48/CH_RED.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA I
+http://dmi3y-tv.ru/hls/okko/48/CH_AMEDIAI.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA II
+http://dmi3y-tv.ru/hls/okko/48/CH_AMEDIAII.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA HIT
+http://dmi3y-tv.ru/hls/okko/48/CH_AMEDIAHIT.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",START AIR
+http://dmi3y-tv.ru/hls/okko/48/CH_STARTAIR.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",START WORLD
+http://dmi3y-tv.ru/hls/okko/48/CH_STARTWORLD.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНЕКО
+http://dmi3y-tv.ru/hls/okko/48/CH_FOX.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",САПФИР
+http://dmi3y-tv.ru/hls/okko/48/CH_FOXLIFE.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BOLT
+http://dmi3y-tv.ru/hls/okko/48/CH_BOLT.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",STAR CINEMA
+http://dmi3y-tv.ru/hls/okko/48/CH_STARCINEMA.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",STAR FAMILY
+http://dmi3y-tv.ru/hls/okko/48/CH_STARFAMILY.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СЕРИАЛ
+http://dmi3y-tv.ru/hls/48/CH_NTVSERIAL.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СТИЛЬ
+http://dmi3y-tv.ru/hls/48/CH_NTVSTIL.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ПРАВО
+http://dmi3y-tv.ru/hls/48/CH_NTVPRAVO.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ХИТ
+http://dmi3y-tv.ru/hls/48/CH_NTVHIT.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Феникс+Кино
+http://dmi3y-tv.ru/hls/okko/48/CH_FENIKSPLUSKINO.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ДОРАМА
+http://dmi3y-tv.ru/hls/okko/48/CH_DORAMA.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2
+http://bl.uma.media/live/317805/HLS/4614144_1/2/1/playlist.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4
+http://bl.uma.media/live/317849/HLS/4614144_1/2/1/playlist.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота!
+http://bl.uma.media/live/317845/HLS/4614144_1/2/1/playlist.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Мультиландия
+http://dmi3y-tv.ru/hls/okko/48/CH_MULTILANDIYA.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",СТС Kids
+http://dmi3y-tv.ru/hls/okko/48/CH_STSKIDS.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Duck TV
+http://dmi3y-tv.ru/hls/okko/48/CH_DUCKTV.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Радость моя
+http://dmi3y-tv.ru/hls/36/CH_RADOSTMOYA.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце
+http://dmi3y-tv.ru/hls/okko/48/CH_DISNEY.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Da Vinci Kids
+http://dmi3y-tv.ru/hls/okko/48/CH_DAVINCIKIDS.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
+http://dmi3y-tv.ru/hls/okko/48/CH_VIASATEXPLORE.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
+http://dmi3y-tv.ru/hls/okko/48/CH_VIASATNATURE.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat History
+http://dmi3y-tv.ru/hls/okko/48/CH_VIASATHISTORY.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature History
+http://dmi3y-tv.ru/hls/okko/48/CH_VIASATNATUREHISTORY.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",TERRA
+http://dmi3y-tv.ru/hls/okko/48/CH_NATGEO.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",NANO
+http://dmi3y-tv.ru/hls/okko/48/CH_NANO.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ
+http://dmi3y-tv.ru/hls/48/CH_UNKNOWN_RUSSIA.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",ТНТ MUSIC
+http://dmi3y-tv.ru/hls/okko/48/CH_TNT_MUSIC.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Europa Plus TV
+http://dmi3y-tv.ru/hls/48/CH_EUROPAPLUSTV.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",RUTV
+http://dmi3y-tv.ru/hls/48/CH_RUTV.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",TRACE Urban
+http://dmi3y-tv.ru/hls/48/CH_TRACE_URBAN.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Жара TV
+http://dmi3y-tv.ru/hls/okko/48/CH_ZHARATV.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Известия
+http://dmi3y-tv.ru/hls/okko/48/CH_IZRU.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",360° НОВОСТИ
+http://dmi3y-tv.ru/hls/okko/48/CH_360TV_NEWS.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",МИР 24
+http://dmi3y-tv.ru/hls/okko/48/CH_MIR24.m3u8
+#EXTINF:-1 group-title="ТЕЛЕМАГАЗИНЫ",Ювелирочка ТВ
+http://dmi3y-tv.ru/hls/okko/48/CH_YUVELIROCHKATV.m3u8
+#EXTINF:-1 group-title="КАНАЛЫ О МОДЕ",Fashion TV
+http://dmi3y-tv.ru/hls/okko/48/CH_FASHIONTV.m3u8
