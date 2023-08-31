@@ -8,7 +8,7 @@ http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СТИЛЬ
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Кухня ТВ
-http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
+http://146.158.0.56/KuhnyaTV/mono.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Еда ТВ
 http://50.7.120.164:8081/eda/index.m3u8?wmsAuthSign=fa909c46eea94009ede42d44436d2379-1693490662-631i212i42i59
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Усадьба
