@@ -11,6 +11,10 @@ http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Еда ТВ
 http://50.7.120.164:8081/eda/index.m3u8?wmsAuthSign=fa909c46eea94009ede42d44436d2379-1693490662-631i212i42i59
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Усадьба
+http://94.230.240.17:8080/usadba/index.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Загородный
+http://45.144.31.195:8024/playlist.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+1)
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
