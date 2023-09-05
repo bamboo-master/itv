@@ -326,8 +326,6 @@ http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
 http://dmi3y-tv.ru/hls/region/CH_SVOETV_STAVR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АТВ (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ATV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",9 Волна (Лермонтов)
-http://dmi3y-tv.ru/hls/region/CH_9VOLNA_STAVR_KRAI.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",UGRA Travel (Сургут)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_UGRATRAVEL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",С86 HD (Сургут)
