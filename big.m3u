@@ -390,8 +390,6 @@ http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_TVINHD_MAGN.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_VOSTEXPRESSHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Архыз 24 HD (Черкесия)
 http://dmi3y-tv.ru/hls/zabava/region/CHERKS/CH_ARKHIZ24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Архыз 24 Light HD (Черкесия)
-http://dmi3y-tv.ru/hls/zabava/region/CHERKS/CH_ARKHIZ24LITEHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Щелковское ТВ (Щёлково)
 http://dmi3y-tv.ru/hls/region/CH_SHELKOVSKOETV_SHKV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Ярославский (Ярославль)
