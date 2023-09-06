@@ -96,7 +96,7 @@ http://50.7.120.164:8081/rys_bes/index.m3u8?wmsAuthSign=e5c5ee008ba83f7dd8bfc695
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",  Русский роман
 http://46.151.151.245:10002/play/a0b3
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Мир сериала
-http://50.7.120.164:8081/mirseriala/index.m3u8?wmsAuthSign=2ea6885f961b647dc145ec6536e50646-1693529269-631i212i42i59
+https://stream201.24h.tv/hlsjwt/630a8c39ad105ddecefcc29fb66a32c99e5cea2a-5568-0-24h10577043-5-1595462792-1694001970-e128-O74RQtESqxlrYLqroHyS_zxBBiByxv5jCV3c2v93hhw/index.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Кино 1 International 
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE
