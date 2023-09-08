@@ -360,13 +360,3 @@ http://dmi3y-tv.ru/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/BELG/CH_BELGOROD24.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Город 24 (Благовещенск)
 http://dmi3y-tv.ru/hls/zabava/region/DV_BLAG/CH_GOROD24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Москва 24 (Москва)
-http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVA24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Запад 24 (Калининград)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_ZAPAD24_KLGR.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Восток 24 (Владивосток)
-http://dmi3y-tv.ru/hls/zabava/region/DV_VLD/CH_VOSTOK24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сибирь 24 (Новосибирск)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_SIBIR24_NSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кавказ 24 (Ставрополь)
-http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
