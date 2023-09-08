@@ -356,7 +356,5 @@ http://dmi3y-tv.ru/hls/smotrim/region/CH_NN24HD_NN.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_TELEKON24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волгоград 24 (Волгоград)
 http://dmi3y-tv.ru/hls/smotrim/region/CH_VOLGOGRAD24_VGRAD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Белгород 24 (Белгород)
-http://dmi3y-tv.ru/hls/zabava/region/BELG/CH_BELGOROD24.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Город 24 (Благовещенск)
 http://dmi3y-tv.ru/hls/zabava/region/DV_BLAG/CH_GOROD24.m3u8
