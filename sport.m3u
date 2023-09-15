@@ -13,3 +13,5 @@ http://bl.uma.media/live/126866/HLS/6866944_1/2/1/playlist.m3u8
 http://bl.uma.media/live/126868/HLS/6866944_1/2/1/playlist.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ПЛАНЕТА
 http://bl.uma.media/live/126869/HLS/6866944_1/2/1/playlist.m3u8
+#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Соловьев Live
+http://dmi3y-tv.ru/hls/smotrim/CH_SOLOVEVLIVE.m3u8
