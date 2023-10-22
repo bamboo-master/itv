@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 ,НТВ СЕРИАЛ
+http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
+#EXTINF:-1 ,НТВ СТИЛЬ
+http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 ,НТВ ХИТ
+http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
+#EXTINF:-1 ,НТВ (+1)
+https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ (+2)
+https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_3.m3u8
+#EXTINF:-1 ,НТВ (+4)
+https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_5.m3u8
+#EXTINF:-1 ,НТВ (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
+#EXTINF:-1 ,НТВ (+7)
+https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+#EXTINF:-1,Россия 1 (+1)
+http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
+#EXTINF:-1 ,Россия 1 (+2)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_KRG.m3u8
+#EXTINF:-1,Россия 1 (+3)
+http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
+#EXTINF:-1 ,Россия 1 (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 ,Россия 1 (+5)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_IRK.m3u8
+#EXTINF:-1 ,Россия 1 (+6)
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_CHITA.m3u8
+#EXTINF:-1 ,Россия 1 (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
+#EXTINF:-1,Россия 1 (+8)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
+#EXTINF:-1 ,Россия 1 (+9)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
+#EXTINF:-1 ,Пятый канал (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_1.m3u8
+#EXTINF:-1 ,Пятый канал (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_2.m3u8
+#EXTINF:-1 ,Пятый канал (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_3.m3u8
+#EXTINF:-1 ,Пятый канал (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_4.m3u8
+#EXTINF:-1 ,Пятый канал (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_5.m3u8
+#EXTINF:-1 ,Пятый канал (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
+#EXTINF:-1 ,Пятый канал (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
+#EXTINF:-1 ,ТВЦ (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_1.m3u8
+#EXTINF:-1 ,ТВЦ (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
+#EXTINF:-1 ,ТВЦ (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_3.m3u8
+#EXTINF:-1 ,ТВЦ (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_4.m3u8
+#EXTINF:-1 ,ТВЦ (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_5.m3u8
+#EXTINF:-1 ,ТВЦ (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
+#EXTINF:-1 ,ТВЦ (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
+#EXTINF:- ,СТС Love (+4)
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
+#EXTINF:-1 ,ТВ3 (-1)
+TV3(-1), http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
+#EXTINF:-1 ,ТВ3 (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_1.m3u8
+#EXTINF:-1 ,ТВ3 (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_2.m3u8
+#EXTINF:-1 ,ТВ3 (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_3.m3u8
+#EXTINF:-1 ,ТВ3 (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_4.m3u8
+#EXTINF:-1 ,ТВ3 (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_5.m3u8
+#EXTINF:-1 ,ТВ3 (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
+#EXTINF:-1 ,ТВ3 (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
+#EXTINF:-1 ,Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
+http://dmi3y-tv.ru/hls/CH_NASHENOVOEKINO.m3u8
+#EXTINF:-1 ,STAR CINEMA
+http://dmi3y-tv.ru/hls/okko/CH_STARCINEMA.m3u8
+#EXTINF:-1 ,STAR FAMILY
+http://dmi3y-tv.ru/hls/okko/CH_STARFAMILY.m3u8
+#EXTINF:-1 ,Кухня ТВ
+http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
+#EXTINF:-1 ,Кино и сериалы (СМОТРИМ)
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:-1 ,Мелодрамы (СМОТРИМ)
+http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
+#EXTINF:-,СТВ (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_STVHD720_BLRUS.m3u8
+#EXTINF:-1 ,БелРос (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELROS_BLRUS.m3u8
+#EXTINF:-1 ,7tv
+http://dmi3y-tv.ru/hls/CH_7TV.m3u8
+#EXTINF:-1 ,Выборг ТВ
+http://dmi3y-tv.ru/hls/CH_WTV.m3u8
+#EXTINF:-1 ,Мир Белогорья (Белгород)
+http://dmi3y-tv.ru/hls/zabava/region/BELG/CH_MIR_BLGRYA.m3u8
+#EXTINF:-1 ,Губерния 33 HD (Владимир)
+http://dmi3y-tv.ru/hls/zabava/region/VLAD/CH_GUBERNIA33HD.m3u8
+#EXTINF:-1 ор,Тюменское время HD (Тюмень)
+http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TUMVREMYA.m3u8
+#EXTINF:-1 ,Регион 29 (Архангельск)
+http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_REGION29.m3u8
+#EXTINF:-1 ,СТВ 24 (Северодвинск)
+http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_STV24.m3u8
+#EXTINF:-1 ,Астрахань 24 HD (Астрахань)
+http://dmi3y-tv.ru/hls/zabava/region/ASTRH/CH_ASTRAKHAN24HD.m3u8
+#EXTINF:-1 ,Ачинское ТВ HD (Ачинск)
+http://dmi3y-tv.ru/hls/zabava/region/ACHINSK/CH_ACHINSKOETVHD.m3u8
+http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_YAMREG.m3u8
+#EXTINF:-1 ,МИГ ТВ HD (Ноябрьск)
+http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_MIGTVHD.m3u8
+#EXTINF:-1 ,Импульс HD (Новый Уренгой)
+http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_IMPULSHD.m3u8
+
