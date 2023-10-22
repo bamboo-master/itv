@@ -101,6 +101,14 @@ http://dmi3y-tv.ru/hls/okko/CH_STARCINEMA.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_STARFAMILY.m3u8
 #EXTINF:-1 ,Кухня ТВ
 http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
+#EXTINF:-1 ,Еда
+http://dmi3y-tv.ru/hls/CH_EDA.m3u8
+#EXTINF:-1 ,Загородный
+http://45.144.31.195:8024/playlist.m3u8
+#EXTINF:-1 ,Бобер
+http://195.26.83.96:7022/play/a00t/index.m3u8
+#EXTINF:-1 ,Усадьба
+http://94.230.240.17:8080/usadba/index.m3u8
 #EXTINF:-1 ,Кино и сериалы (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Мелодрамы (СМОТРИМ)
