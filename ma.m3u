@@ -43,14 +43,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
 #EXTINF:-1 ,Россия 1 (+9)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
-#EXTINF:-1 ,Россия РТР (СНГ)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_SNG.m3u8
-#EXTINF:-1,Россия РТР (ASIA)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_ASIA.m3u8
-#EXTINF:-1 ,PLANETA RTR (EURO)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
-#EXTINF:-1 ,PLANETA RTR (USA)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_USA.m3u8
 #EXTINF:-1 ,Пятый канал (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_1.m3u8
 #EXTINF:-1 ,Пятый канал (+2)
@@ -81,8 +73,8 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF:- ,СТС Love (+4)
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
+#EXTINF:-1 ,СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:-1 ,ТВ3 (-1)
 TV3(-1), http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
 #EXTINF:-1 ,ТВ3 (+1)
