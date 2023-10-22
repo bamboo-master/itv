@@ -97,31 +97,5 @@ http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Мелодрамы (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
-#EXTINF:-,СТВ (Беларусь)
-http://dmi3y-tv.ru/hls/blrus/CH_STVHD720_BLRUS.m3u8
-#EXTINF:-1 ,БелРос (Беларусь)
-http://dmi3y-tv.ru/hls/blrus/CH_BELROS_BLRUS.m3u8
-#EXTINF:-1 ,7tv
-http://dmi3y-tv.ru/hls/CH_7TV.m3u8
-#EXTINF:-1 ,Выборг ТВ
-http://dmi3y-tv.ru/hls/CH_WTV.m3u8
-#EXTINF:-1 ,Мир Белогорья (Белгород)
-http://dmi3y-tv.ru/hls/zabava/region/BELG/CH_MIR_BLGRYA.m3u8
-#EXTINF:-1 ,Губерния 33 HD (Владимир)
-http://dmi3y-tv.ru/hls/zabava/region/VLAD/CH_GUBERNIA33HD.m3u8
-#EXTINF:-1 ор,Тюменское время HD (Тюмень)
-http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TUMVREMYA.m3u8
-#EXTINF:-1 ,Регион 29 (Архангельск)
-http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_REGION29.m3u8
-#EXTINF:-1 ,СТВ 24 (Северодвинск)
-http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_STV24.m3u8
-#EXTINF:-1 ,Астрахань 24 HD (Астрахань)
-http://dmi3y-tv.ru/hls/zabava/region/ASTRH/CH_ASTRAKHAN24HD.m3u8
-#EXTINF:-1 ,Ачинское ТВ HD (Ачинск)
-http://dmi3y-tv.ru/hls/zabava/region/ACHINSK/CH_ACHINSKOETVHD.m3u8
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_YAMREG.m3u8
-#EXTINF:-1 ,МИГ ТВ HD (Ноябрьск)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_MIGTVHD.m3u8
-#EXTINF:-1 ,Импульс HD (Новый Уренгой)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_IMPULSHD.m3u8
+
 
