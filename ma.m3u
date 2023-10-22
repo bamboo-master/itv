@@ -5,8 +5,6 @@ http://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 http://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
-#EXTINF:-1,НТВ (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTINF:-1,НТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
 #EXTINF:-1 ,НТВ (+1)
@@ -57,6 +55,8 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_5.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
 #EXTINF:-1 ,Пятый канал (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
+#EXTINF:-1 ,ТВЦ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
 #EXTINF:-1 ,ТВЦ (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_1.m3u8
 #EXTINF:-1 ,ТВЦ (+2)
@@ -75,8 +75,8 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС Love
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
-#EXTINF:-1 ,ТВ3 (-1)
-TV3(-1), http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
+#EXTINF:-1 ,ТВ3
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
 #EXTINF:-1 ,ТВ3 (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_1.m3u8
 #EXTINF:-1 ,ТВ3 (+2)
@@ -109,6 +109,8 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 ,Звезда
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
+#EXTINF:-1 ,Звезда плюс 
+http://dmi3y-tv.ru/hls/CH_3BE3DAPLUS.m3u8
 #EXTINF:-1 ,Первый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 ,Кино 1 International
@@ -163,8 +165,6 @@ http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50d
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8xMTFlNzFkZC04MDgxLTQxYmMtYTc5OC1hNzhjMGZjM2I1Y2Uvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 ,Киносат
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8zNjNkMWZlMi04NWQ1LTQyODAtYTdlZi03NjMxYWY4NjE4ZjMvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
-#EXTINF:-1 ,НСТ
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy82ZDBhMjA4NC0zOWJmLTRiNDUtYTQzZS0zZTc2MDIzNzQ4NTQvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 ,ОКИНО
 http://dmi3y-tv.ru/hls/CH_OKIHO.m3u8
 #EXTINF:-1 ,Русский бестселлер
@@ -183,12 +183,10 @@ http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50d
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy83OWM1ZmUwYy04ODAzLTQ4MmQtYTBmZS1lNjg2ZjI1MmExNDMvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 ,СРЕДА HD
 http://dmi3y-tv.ru/hls/CH_SREDAHD.m3u8
-#EXTINF:-1 ,Звезда плюс 
-http://dmi3y-tv.ru/hls/CH_3BE3DAPLUS.m3u8
+#EXTINF:-1 ,Время
+http://46.151.151.245:10007/play/a002
 #EXTINF:-1 ,Кухня ТВ
 http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
-#EXTINF:-1 ,Еда
-http://dmi3y-tv.ru/hls/CH_EDA.m3u8
 #EXTINF:-1 ,Загородный
 http://45.144.31.195:8024/playlist.m3u8
 #EXTINF:-1 ,Бобер
@@ -205,5 +203,7 @@ http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
 http://dmi3y-tv.ru/hls/region/CH_TELEDOMHD720_SPB.m3u8
 #EXTINF:-1 ,БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 ,Время
-http://46.151.151.245:10007/play/a002
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Про Астрахань/Продвижение HD (Астрахань)
+http://dmi3y-tv.ru/hls/zabava/region/ASTRH/CH_PRO_ASTRAKHANHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Самара-Гис HD (Самара)
+http://dmi3y-tv.ru/hls/zabava/region/SAMARA/CH_SAMARAGISHD.m3u8
