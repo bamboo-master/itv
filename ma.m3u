@@ -23,10 +23,8 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_5.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
 #EXTINF:-1 ,НТВ (+7)
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Россия 1 (-1)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1-1.m3u8
-#EXTINF:-1,Россия 1 HD
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+#EXTINF:-1 ,Россия 1
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
 #EXTINF:-1,Россия 1 (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
 #EXTINF:-1 ,Россия 1 (+2)
@@ -139,8 +137,6 @@ http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 http://dmi3y-tv.ru/hls/CH_NASHENOVOEKINO.m3u8
 #EXTINF:-1 ,КИНОМИКС
 http://dmi3y-tv.ru/hls/CH_KINOMIKS.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМИКС HD
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9mZTgxZTMxYi1hMTcwLTRmMGUtOWE0Yy05MjFjOWE3Y2VkMjUvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 ,КИНОСЕРИЯ
 http://dmi3y-tv.ru/hls/CH_KINOSERIYA.m3u8
 #EXTINF:-1 ,КИНОСЕМЬЯ
@@ -159,8 +155,6 @@ http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50d
 http://dmi3y-tv.ru/hls/CH_KINOUZHAS.m3u8
 #EXTINF:-1 ,Мосфильм Золотая коллекция
 http://dmi3y-tv.ru/hls/CH_MOSFILM.m3u8
-#EXTINF:-1 ,Мосфильм Золотая коллекция HD
-http://dmi3y-tv.ru/hls/CH_MOSFILMHD.m3u8
 #EXTINF:-1 ,Победа
 http://dmi3y-tv.ru/hls/CH_POBEDA.m3u8
 #EXTINF:-1 ,dizi HD
