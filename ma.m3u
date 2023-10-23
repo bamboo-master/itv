@@ -458,20 +458,8 @@ http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_AKTISHD720.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_NTSHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",БАЙКАЛ Универ ТВ HD (Иркутск)
 http://dmi3y-tv.ru/hls/region/CH_BAYKALUNIVERTVHD_IRK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНВ Татарстан (Казань)
-http://dmi3y-tv.ru/hls/zabava/region/KZN/CH_TNVT.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Татарстан 24 (Казань)
-http://dmi3y-tv.ru/hls/zabava/region/KZN/CH_TATARSTAN24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Майдан (Казань)
-http://dmi3y-tv.ru/hls/zabava/region/KZN/CH_MAIDAN.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",TMTV (Казань)
-http://dmi3y-tv.ru/hls/zabava/region/KZN/CH_TMTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Эфир (Казань)
 http://dmi3y-tv.ru/hls/zabava/region/KZN/CH_EFIR.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНВ Планета (Казань)
-http://dmi3y-tv.ru/hls/zabava/region/KZN/CH_TNVPLANETA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кунел ТВ (Казань)
-http://dmi3y-tv.ru/hls/region/CH_KUNELTV_KZN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Каскад-24 (Калининград)
 http://dmi3y-tv.ru/hls/zabava/region/KLGR/CH_KASKAD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ника ТВ (Калуга)
@@ -502,8 +490,6 @@ http://dmi3y-tv.ru/hls/zabava/region/KRSK/CH_AFONTOVOHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/KRSK/CH_7CHANNELHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ПРИМА HD (Красноярск)
 http://dmi3y-tv.ru/hls/zabava/region/KRSK/CH_PRIMAHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВК 24 (Красноярск)
-http://dmi3y-tv.ru/hls/region/CH_TVK24_KRSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ИНФО 24 HD (Шадринск)
 http://dmi3y-tv.ru/hls/zabava/region/KRG/CH_INFO24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Город ТВ HD (Шадринск)
@@ -762,24 +748,12 @@ http://dmi3y-tv.ru/hls/region/CH_MIR_BAYKAL_UUDE.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/UL/CH_REP73.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",УлПравда ТВ HD (Ульяновск)
 http://dmi3y-tv.ru/hls/zabava/region/UL/CH_ULPRAVDAHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Башкортостан 24 (Уфа)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_BASHKORTOSTAN24_UFA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Матур ТВ HD (Уфа)
-http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_MATURTVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТАМЫР (Уфа)
-http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_TAMYRTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",САЛЯМ (Уфа)
 http://dmi3y-tv.ru/hls/region/CH_SALYAM_UFA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",NEXT TV HD (Нефтекамск)
 http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_NEXTTV_NFSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Туган Тел (Уфа)
-http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_TUGANTEL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Курай ТВ (Уфа)
-http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_KURAYTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Учалы ТВ (Учалы)
 http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_UCHALYTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",БСТ (Уфа)
-http://dmi3y-tv.ru/hls/region/CH_BST_UFA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Губерния (Хабаровск)
 http://dmi3y-tv.ru/hls/zabava/region/DV_HVSK/CH_GUBERNIYA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",6ТВ (Хабаровск)
