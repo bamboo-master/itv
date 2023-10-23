@@ -5,6 +5,8 @@ http://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 http://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 group-title="+++",НТВ (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTINF:-1,НТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
 #EXTINF:-1 group-title="+++",НТВ (+1)
@@ -21,6 +23,8 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_5.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
 #EXTINF:-1 group-title="+++",НТВ (+7)
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="+++",Россия 1 (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
 #EXTINF:-1 ,Россия 1
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 group-title="+++",Россия 1 (+1)
@@ -41,6 +45,18 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
 #EXTINF:-1 group-title="+++",Россия 1 (+9)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
+#EXTINF:-1 group-title="+++",Россия РТР (СНГ)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_SNG.m3u8
+#EXTINF:-1 group-title="+++",Россия РТР (ASIA)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_ASIA.m3u8
+#EXTINF:-1 group-title="+++",PLANETA RTR (EURO)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
+#EXTINF:-1 group-title="+++",PLANETA RTR (USA)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_USA.m3u8
+#EXTINF:-1 group-title="+++",Пятый канал (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
+#EXTINF:-1 ,Пятый канал
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_1.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (+2)
@@ -55,9 +71,11 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_5.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
+#EXTINF:-1 group-title="+++",ТВЦ (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC-1.m3u8
 #EXTINF:-1 ,ТВЦ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF:-1 group-title="+++",ТВЦ
+#EXTINF:-1 group-title="+++",ТВЦ (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_1.m3u8
 #EXTINF:-1 group-title="+++",ТВЦ (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
@@ -161,7 +179,7 @@ http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50d
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8xMTFlNzFkZC04MDgxLTQxYmMtYTc5OC1hNzhjMGZjM2I1Y2Uvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="КИНО2",Киносат
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8zNjNkMWZlMi04NWQ1LTQyODAtYTdlZi03NjMxYWY4NjE4ZjMvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
-#EXTINF:-1 group-title="КИНО2",ОКИНО
+#EXTINF:-1 ,ОКИНО
 http://dmi3y-tv.ru/hls/CH_OKIHO.m3u8
 #EXTINF:-1 ,Русский бестселлер
 http://dmi3y-tv.ru/hls/CH_RUSSKIY_BESTSELLER.m3u8
