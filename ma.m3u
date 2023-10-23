@@ -93,6 +93,8 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 ,СТС Love
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1 group-title="+++",ТВ3 (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
 #EXTINF:-1 ,ТВ3
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
 #EXTINF:-1 group-title="+++",ТВ3 (+1)
