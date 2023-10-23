@@ -632,8 +632,6 @@ http://dmi3y-tv.ru/hls/zabava/region/SRNK/CH_NTM.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_SARATOV24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТВ Сахалин (Сахалин)
 http://dmi3y-tv.ru/hls/zabava/region/DV_SLIN_OBL/CH_OTV_SLIN.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АСТВ (Сахалин)
-http://dmi3y-tv.ru/hls/zabava/region/DV_SLIN/CH_ACTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТС HD (Севастополь)
 http://dmi3y-tv.ru/hls/region/CH_NTSHD_SVTPL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Миллет ТВ HD720 (Симферополь)
@@ -654,12 +652,6 @@ http://dmi3y-tv.ru/hls/region/CH_26REGIONHD720_STAVR.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_UGRA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",UGRA Travel (Сургут)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_UGRATRAVEL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",С1 (Сургут)
-http://dmi3y-tv.ru/hls/region/CH_C1_SUR.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",С86 (Сургут)
-http://dmi3y-tv.ru/hls/region/CH_C86_SUR.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сургут 24 HD720 (Сургут)
-http://dmi3y-tv.ru/hls/region/CH_C24HD720_SUR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый советский HD (Сургут)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_1SOVETSKIYHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Второй канал (Радужный)
@@ -668,8 +660,6 @@ http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_2TV_RADUZHNY.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_NGORHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТРК Юганск (Юганск)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_YUGANSK_YUNSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Няганский телеканал/МИР 24 (Нягань)
-http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_NYAGANTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНР7 HD (Нефтеюганск)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_TNR7HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНР24 HD (Нижневартовск)
@@ -680,8 +670,6 @@ http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_SAMOTLORHD_NIZH.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_PYT-YAHINFORM.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мегаполис HD (Нижневартовск)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_MEGAPOLISHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",360° HD720 (Сургут)
-http://dmi3y-tv.ru/hls/region/CH_360HD720_SUR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Юрган (Сыктывкар)
 http://dmi3y-tv.ru/hls/zabava/region/SKTV/CH_YURGAN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Солн ТВ (Солнечногорск)
@@ -722,8 +710,6 @@ http://dmi3y-tv.ru/hls/zabava/region/UUDE/CH_TIVICOMHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/UUDE/CH_ARIGUSHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Буряад ТВ HD (Улан-Удэ)
 http://dmi3y-tv.ru/hls/zabava/region/UUDE/CH_BURYAADHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МИР-Байкал (Улан-Удэ)
-http://dmi3y-tv.ru/hls/region/CH_MIR_BAYKAL_UUDE.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Репортер 73 (Ульяновск)
 http://dmi3y-tv.ru/hls/zabava/region/UL/CH_REP73.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",УлПравда ТВ HD (Ульяновск)
@@ -744,8 +730,6 @@ http://dmi3y-tv.ru/hls/zabava/region/CHR/CH_UTV.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_31TV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ural 1 HD (Челябинск)
 http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_URAL1HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЮУрГУ ТВ HD720 (Челябинск)
-http://dmi3y-tv.ru/hls/region/CH_YURGUTVHD720_CHEL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВ-ИН HD (Магнитогорск)
 http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_TVINHD_MAGN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Злат ТВ (Златоуст)
@@ -754,8 +738,6 @@ http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_ZLATTV.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_VOSTEXPRESSHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Архыз 24 (Черкесия)
 http://dmi3y-tv.ru/hls/region/CH_ARKHIZ24_CHERKS.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Архыз 24 HD (Черкесия)
-http://dmi3y-tv.ru/hls/zabava/region/CHERKS/CH_ARKHIZ24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Архыз 24 Light HD (Черкесия)
 http://dmi3y-tv.ru/hls/zabava/region/CHERKS/CH_ARKHIZ24LITEHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Чехов ТВ HD720 (Чехов)
