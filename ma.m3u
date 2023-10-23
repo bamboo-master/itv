@@ -336,8 +336,6 @@ http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/ABAKAN/CH_8CHANNEL_KRSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Регион 29 (Архангельск)
 http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_REGION29.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Котлас 24 (Котлас)
-http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_KOTLAS24_KTLAS.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СТВ 24 (Северодвинск)
 http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_STV24.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Астрахань 24 HD (Астрахань)
