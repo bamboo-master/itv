@@ -426,8 +426,6 @@ http://dmi3y-tv.ru/hls/zabava/region/VOL/CH_12CHANNEL_CHER.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/VRZH/CH_TVGUBERNIYA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ВТК АРГУС HD (Воронеж)
 http://dmi3y-tv.ru/hls/zabava/region/VRZH/CH_ARGUS.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Известия (Воронеж)
-http://dmi3y-tv.ru/hls/zabava/region/VRZH/CH_IZVESTIYA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТВ HD (Екатеринбург)
 http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_OTVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МиГ ТВ (Красноуральск)
@@ -486,8 +484,6 @@ http://dmi3y-tv.ru/hls/zabava/region/DV_KAM/CH_KAMCHATKA1HD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/DV_KAM/CH_41REG.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кузбасс 1 (Кемерово)
 http://dmi3y-tv.ru/hls/zabava/region/KEM/CH_KUZBASS1.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Известия (Кемерово)
-http://dmi3y-tv.ru/hls/zabava/region/KEM/CH_IZVEST_KEMR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Анжерское телевидение (Анжеро-Судженск)
 http://dmi3y-tv.ru/hls/zabava/region/KEM/CH_ANGERSKTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Девятка ТВ HD (Киров)
