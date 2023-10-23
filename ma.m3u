@@ -352,8 +352,6 @@ http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_STV24.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/ASTRH/CH_ASTRAKHAN24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Про Астрахань/Продвижение HD (Астрахань)
 http://dmi3y-tv.ru/hls/zabava/region/ASTRH/CH_PRO_ASTRAKHANHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Астрахань LIVE (Астрахань)
-http://dmi3y-tv.ru/hls/region/CH_ASTRAKHANRULIVE_ASTRH.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Телплюс ТВ (Астрахань)
 http://dmi3y-tv.ru/hls/region/CH_TELPLUS_ASTRH.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ачинское ТВ HD (Ачинск)
