@@ -782,9 +782,5 @@ http://dmi3y-tv.ru/hls/region/CH_LEGENDARNY24HD_KRYM.m3u8
 http://dmi3y-tv.ru/hls/smotrim/region/CH_ZAPAD24_KLGR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Норд ТВ (Новодвинск)
 http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_NORDTV_NVDSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВ ПОИСК (Клин)
-http://dmi3y-tv.ru/hls/region/CH_TVPOISK_KLIN.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МИТВ (Иркутская обл/Усть-Илимск)
-http://193.33.233.109:9000/tv.ts
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Луганск 24 (ЛНР/Луганск)
 http://dmi3y-tv.ru/hls/region/CH_LUGANSK24_LNR_LUGANSK.m3u8
