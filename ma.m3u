@@ -752,8 +752,6 @@ http://dmi3y-tv.ru/hls/zabava/region/UL/CH_ULPRAVDAHD.m3u8
 http://dmi3y-tv.ru/hls/region/CH_SALYAM_UFA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",NEXT TV HD (Нефтекамск)
 http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_NEXTTV_NFSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Учалы ТВ (Учалы)
-http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_UCHALYTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Губерния (Хабаровск)
 http://dmi3y-tv.ru/hls/zabava/region/DV_HVSK/CH_GUBERNIYA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",6ТВ (Хабаровск)
@@ -762,8 +760,6 @@ http://dmi3y-tv.ru/hls/zabava/region/DV_HVSK/CH_6TV.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/DV_HVSK/CH_6TVKMS.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЮТВ (Чебоксары)
 http://dmi3y-tv.ru/hls/zabava/region/CHR/CH_UTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Чаваш Ен HD (Чебоксары)
-http://dmi3y-tv.ru/hls/zabava/region/CHR/CH_NATIONALTVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",31 канал (Челябинск)
 http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_31TV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ural 1 HD (Челябинск)
