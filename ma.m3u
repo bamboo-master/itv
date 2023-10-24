@@ -292,9 +292,7 @@ http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50d
 http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
 #EXTINF:-1 ,Санкт-Петербург (Санкт-Петербург)
 http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
-#EXTINF:-1 ,78 канал 
-http://live-mpd-okkotv.cdnvideo.ru/okkotv/okkotv-srt/manifest.mpd
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Москва Доверие (Москва)
+#EXTINF:-1 ,Москва Доверие (Москва)
 http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
 #EXTINF:-1 group-title="+++" ,Россия К
 http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIAK.m3u8
