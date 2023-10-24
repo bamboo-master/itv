@@ -752,8 +752,6 @@ http://dmi3y-tv.ru/hls/zabava/region/DV_YKT/CH_NVCHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/DV_YKT/CH_YAKT24.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мамонт (Якутск)
 http://dmi3y-tv.ru/hls/zabava/region/DV_YKT/CH_MAMONT.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Ярославский (Ярославль)
-http://dmi3y-tv.ru/hls/region/CH_1YAROSLAVSKIY_YARL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ГТ-Регион (Ярославль)
 http://dmi3y-tv.ru/hls/zabava/region/YARL/CH_GTREG.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Легендарный 24 HD (Крым)
