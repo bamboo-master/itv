@@ -296,9 +296,9 @@ http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
 http://live-mpd-okkotv.cdnvideo.ru/okkotv/okkotv-srt/manifest.mpd
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Москва Доверие (Москва)
 http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
-#EXTINF:-1 ,Россия К
+#EXTINF:-1 group-title="+++" ,Россия К
 http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIAK.m3u8
-#EXTINF:-1 ,Первый канал
+#EXTINF:-1 group-title="+++" ,Первый канал
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1,360°
 http://dmi3y-tv.ru/hls/CH_360TV.m3u8
