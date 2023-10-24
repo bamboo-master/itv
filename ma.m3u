@@ -668,16 +668,12 @@ http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_TNR24HD_NIZH.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_SAMOTLORHD_NIZH.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Пыть-Ях Информ (Пыть-Ях)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_PYT-YAHINFORM.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мегаполис HD (Нижневартовск)
-http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_MEGAPOLISHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Юрган (Сыктывкар)
 http://dmi3y-tv.ru/hls/zabava/region/SKTV/CH_YURGAN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Солн ТВ (Солнечногорск)
 http://dmi3y-tv.ru/hls/region/CH_SOLNTV_SNGSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СТВ/Продвижение (Стрежевой)
 http://dmi3y-tv.ru/hls/region/CH_STV_SRVOY.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Саров 24 HD720 (Саров)
-http://dmi3y-tv.ru/hls/region/CH_SAROV24HD720_SAROV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Советск-Тильзит ТВ (Советск)
 http://dmi3y-tv.ru/hls/region/CH_STTV_SOVETSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новый век (Тамбов)
@@ -686,24 +682,16 @@ http://dmi3y-tv.ru/hls/zabava/region/TAMB/CH_NOVIY_VEK.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/TAMB/CH_PRODVIZHENIE.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тверской Проспект HD (Тверь)
 http://dmi3y-tv.ru/hls/zabava/region/TVER/CH_TVERPROSPHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Панорама ТВ HD (Тверь)
-http://dmi3y-tv.ru/hls/zabava/region/TVER/CH_PANORAMATVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Томское время HD (Томск)
 http://dmi3y-tv.ru/hls/zabava/region/TOMSK/CH_TOMSKVREMYAHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Тульский (Тула)
 http://dmi3y-tv.ru/hls/zabava/region/TULA/CH_1TULSKIY.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тюменское время HD (Тюмень)
 http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TUMVREMYA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Югра (Тюмень)
-http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_UGRA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",БСТ (Тюмень)
-http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_BST.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТVОЯ (Тюмень)
 http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TVOYA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тобольское время (Тобольск)
 http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TOBOLSKOEVREMYA_TBLSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АТВ MEDIA (Улан-удэ)
-http://dmi3y-tv.ru/hls/zabava/region/UUDE/CH_ATVMEDIA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тивиком HD (Улан-Удэ)
 http://dmi3y-tv.ru/hls/zabava/region/UUDE/CH_TIVICOMHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Репортер 73 (Ульяновск)
