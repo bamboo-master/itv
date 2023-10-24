@@ -438,8 +438,6 @@ http://dmi3y-tv.ru/hls/region/CH_AISTHD720_IRK.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_AKTISHD720.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТС HD (Иркутск)
 http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_NTSHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",БАЙКАЛ Универ ТВ HD (Иркутск)
-http://dmi3y-tv.ru/hls/region/CH_BAYKALUNIVERTVHD_IRK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Эфир (Казань)
 http://dmi3y-tv.ru/hls/zabava/region/KZN/CH_EFIR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Каскад-24 (Калининград)
@@ -758,8 +756,6 @@ http://dmi3y-tv.ru/hls/zabava/region/DV_YKT/CH_MAMONT.m3u8
 http://dmi3y-tv.ru/hls/region/CH_1YAROSLAVSKIY_YARL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ГТ-Регион (Ярославль)
 http://dmi3y-tv.ru/hls/zabava/region/YARL/CH_GTREG.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Симферополь 24 HD (Крым)
-http://dmi3y-tv.ru/hls/region/CH_SIMFEROPOL24HD_KRYM.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Легендарный 24 HD (Крым)
 http://dmi3y-tv.ru/hls/region/CH_LEGENDARNY24HD_KRYM.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Запад 24 (Калининград)
