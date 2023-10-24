@@ -304,10 +304,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
 http://dmi3y-tv.ru/hls/CH_360TV.m3u8
 #EXTINF:-1 ,Домашние Животные
 http://45.144.31.195:8013/playlist.m3u8
-#EXTINF:-1 ,Моя планета
-http://dmi3y-tv.ru/hls/smotrim/CH_MOYAPLANETA.m3u8
-#EXTINF:-1,NANO HD
-http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9kZDVlYWJkMS0xNDA2LTRlODUtYWQyZS1mZTNlNjZiOWFkYWQvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 
 #EXTINF:-1 group-title="Кино и Сериалы",Ратник
 http://dmi3y-tv.ru/hls/CH_RATNIK.m3u8
