@@ -288,6 +288,8 @@ http://195.26.83.96:7022/play/a00t/index.m3u8
 http://94.230.240.17:8080/usadba/index.m3u8
 #EXTINF:-1 ,Сарафан
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8yZGMxNjgzYy0wYzc1LTQwOTMtYWI0NC02MmIyZjZiYTYyNWMvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
+#EXTINF:-1 ,Продвижение
+https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Лен ТВ 24 (Санкт-Петербург)
 http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
 #EXTINF:-1 ,Санкт-Петербург (Санкт-Петербург)
