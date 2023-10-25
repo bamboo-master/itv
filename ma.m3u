@@ -638,8 +638,6 @@ http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_UGRA.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_2TV_RADUZHNY.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Наши города HD (Когалым)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_NGORHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТРК Юганск (Юганск)
-http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_YUGANSK_YUNSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНР7 HD (Нефтеюганск)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_TNR7HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНР24 HD (Нижневартовск)
