@@ -662,8 +662,6 @@ http://dmi3y-tv.ru/hls/zabava/region/TAMB/CH_NOVIY_VEK.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/TAMB/CH_PRODVIZHENIE.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тверской Проспект HD (Тверь)
 http://dmi3y-tv.ru/hls/zabava/region/TVER/CH_TVERPROSPHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Томское время HD (Томск)
-http://dmi3y-tv.ru/hls/zabava/region/TOMSK/CH_TOMSKVREMYAHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Тульский (Тула)
 http://dmi3y-tv.ru/hls/zabava/region/TULA/CH_1TULSKIY.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тюменское время HD (Тюмень)
