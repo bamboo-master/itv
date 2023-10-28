@@ -634,12 +634,8 @@ http://dmi3y-tv.ru/hls/region/CH_MILLETHD720_SMRPL.m3u8
 http://dmi3y-tv.ru/hls/region/CH_SOCHILIVEHD720_SOCHI.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кавказ 24 (Ставрополь)
 http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АТВ (Ставрополь)
-http://dmi3y-tv.ru/hls/zabava/region/STAVR/CH_ATV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Югра HD (Сургут)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_UGRA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Второй канал (Радужный)
-http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_2TV_RADUZHNY.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Наши города HD (Когалым)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_NGORHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНР24 HD (Нижневартовск)
