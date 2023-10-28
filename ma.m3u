@@ -622,10 +622,6 @@ http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_SOYUZ_CHUS.m3u8
 http://dmi3y-tv.ru/hls/region/CH_DON24_RD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Самара 24 (Самара)
 http://dmi3y-tv.ru/hls/zabava/region/SAMARA/CH_SAMARA24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",КТВ-Луч/Самара 24 (Сызрань)
-http://dmi3y-tv.ru/hls/zabava/region/SAMARA/CH_KTVLUCH.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",10 канал/РЕН ТВ (Мордовия)
-http://dmi3y-tv.ru/hls/zabava/region/SRNK/CH_10CHANNEL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Саратов 24 HD (Саратов)
 http://dmi3y-tv.ru/hls/zabava/region/SARATOV/CH_SARATOV24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Миллет ТВ HD720 (Симферополь)
