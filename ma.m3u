@@ -681,5 +681,5 @@ https://tavr.mediacdn.ru/cdn/tavria/playlist_sdhigh.m3u8
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS4HD720_VIT.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Беларусь 5 HD (Беларусь)
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy85MTE0NjNmMy0yZTc0LTQ5YWItYjVlOC0yNTUwY2I0Yzk3NTMvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ПРЕМЬЕР
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Матч! ПРЕМЬЕР
 http://bl.uma.media/live/126866/HLS/6866944_1/2/1/playlist.m3u8
