@@ -575,8 +575,6 @@ http://public-gw.iptv.shadrinsk.net:8088/gorod.m3u8
 http://dmi3y-tv.ru/hls/region/CH_TVAIST_LD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Елец ТВ (Липецк)
 http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ELETS.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Крик ТВ (Магадан)
-http://dmi3y-tv.ru/hls/region/CH_KRIKTV_DV_MGDN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Майкопское Телевидение (Майкоп)
 http://dmi3y-tv.ru/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СРЕДА HD (Каспийск)
