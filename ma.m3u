@@ -479,6 +479,8 @@ http://dmi3y-tv.ru/hls/zabava/region/NN/CH_DZERZHINSKHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/NN/CH_KANAL16_SAROV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волгоград 1 HD (Волгоград)
 http://dmi3y-tv.ru/hls/zabava/region/VGRAD/CH_VOLGOGRAD1HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",6ТВ (Хабаровск)
+http://dmi3y-tv.ru/hls/zabava/region/DV_HVSK/CH_6TV.m3u8
 
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",БелРос (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
@@ -617,8 +619,6 @@ http://dmi3y-tv.ru/hls/zabava/region/TAMB/CH_NOVIY_VEK.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TOBOLSKOEVREMYA_TBLSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",САЛЯМ (Уфа)
 http://dmi3y-tv.ru/hls/region/CH_SALYAM_UFA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",6ТВ (Хабаровск)
-http://dmi3y-tv.ru/hls/zabava/region/DV_HVSK/CH_6TV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Астрахань 24 HD (Астрахань)
 http://dmi3y-tv.ru/hls/zabava/region/ASTRH/CH_ASTRAKHAN24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Город 24 (Благовещенск)
