@@ -55,6 +55,8 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_5.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
 #E#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",+TV (Беларусь)
+http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9lYzFjNmE3ZS04OWUwLTQ1OGEtODNiNi0xZGExMmM2OTdjMjAvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_1.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+2)
@@ -97,7 +99,9 @@ http://dmi3y-tv.ru/hls/okko/CH_STARTWORLD.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_STARCINEMA.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BOLT
 http://dmi3y-tv.ru/hls/okko/CH_BOLT.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",  Русский роман
+#EXTINF:-1 ,Русский бестселлер
+http://dmi3y-tv.ru/hls/CH_RUSSKIY_BESTSELLER.m3u8
+#EXTINF:-1 ,Русский роман
 http://46.151.151.245:10002/play/a0b3
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Кино 1 International 
 https://kino-1.catcast.tv/content/38617/index.m3u8
