@@ -579,8 +579,6 @@ http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_YAMAL1HD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/OMSK/CH_OMSKTVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЛТК HD (Лысьва)
 http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_LTKHD_LSVA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Миллет ТВ HD720 (Симферополь)
-http://dmi3y-tv.ru/hls/region/CH_MILLETHD720_SMRPL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Наши города HD (Когалым)
 http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_NGORHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Солн ТВ (Солнечногорск)
