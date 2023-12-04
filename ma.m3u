@@ -8,183 +8,183 @@ http://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 http://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title="+++",НТВ (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTINF:-1 group-title="+++",НТВ HD (Беларусь)
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9lYmIwNGQ1YS1lZDAwLTQ3ZDgtOWRhNi05YTY1MGE3NDBmMDcvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1,НТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
 #EXTINF:-1 group-title="+++",НТВ (+1)
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="+++",НТВ (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
 #EXTINF:-1 group-title="+++",НТВ (+3)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_3.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_3.m3u8
 #EXTINF:-1 group-title="+++",НТВ (+4)
 https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="+++",НТВ (+5)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_5.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_5.m3u8
 #EXTINF:-1 group-title="+++",НТВ (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_6.m3u8
 #EXTINF:-1 group-title="+++",НТВ (+7)
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="+++",Россия 1 (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1-1.m3u8
 #EXTINF:-1 ,Россия 1
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
 #EXTINF:-1 group-title="+++",Россия 1 (+1)
 http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
 #EXTINF:-1 group-title="+++",Россия 1 (+2)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_KRG.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1_KRG.m3u8
 #EXTINF:-1 group-title="+++",Россия 1 (+3)
 http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
 #EXTINF:-1 group-title="+++",Россия 1 (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_4.m3u8
 #EXTINF:-1 group-title="+++",Россия 1 (+5)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_IRK.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1_IRK.m3u8
 #EXTINF:-1 group-title="+++",Россия 1 (+6)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_CHITA.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_RUSSIA1_CHITA.m3u8
 #EXTINF:-1 group-title="+++",Россия 1 (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_7.m3u8
 #EXTINF:-1 group-title="+++",Россия 1 (+8)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_8.m3u8
 #EXTINF:-1 group-title="+++",Россия 1 (+9)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_9.m3u8
 #EXTINF:-1 group-title="+++",Беларусь РТР HD (Беларусь)
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9iMDBlNjhhMC0wMzkxLTQ3NTYtYTE4OC1kNzE2ZDQ4Y2RhZmEvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="+++",Россия РТР (СНГ)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_SNG.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIARTR_SNG.m3u8
 #EXTINF:-1 group-title="+++",Россия РТР (ASIA)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_ASIA.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIARTR_ASIA.m3u8
 #EXTINF:-1 group-title="+++",PLANETA RTR (EURO)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
 #EXTINF:-1 group-title="+++",PLANETA RTR (USA)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_USA.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_PLANETARTR_USA.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV-1.m3u8
 #EXTINF:-1 ,Пятый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (+1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_1.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_1.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_2.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (+3)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_3.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_3.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_4.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_4.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (+5)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_5.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_5.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_6.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_7.m3u8
 #EXTINF:-1 group-title="+++",ТВЦ (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC-1.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC-1.m3u8
 #EXTINF:-1 group-title="+++",+TV (Беларусь)
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9lYzFjNmE3ZS04OWUwLTQ1OGEtODNiNi0xZGExMmM2OTdjMjAvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 ,ТВЦ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
 #EXTINF:-1 group-title="+++",ТВЦ (+1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_1.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_1.m3u8
 #EXTINF:-1 group-title="+++",ТВЦ (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_2.m3u8
 #EXTINF:-1 group-title="+++",ТВЦ (+3)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_3.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_3.m3u8
 #EXTINF:-1 group-title="+++",ТВЦ (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_4.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_4.m3u8
 #EXTINF:-1 group-title="+++",ТВЦ (+5)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_5.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_5.m3u8
 #EXTINF:-1 group-title="+++",ТВЦ (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_6.m3u8
 #EXTINF:-1 group-title="+++",ТВЦ (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_7.m3u8
 #EXTINF:-1 ,СТС
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 group-title="+++",СТС Love (-1)
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE-1.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE-1.m3u8
 #EXTINF:-1 ,СТС Love
 https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
 #EXTINF:-1 group-title="+++",СТС Love (+2)
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_2.m3u8
 #EXTINF:-1 group-title="+++",СТС Love (+4)
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_4.m3u8
 #EXTINF:-1 group-title="+++",ТВ3 (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3-1.m3u8
 #EXTINF:-1 group-title="+++",ТВ3 (Беларусь)
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8xMjUzZjllNS04YzAwLTQ1YzMtODI3Yi01NTc4MjA3ZjZlNWQvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 ,ТВ3
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3.m3u8
 #EXTINF:-1 group-title="+++",ТВ3 (+1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_1.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_1.m3u8
 #EXTINF:-1 group-title="+++",ТВ3 (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_2.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_2.m3u8
 #EXTINF:-1 group-title="+++",ТВ3 (+3)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_3.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_3.m3u8
 #EXTINF:-1 group-title="+++",ТВ3 (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_4.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_4.m3u8
 #EXTINF:-1 group-title="+++",ТВ3 (+5)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_5.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_5.m3u8
 #EXTINF:-1 group-title="+++",ТВ3 (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_6.m3u8
 #EXTINF:-1 group-title="+++",ТВ3 (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_7.m3u8
 #EXTINF:-1 ,Пятница!
-http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY.m3u8
 #EXTINF:-1 ,Суббота!
-http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA.m3u8
 #EXTINF:-1 ,Че!
-http://dmi3y-tv.ru/hls/zabava/CH_CHE.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/CH_CHE.m3u8
 #EXTINF:-1 ,Перец
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy84Yjg5NjE3Yy1hNDk2LTQ5OTgtODgxYS0yMDNmOTk0YmJiN2Uvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 ,Ю
-http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/CH_U.m3u8
 #EXTINF:-1 ,ОТР
-http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
 #EXTINF:-1 ,МИР
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR.m3u8
 #EXTINF:-1 ,РЕН ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
 #EXTINF:-1 ,Домашний
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY.m3u8
 #EXTINF:-1 ,Звезда
-http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
 #EXTINF:-1 ,Звезда плюс 
-http://dmi3y-tv.ru/hls/CH_3BE3DAPLUS.m3u8
+http://dmitry-tv.ddns.net/hls/CH_3BE3DAPLUS.m3u8
 #EXTINF:-1 ,Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,BOLT
-http://dmi3y-tv.ru/hls/okko/CH_BOLT.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_BOLT.m3u8
 EXTINF:-1 ,STAR CINEMA
-http://dmi3y-tv.ru/hls/okko/CH_STARCINEMA.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_STARCINEMA.m3u8
 #EXTINF:-1 ,STAR FAMILY
-http://dmi3y-tv.ru/hls/okko/CH_STARFAMILY.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_STARFAMILY.m3u8
 #EXTINF:-1 ,Феникс+Кино
-http://dmi3y-tv.ru/hls/okko/CH_FENIKSPLUSKINO.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_FENIKSPLUSKINO.m3u8
 #EXTINF:-1 ,Кино и сериалы (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Мелодрамы (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/CH_MELODRAMY.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",НАШЕ НОВОЕ КИНО
-http://dmi3y-tv.ru/hls/CH_NASHENOVOEKINO.m3u8
+http://dmitry-tv.ddns.net/hls/CH_NASHENOVOEKINO.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",КИНОМИКС
-http://dmi3y-tv.ru/hls/CH_KINOMIKS.m3u8
+http://dmitry-tv.ddns.net/hls/CH_KINOMIKS.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",КИНОСЕРИЯ
-http://dmi3y-tv.ru/hls/CH_KINOSERIYA.m3u8
+http://dmitry-tv.ddns.net/hls/CH_KINOSERIYA.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",КИНОСЕМЬЯ
-http://dmi3y-tv.ru/hls/CH_KINOSEMYA.m3u8
+http://dmitry-tv.ddns.net/hls/CH_KINOSEMYA.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",КИНОСВИДАНИЕ
-http://dmi3y-tv.ru/hls/CH_KINOSVIDANIE.m3u8
+http://dmitry-tv.ddns.net/hls/CH_KINOSVIDANIE.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",КИНОХИТ
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9lZTc2YmQ0MS01ODE0LTQ5YTItODg5NC1hZWVmYTBiYTVlMTEvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",КИНОКОМЕДИЯ
-http://dmi3y-tv.ru/hls/CH_KINOKOMEDIYA.m3u8
+http://dmitry-tv.ddns.net/hls/CH_KINOKOMEDIYA.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",МУЖСКОЕ КИНО
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9jZmI1MWQwMC1kMTZjLTQyZDItOGY0OS0xNDZkNDdiOGM3MjAvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 ,РОДНОЕ КИНО
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9jN2JjNmI2Yi0yNjc3LTQ4M2YtYmY2MS0wN2NiZDE4MTYzNGQvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 ,Мосфильм Золотая коллекция
-http://dmi3y-tv.ru/hls/CH_MOSFILM.m3u8
+http://dmitry-tv.ddns.net/hls/CH_MOSFILM.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Победа
-http://dmi3y-tv.ru/hls/CH_POBEDA.m3u8
+http://dmitry-tv.ddns.net/hls/CH_POBEDA.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",dizi HD
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8xMGVjYTMxOS0wNzA2LTQzN2UtODAwOS04MzAxODEyYjkzM2Ivc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 ,Дом кино
@@ -200,9 +200,9 @@ http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50d
 #EXTINF:-1 group-title="Кино и Сериалы",Киносат
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8zNjNkMWZlMi04NWQ1LTQyODAtYTdlZi03NjMxYWY4NjE4ZjMvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",ОКИНО
-http://dmi3y-tv.ru/hls/CH_OKIHO.m3u8
+http://dmitry-tv.ddns.net/hls/CH_OKIHO.m3u8
 #EXTINF:-1 ,Русский бестселлер
-http://dmi3y-tv.ru/hls/CH_RUSSKIY_BESTSELLER.m3u8
+http://dmitry-tv.ddns.net/hls/CH_RUSSKIY_BESTSELLER.m3u8
 #EXTINF:-1 ,Русский роман
 http://46.151.151.245:10002/play/a0b3
 #EXTINF:-1 ,Русский детектив
@@ -220,47 +220,47 @@ http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50d
 #EXTINF:-1 group-title="Кино и Сериалы",Муви ТВ
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy85OTY2ZjI1ZS1iNTNhLTQ0NTAtOWZkNy1mYjE3MjVjNjRlNWUvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",КИНЕКО
-http://dmi3y-tv.ru/hls/okko/CH_FOX.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_FOX.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",САПФИР
-http://dmi3y-tv.ru/hls/okko/CH_FOXLIFE.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_FOXLIFE.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",FILM BOX
-http://dmi3y-tv.ru/hls/CH_FILMBOX.m3u8
+http://dmitry-tv.ddns.net/hls/CH_FILMBOX.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",ViP PREMIERE
-http://dmi3y-tv.ru/hls/okko/CH_ViPPREMIERE.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_ViPPREMIERE.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",ViP MEGAHIT
-http://dmi3y-tv.ru/hls/okko/CH_ViPMEGAHIT.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_ViPMEGAHIT.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",ViP COMEDY
-http://dmi3y-tv.ru/hls/okko/CH_ViPCOMEDY.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_ViPCOMEDY.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",ViP SERIAL
-http://dmi3y-tv.ru/hls/okko/CH_ViPSERIAL.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_ViPSERIAL.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",TV1000
-http://dmi3y-tv.ru/hls/okko/CH_TV1000.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_TV1000.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",TV1000 ACTION
-http://dmi3y-tv.ru/hls/okko/CH_TV1000ACTION.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_TV1000ACTION.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",TV1000 РУССКОЕ КИНО
-http://dmi3y-tv.ru/hls/okko/CH_TV1000RUSSKOEKINO.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_TV1000RUSSKOEKINO.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Точка SCI-FI
-http://dmi3y-tv.ru/hls/okko/CH_SCI-FI.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_SCI-FI.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Точка BLACK
-http://dmi3y-tv.ru/hls/okko/CH_BLACK.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_BLACK.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Точка RED
-http://dmi3y-tv.ru/hls/okko/CH_RED.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_RED.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",AMEDIA I
-http://dmi3y-tv.ru/hls/okko/CH_AMEDIAI.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_AMEDIAI.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",AMEDIA II
-http://dmi3y-tv.ru/hls/okko/CH_AMEDIAII.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_AMEDIAII.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",AMEDIA HIT
-http://dmi3y-tv.ru/hls/okko/CH_AMEDIAHIT.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_AMEDIAHIT.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",AMEDIA PREMIUM HD
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9lNGQzMjFhNS0zNDc3LTQ2NGItODM0YS00MjVmMTliMTMxZWUvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",BACKUSTV DARK HD
-http://dmi3y-tv.ru/hls/CH_BACKUSTVDARKHD.m3u8
+http://dmitry-tv.ddns.net/hls/CH_BACKUSTVDARKHD.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",BACKUSTV ORIGINAL HD
-http://dmi3y-tv.ru/hls/CH_BACKUSTVORIGINALHD.m3u8
+http://dmitry-tv.ddns.net/hls/CH_BACKUSTVORIGINALHD.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",START AIR
-http://dmi3y-tv.ru/hls/okko/CH_STARTAIR.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_STARTAIR.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",START WORLD
-http://dmi3y-tv.ru/hls/okko/CH_STARTWORLD.m3u8
+http://dmitry-tv.ddns.net/hls/okko/CH_STARTWORLD.m3u8
 XTINF:-1  group-title="Кино и Сериалы",FAN
 http://94.230.240.17:8080/fan/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Кино и Сериалы",Fox
@@ -270,9 +270,9 @@ http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50d
 #EXTINF:-1 ,Время
 http://46.151.151.245:10007/play/a002
 #EXTINF:-1 ,НОСТАЛЬГИЯ
-http://dmi3y-tv.ru/hls/CH_NOCTALGIYA.m3u8
+http://dmitry-tv.ddns.net/hls/CH_NOCTALGIYA.m3u8
 #EXTINF:-1 ,Кухня ТВ
-http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
+http://dmitry-tv.ddns.net/hls/CH_KUHNYATV.m3u8
 #EXTINF:-1 ,Загородный
 http://45.144.31.195:8024/playlist.m3u8
 #EXTINF:-1 ,Бобер
@@ -284,311 +284,311 @@ http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50d
 #EXTINF:-1 ,Продвижение
 https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Лен ТВ 24 (Санкт-Петербург)
-http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/SPB/CH_LENTV24.m3u8
 #EXTINF:-1 ,Санкт-Петербург (Санкт-Петербург)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
+http://dmitry-tv.ddns.net/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
 #EXTINF:-1 ,Москва Доверие (Москва)
-http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
 #EXTINF:-1 group-title="+++" ,Россия К
-http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIAK.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/48/CH_RUSSIAK.m3u8
 #EXTINF:-1 group-title="+++" ,Первый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1,360°
-http://dmi3y-tv.ru/hls/CH_360TV.m3u8
+http://dmitry-tv.ddns.net/hls/CH_360TV.m3u8
 #EXTINF:-1 ,Домашние Животные
 http://45.144.31.195:8013/playlist.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Ратник
-http://dmi3y-tv.ru/hls/CH_RATNIK.m3u8
+http://dmitry-tv.ddns.net/hls/CH_RATNIK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новгородское областное телевидение (Великий Новгород)
-http://dmi3y-tv.ru/hls/zabava/region/NOVG/CH_NOVGORODTV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NOVG/CH_NOVGORODTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТЕО ТВ HD (Москва)
-http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_TEOTVHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_TEOTVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сочи 24 HD (Сочи)
-http://dmi3y-tv.ru/hls/zabava/region/SOCHI/CH_SOCHI24HD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/SOCHI/CH_SOCHI24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Чехов ТВ HD720 (Чехов)
-http://dmi3y-tv.ru/hls/region/CH_CHEKHOVTVHD720_CHEV.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_CHEKHOVTVHD720_CHEV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ямал-Регион (Салехард)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_YAMREG.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_YAMREG.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТВ Сахалин (Сахалин)
-http://dmi3y-tv.ru/hls/zabava/region/DV_SLIN_OBL/CH_OTV_SLIN.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/DV_SLIN_OBL/CH_OTV_SLIN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Телемикс (Уссурийск)
-http://dmi3y-tv.ru/hls/zabava/region/DV_VLD/CH_TELEMIKS.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/DV_VLD/CH_TELEMIKS.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Самара-Гис HD (Самара)
-http://dmi3y-tv.ru/hls/zabava/region/SAMARA/CH_SAMARAGISHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/SAMARA/CH_SAMARAGISHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Губерния (Самара)
-http://dmi3y-tv.ru/hls/zabava/region/SAMARA/CH_GUBERNIA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/SAMARA/CH_GUBERNIA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тольятти 24 HD (Тольятти)
-http://dmi3y-tv.ru/hls/zabava/region/SAMARA/CH_TOLYTTI24HD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/SAMARA/CH_TOLYTTI24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тагил-ТВ (Нижний Тагил)
-http://dmi3y-tv.ru/hls/zabava/region/NTAG/CH_TAGILTV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NTAG/CH_TAGILTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Народное телевидение Мордовии (Саранск)
-http://dmi3y-tv.ru/hls/zabava/region/SRNK/CH_NTM.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/SRNK/CH_NTM.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",31 канал (Челябинск)
-http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_31TV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/CHEL/CH_31TV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",12 канал (Череповец)
-http://dmi3y-tv.ru/hls/zabava/region/VOL/CH_12CHANNEL_CHER.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/VOL/CH_12CHANNEL_CHER.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Продвижение (Тамбов)
-http://dmi3y-tv.ru/hls/zabava/region/TAMB/CH_PRODVIZHENIE.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/TAMB/CH_PRODVIZHENIE.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Юрган (Сыктывкар)
-http://dmi3y-tv.ru/hls/zabava/region/SKTV/CH_YURGAN.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/SKTV/CH_YURGAN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Раменское ТВ (Раменское)
-http://dmi3y-tv.ru/hls/region/CH_RTV_RNKOE.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_RTV_RNKOE.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",NEXT TV HD (Нефтекамск)
-http://dmi3y-tv.ru/hls/zabava/region/UFA/CH_NEXTTV_NFSK.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_NEXTTV_NFSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Белгород 24 (Белгород)
-http://dmi3y-tv.ru/hls/zabava/region/BELG/CH_BELGOROD24.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BELG/CH_BELGOROD24.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волгодонский Вестник (Волгодонск)
-http://dmi3y-tv.ru/hls/zabava/region/RD/CH_VOLGVEST_VOLG.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_VOLGVEST_VOLG.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Самотлор HD (Нижневартовск)
-http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_SAMOTLORHD_NIZH.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_SAMOTLORHD_NIZH.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТКР HD (Рязань)
-http://dmi3y-tv.ru/hls/zabava/region/RYAZ/CH_TKPHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/RYAZ/CH_TKPHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сампо ТВ (Петрозаводск)
-http://dmi3y-tv.ru/hls/zabava/region/PZAV/CH_SAMPOTV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/PZAV/CH_SAMPOTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СВОЁ ТВ (Ставрополь)
-http://dmi3y-tv.ru/hls/region/CH_SVOETV_STAVR.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_SVOETV_STAVR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Область 45 HD720 (Курган)
-http://dmi3y-tv.ru/hls/zabava/region/KRG/CH_OBLAST45HD720.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/KRG/CH_OBLAST45HD720.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый областной (Орел)
-http://dmi3y-tv.ru/hls/zabava/region/ORL/CH_1OBLASTNOY.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/ORL/CH_1OBLASTNOY.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Экспресс HD (Пенза)
-http://dmi3y-tv.ru/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Истоки (Орел)
-http://dmi3y-tv.ru/hls/zabava/region/ORL/CH_ISTOKI.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/ORL/CH_ISTOKI.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Север (Нарьян-Мар)
-http://dmi3y-tv.ru/hls/region/CH_SEVER_NAO.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_SEVER_NAO.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АИСТ HD720 (Иркутск)
-http://dmi3y-tv.ru/hls/region/CH_AISTHD720_IRK.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_AISTHD720_IRK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Луч HD (Тарко-Сале)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_LUTCHHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_LUTCHHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ННT HD720 (Махачкала)
-http://dmi3y-tv.ru/hls/region/CH_NNTHD720_MAHACHK.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_NNTHD720_MAHACHK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",КАРИБУ (Магадан)
-http://dmi3y-tv.ru/hls/zabava/region/DV_MGDN/CH_KARIBU.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/DV_MGDN/CH_KARIBU.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Про Астрахань/Продвижение HD (Астрахань)
-http://dmi3y-tv.ru/hls/zabava/region/ASTRH/CH_PRO_ASTRAKHANHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/ASTRH/CH_PRO_ASTRAKHANHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Липецкое время HD720 (Липецк)
-http://dmi3y-tv.ru/hls/region/CH_LVREMYAHD720_LIPETSK.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_LVREMYAHD720_LIPETSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ВТК АРГУС HD (Воронеж)
-http://dmi3y-tv.ru/hls/zabava/region/VRZH/CH_ARGUS.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/VRZH/CH_ARGUS.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РГВК Дагестан (Махачкала)
-http://dmi3y-tv.ru/hls/region/CH_DAGESTAN_MAHACHK.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_DAGESTAN_MAHACHK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",OVAA TV HD720 (Тыва)
-http://dmi3y-tv.ru/hls/region/CH_OVAAHD720_TYVA.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_OVAAHD720_TYVA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Камчатка 1 HD (Камчатка)
-http://dmi3y-tv.ru/hls/zabava/region/DV_KAM/CH_KAMCHATKA1HD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/DV_KAM/CH_KAMCHATKA1HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Легендарный 24 HD (Крым)
-http://dmi3y-tv.ru/hls/region/CH_LEGENDARNY24HD_KRYM.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_LEGENDARNY24HD_KRYM.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Репортер 73 (Ульяновск)
-http://dmi3y-tv.ru/hls/zabava/region/UL/CH_REP73.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/UL/CH_REP73.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ural 1 HD (Челябинск)
-http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_URAL1HD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/CHEL/CH_URAL1HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Щелковское ТВ (Щёлково)
-http://dmi3y-tv.ru/hls/region/CH_SHELKOVSKOETV_SHKV.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_SHELKOVSKOETV_SHKV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СТВ/Продвижение (Стрежевой)
-http://dmi3y-tv.ru/hls/region/CH_STV_SRVOY.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_STV_SRVOY.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Пыть-Ях Информ (Пыть-Ях)
-http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_PYT-YAHINFORM.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_PYT-YAHINFORM.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНР7 HD (Нефтеюганск)
-http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_TNR7HD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_TNR7HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РЫБИНСК 40 HD (Рыбинск)
-http://dmi3y-tv.ru/hls/zabava/region/RYB/CH_RYBINSK40HD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/RYB/CH_RYBINSK40HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Таганрог 5 (Таганрог)
-http://dmi3y-tv.ru/hls/zabava/region/RD/CH_TAGANROG5_TGNROG.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_TAGANROG5_TGNROG.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Ростовский (Ростов на Дону)
-http://dmi3y-tv.ru/hls/region/CH_1ROSTOVSKIY_RD.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_1ROSTOVSKIY_RD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",12 Канал (Омск)
-http://dmi3y-tv.ru/hls/region/CH_12CHANNEL_OMSK.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_12CHANNEL_OMSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ННТВ HD720 (Нижний Новгород)
-http://dmi3y-tv.ru/hls/zabava/region/NN/CH_NNTVHD720.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_NNTVHD720.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ВОТ ТВ HD (Липецк)
-http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_VOTTVHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_VOTTVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сейм (Курск)
-http://dmi3y-tv.ru/hls/zabava/region/KURSK/CH_SEIM.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/KURSK/CH_SEIM.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Такт 24 (Курск)
-http://dmi3y-tv.ru/hls/zabava/region/KURSK/CH_TAKT24.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/KURSK/CH_TAKT24.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ника ТВ (Калуга)
-http://dmi3y-tv.ru/hls/zabava/region/KALUGA/CH_NIKA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/KALUGA/CH_NIKA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Русский Север (Вологда)
-http://dmi3y-tv.ru/hls/region/CH_RUSEVER_VOL.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_RUSEVER_VOL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тында ТВ (Тында)
-http://dmi3y-tv.ru/hls/zabava/region/DV_BLAG/CH_TYNDATV_TYNDA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/DV_BLAG/CH_TYNDATV_TYNDA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мир Белогорья (Белгород)
-http://dmi3y-tv.ru/hls/zabava/region/BELG/CH_MIR_BLGRYA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BELG/CH_MIR_BLGRYA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ГТ-Регион (Ярославль)
-http://dmi3y-tv.ru/hls/zabava/region/YARL/CH_GTREG.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/YARL/CH_GTREG.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тверской Проспект HD (Тверь)
-http://dmi3y-tv.ru/hls/zabava/region/TVER/CH_TVERPROSPHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/TVER/CH_TVERPROSPHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНР24 HD (Нижневартовск)
-http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_TNR24HD_NIZH.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_TNR24HD_NIZH.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Югра HD (Сургут)
-http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_UGRA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_UGRA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ДОН 24 (Ростов на Дону)
-http://dmi3y-tv.ru/hls/region/CH_DON24_RD.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_DON24_RD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Орт Планета (Оренбург)
-http://dmi3y-tv.ru/hls/zabava/region/ORB/CH_ORTPLANETA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/ORB/CH_ORTPLANETA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый городской (Омск)
-http://dmi3y-tv.ru/hls/zabava/region/OMSK/CH_1GORODSKOY.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/OMSK/CH_1GORODSKOY.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый городской HD720 (Киров)
-http://dmi3y-tv.ru/hls/zabava/region/KIROV/CH_1GORODSKOYHD720.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_1GORODSKOYHD720.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вестник Надыма HD (Надым)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_VESTN_NADHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_VESTN_NADHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",8 канал (Новосибирск)
-http://dmi3y-tv.ru/hls/zabava/region/NSK/CH_8CHANNEL.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NSK/CH_8CHANNEL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новороссийск HD (Новороссийск)
-http://dmi3y-tv.ru/hls/zabava/region/NVR/CH_NOVOROSSIYSKHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NVR/CH_NOVOROSSIYSKHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Эхо ТВ 24 (Новоуральск)
-http://dmi3y-tv.ru/hls/region/CH_ECHOTV24_NURLSK.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_ECHOTV24_NURLSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Колыма+ HD720 (Магадан)
-http://dmi3y-tv.ru/hls/region/CH_KOLYMAHD720_DV_MGDN.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_KOLYMAHD720_DV_MGDN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Липецк Тайм HD (Липецк)
-http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_LIPTIMEHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_LIPTIMEHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ингушетия (Магас)
-http://dmi3y-tv.ru/hls/zabava/region/ING/CH_INGUSHETIYA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/ING/CH_INGUSHETIYA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Моя Удмуртия (Ижевск)
-http://dmi3y-tv.ru/hls/zabava/region/IZHSK/CH_MYUDMURTIA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/IZHSK/CH_MYUDMURTIA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Брянская губерния HD (Брянск)
-http://dmi3y-tv.ru/hls/zabava/region/BRYANSK/CH_BRGUBERNIAHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BRYANSK/CH_BRGUBERNIAHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",БСТ-24 HD (Братск)
-http://dmi3y-tv.ru/hls/zabava/region/BRATSK/CH_BST24HD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BRATSK/CH_BST24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Регион 29 (Архангельск)
-http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_REGION29.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/ARKH/CH_REGION29.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Луганск 24 (ЛНР/Луганск)
-http://dmi3y-tv.ru/hls/region/CH_LUGANSK24_LNR_LUGANSK.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_LUGANSK24_LNR_LUGANSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Таврия (Херсон)
 https://tavr.mediacdn.ru/cdn/tavria/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВ-ИН HD (Магнитогорск)
-http://dmi3y-tv.ru/hls/zabava/region/CHEL/CH_TVINHD_MAGN.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/CHEL/CH_TVINHD_MAGN.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тивиком HD (Улан-Удэ)
-http://dmi3y-tv.ru/hls/zabava/region/UUDE/CH_TIVICOMHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/UUDE/CH_TIVICOMHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вектор HD720 (Туринск)
-http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_VEKTORHD720_TRNSK.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_VEKTORHD720_TRNSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вектор 24 (Губкинский)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_VEKTOR24_GUBK.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_VEKTOR24_GUBK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РИФЕЙ-ТВ (Пермь)
-http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_RIFEY.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/PERM/CH_RIFEY.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Импульс HD (Новый Уренгой)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_IMPULSHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_IMPULSHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тюменское время HD (Тюмень)
-http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TUMVREMYA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/TUM/CH_TUMVREMYA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТVОЯ (Тюмень)
-http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TVOYA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/TUM/CH_TVOYA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Дзержинск ТВ HD (Дзержинск)
-http://dmi3y-tv.ru/hls/zabava/region/NN/CH_DZERZHINSKHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_DZERZHINSKHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТРК Канал-16 (Саров)
-http://dmi3y-tv.ru/hls/zabava/region/NN/CH_KANAL16_SAROV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_KANAL16_SAROV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волгоград 1 HD (Волгоград)
-http://dmi3y-tv.ru/hls/zabava/region/VGRAD/CH_VOLGOGRAD1HD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/VGRAD/CH_VOLGOGRAD1HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",6ТВ (Хабаровск)
-http://dmi3y-tv.ru/hls/zabava/region/DV_HVSK/CH_6TV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/DV_HVSK/CH_6TV.m3u8
 
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",БелРос (Беларусь)
-http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELROS.m3u8
 
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МЭТР (Йошкар-Ола)
-http://dmi3y-tv.ru/hls/zabava/region/YOLA/CH_METR.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/YOLA/CH_METR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",6 канал HD (Владимир)
-http://dmi3y-tv.ru/hls/zabava/region/VLAD/CH_6KANALHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/VLAD/CH_6KANALHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Губерния 33 HD (Владимир)
-http://dmi3y-tv.ru/hls/zabava/region/VLAD/CH_GUBERNIA33HD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/VLAD/CH_GUBERNIA33HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Астрахань 24 HD (Астрахань)
-http://dmi3y-tv.ru/hls/zabava/region/ASTRH/CH_ASTRAKHAN24HD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/ASTRH/CH_ASTRAKHAN24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Телплюс ТВ (Астрахань)
-http://dmi3y-tv.ru/hls/region/CH_TELPLUS_ASTRH.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_TELPLUS_ASTRH.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ачинское ТВ HD (Ачинск)
-http://dmi3y-tv.ru/hls/zabava/region/ACHINSK/CH_ACHINSKOETVHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/ACHINSK/CH_ACHINSKOETVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Толк (Барнаул)
-http://dmi3y-tv.ru/hls/zabava/region/BUL/CH_TOLK.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_TOLK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Бийское ТВ HD (Бийск)
-http://dmi3y-tv.ru/hls/zabava/region/BIYSK/CH_BIYSKTVHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BIYSK/CH_BIYSKTVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Амурское Областное Телевидение (Благовещенск)
-http://dmi3y-tv.ru/hls/zabava/region/DV_BLAG/CH_AOTV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/DV_BLAG/CH_AOTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Актис HD720 (Ангарск)
-http://dmi3y-tv.ru/hls/zabava/region/BRATSK/CH_AKTIS_AGRSK.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BRATSK/CH_AKTIS_AGRSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",11 канал (Усолье-Сибирское)
-http://dmi3y-tv.ru/hls/zabava/region/BRATSK/CH_11USOLYE_SIB.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/BRATSK/CH_11USOLYE_SIB.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТВ (Владивосток)
-http://dmi3y-tv.ru/hls/zabava/region/DV_VLD/CH_OTV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/DV_VLD/CH_OTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вариант V (Владимир)
-http://dmi3y-tv.ru/hls/zabava/region/VLAD/CH_VARIANT_V.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/VLAD/CH_VARIANT_V.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МиГ ТВ (Красноуральск)
-http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_MIGTV.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_MIGTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РИМ HD (Каменск-Уральский)
-http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_RIMHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_RIMHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТС (Екатеринбург)
-http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_IRBITVEST.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_IRBITVEST.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Инком ТВ (Талица)
-http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_INKOMTV_TALICA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_INKOMTV_TALICA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",4 канал (Екатеринбург)
-http://dmi3y-tv.ru/hls/zabava/region/EKT/CH_4CHANNEL.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_4CHANNEL.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Барс (Иваново)
-http://dmi3y-tv.ru/hls/zabava/region/IVAN/CH_BARS.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/IVAN/CH_BARS.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ИОТ (Иваново)
-http://dmi3y-tv.ru/hls/zabava/region/IVAN/CH_IOT.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/IVAN/CH_IOT.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АКТИС HD720 (Иркутск)
-http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_AKTISHD720.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/IRK/CH_AKTISHD720.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТС HD (Иркутск)
-http://dmi3y-tv.ru/hls/zabava/region/IRK/CH_NTSHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/IRK/CH_NTSHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",41 Регион (Камчатка)
-http://dmi3y-tv.ru/hls/zabava/region/DV_KAM/CH_41REG.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/DV_KAM/CH_41REG.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кузбасс 1 (Кемерово)
-http://dmi3y-tv.ru/hls/zabava/region/KEM/CH_KUZBASS1.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/KEM/CH_KUZBASS1.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Девятка ТВ HD (Киров)
-http://dmi3y-tv.ru/hls/zabava/region/KIROV/CH_9TVHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_9TVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Русь (Кострома)
-http://dmi3y-tv.ru/hls/zabava/region/KOSTROMA/CH_RUS.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/KOSTROMA/CH_RUS.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Краснодар (Краснодар)
-http://dmi3y-tv.ru/hls/region/CH_KRASNODAR_KRDAR.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_KRASNODAR_KRDAR.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Енисей HD (Красноярск)
-http://dmi3y-tv.ru/hls/zabava/region/KRSK/CH_ENISEYHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/KRSK/CH_ENISEYHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Афонтово HD (Красноярск)
-http://dmi3y-tv.ru/hls/zabava/region/KRSK/CH_AFONTOVOHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/KRSK/CH_AFONTOVOHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",7 канал HD (Красноярск)
-http://dmi3y-tv.ru/hls/zabava/region/KRSK/CH_7CHANNELHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/KRSK/CH_7CHANNELHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ПРИМА HD (Красноярск)
-http://dmi3y-tv.ru/hls/zabava/region/KRSK/CH_PRIMAHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/KRSK/CH_PRIMAHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Город ТВ HD (Шадринск)
 http://public-gw.iptv.shadrinsk.net:8088/gorod.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",TVАист (Ликино-Дулево)
-http://dmi3y-tv.ru/hls/region/CH_TVAIST_LD.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_TVAIST_LD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Елец ТВ (Липецк)
-http://dmi3y-tv.ru/hls/zabava/region/LIPETSK/CH_ELETS.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_ELETS.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Майкопское Телевидение (Майкоп)
-http://dmi3y-tv.ru/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СРЕДА HD (Каспийск)
-http://dmi3y-tv.ru/hls/CH_SREDAHD.m3u8
+http://dmitry-tv.ddns.net/hls/CH_SREDAHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мособр ТВ HD720 (Москва)
-http://dmi3y-tv.ru/hls/region/CH_MOSOBRTVHD720_MOS.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_MOSOBRTVHD720_MOS.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волга (Нижний Новгород)
-http://dmi3y-tv.ru/hls/zabava/region/NN/CH_VOLGA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_VOLGA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",10 канал (Новокузнецк)
-http://dmi3y-tv.ru/hls/zabava/region/NVKZ/CH_DESYATKA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NVKZ/CH_DESYATKA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Про жизнь HD (Новокузнецк)
-http://dmi3y-tv.ru/hls/zabava/region/NVKZ/CH_PROZHIZNHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NVKZ/CH_PROZHIZNHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТС HD (Новосибирск)
-http://dmi3y-tv.ru/hls/zabava/region/NSK/CH_OTSHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NSK/CH_OTSHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НСК 49 канал (Новосибирск)
-http://dmi3y-tv.ru/hls/region/CH_NSK49CHANNEL_NSK.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_NSK49CHANNEL_NSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МИГ ТВ HD (Ноябрьск)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_MIGTVHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_MIGTVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",БСТ (Ноябрьск)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_BST.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_BST.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЯМАЛ 1 HD (Ноябрьск)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_YAMAL1HD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_YAMAL1HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Омск ТВ HD (Омск)
-http://dmi3y-tv.ru/hls/zabava/region/OMSK/CH_OMSKTVHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/OMSK/CH_OMSKTVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЛТК HD (Лысьва)
-http://dmi3y-tv.ru/hls/zabava/region/PERM/CH_LTKHD_LSVA.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/PERM/CH_LTKHD_LSVA.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Наши города HD (Когалым)
-http://dmi3y-tv.ru/hls/zabava/region/SUR/CH_NGORHD.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_NGORHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Солн ТВ (Солнечногорск)
-http://dmi3y-tv.ru/hls/region/CH_SOLNTV_SNGSK.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_SOLNTV_SNGSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Советск-Тильзит ТВ (Советск)
-http://dmi3y-tv.ru/hls/region/CH_STTV_SOVETSK.m3u8
+http://dmitry-tv.ddns.net/hls/region/CH_STTV_SOVETSK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новый век (Тамбов)
-http://dmi3y-tv.ru/hls/zabava/region/TAMB/CH_NOVIY_VEK.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/TAMB/CH_NOVIY_VEK.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тобольское время (Тобольск)
-http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TOBOLSKOEVREMYA_TBLSK.m3u8
+http://dmitry-tv.ddns.net/hls/zabava/region/TUM/CH_TOBOLSKOEVREMYA_TBLSK.m3u8
 
 
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Звязда HD (Витебск)
@@ -600,7 +600,7 @@ http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50d
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВ2 (Могилев)
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8xMGZkNGVkMC1kZTA2LTRhNzctOWNiYS1kYWIzZjllZmRiNjcvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СТВ HD (Беларусь)
-http://dmi3y-tv.ru/hls/blrus/CH_STVHD.m3u8
+http://dmitry-tv.ddns.net/hls/blrus/CH_STVHD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Беларусь 1 HD (Беларусь)
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy8wZDA1NDZhMi1iOGRhLTQ2NzAtODBkNC00NTJlNDBjMzQ0YmUvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Беларусь 2 HD (Беларусь)
@@ -608,7 +608,7 @@ http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50d
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Беларусь 3 HD (Беларусь)
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy9iOTQ4MjJlOS03ZTNkLTQxZTUtOTg4Yi05Mzk1NjE4YTQ1YWUvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Беларусь 4 HD720 (Витебск)
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS4HD720_VIT.m3u8
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS4HD720_VIT.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Беларусь 5 HD (Беларусь)
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy85MTE0NjNmMy0yZTc0LTQ5YWItYjVlOC0yNTUwY2I0Yzk3NTMvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОНТ HD (Беларусь)
