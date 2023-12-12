@@ -87,6 +87,27 @@ http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_7.m3u8
 http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE-1.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ" ,СТС Love (+4)
 http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
+http://dmi3y-tv.ru/hls/okko/CH_1TVHD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_5.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+8)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_8.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+9)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_9.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",STAR FAMILY
 http://dmi3y-tv.ru/hls/okko/CH_STARFAMILY.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",START AIR
