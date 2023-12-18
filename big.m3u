@@ -1,12 +1,12 @@
 #EXTM3U#
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СЕРИАЛ
-http://dmitry-tv.ddns.net/hls/CH_NTVSERIAL.m3u8
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ХИТ
-http://dmitry-tv.ddns.net/hls/CH_NTVHIT.m3u8
+http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ ПРАВО
-http://dmitry-tv.ddns.net/hls/CH_NTVPRAVO.m3u8
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ СТИЛЬ
-http://dmitry-tv.ddns.net/hls/CH_NTVSTIL.m3u8
+http://cdn.ntv.ru/th_stil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Загородный
 http://45.144.31.195:8024/playlist.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+1)
@@ -109,7 +109,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_8.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+9)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_9.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",STAR FAMILY
-http://dmi3y-tv.ru/hls/okko/CH_STARFAMILY.m3u8
+http://89.254.128.5:22280/star_family_hd/video.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",START AIR
 http://dmi3y-tv.ru/hls/okko/CH_STARTAIR.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",START WORLD
@@ -124,6 +124,12 @@ http://dmitry-tv.ddns.net/hls/CH_RUSSKIY_BESTSELLER.m3u8
 http://46.151.151.245:10002/play/a0b3
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Кино 1 International 
 https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QAdDARF.png" group-title="Кинозал",Kino 24
+http://moobl.ru/hls/Kino_24.m3u8
+
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE
 http://dmitry-tv.ddns.net/hls/okko/CH_ViPPREMIERE.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP MEGAHIT
