@@ -9,7 +9,7 @@ http://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 http://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1 group-title=="+++",НТВ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
-#EXTINF:-1 group-title=="+++",НТВ
+#EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
 #EXTINF:-1 group-title=="+++",НТВ (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_1.m3u8
@@ -25,40 +25,14 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_5.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
 #EXTINF:-1 group-title="+++",НТВ (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_7.m3u8
-#EXTINF:-1 group-title=="+++",НТВ (+8)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_8.m3u8
-#EXTINF:-1 group-title=="+++",НТВ (+9)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_9.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
-#EXTINF:-1 ,Россия 1
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+1)
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+2)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_KRG.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+3)
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+5)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_IRK.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+6)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_CHITA.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+8)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+9)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
-#EXTINF:-1 group-title="+++",Россия РТР (СНГ)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_SNG.m3u8
-#EXTINF:-1 group-title="+++",Россия РТР (ASIA)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIARTR_ASIA.m3u8
-#EXTINF:-1 group-title="+++",PLANETA RTR (EURO)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_EURO.m3u8
-#EXTINF:-1 group-title="+++",PLANETA RTR (USA)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_PLANETARTR_USA.m3u8
+#EXTINF:-1 ,Россия 1 (+0) 
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_SPB.m3u8
+#EXTINF:-1 ,Россия 24 (+0) 
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_SPB.m3u8
+#EXTINF:-1 ,Санкт-Петербург HD 
+http://player.smotrim.ru/iframe/stream/live_id/62037?43e=5.m3u8
+#EXTINF:-1 ,Лен ТВ 24 HD (Санкт-Петербург)
+http://player.smotrim.ru/iframe/stream/live_id/63063?43e=5.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
 #EXTINF:-1 ,Пятый канал
