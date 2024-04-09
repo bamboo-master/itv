@@ -85,6 +85,12 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_5.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
 #EXTINF:-1 group-title="+++",ТВЦ (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
+#EXTINF:-1 ,Кино и сериалы (СМОТРИМ)
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:-1 ,Мелодрамы (СМОТРИМ)
+http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
+#EXTINF:-1 ,Тайны (СМОТРИМ)
+http://dmi3y-tv.ru/hls/smotrim/CH_TAYNY.m3u8
 #EXTINF:-1 ,СТС
 http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 group-title="+++",СТС Love (-1)
