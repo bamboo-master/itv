@@ -90,7 +90,7 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
 #EXTINF:-1 group-title="+++",СТС Love (-1)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE-1.m3u8
 #EXTINF:-1 ,СТС Love
-https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
 #EXTINF:-1 group-title="+++",СТС Love (+2)
 http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
 #EXTINF:-1 group-title="+++",СТС Love (+4)
