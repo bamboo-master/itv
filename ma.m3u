@@ -69,6 +69,8 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_5.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
+#EXTINF:-1 ,Москва Доверие 
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
 #EXTINF:-1 group-title="+++",ТВЦ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC-1.m3u8
 #EXTINF:-1 ,ТВЦ
