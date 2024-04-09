@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 ,НТВ СЕРИАЛ
-http://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
-#EXTINF:-1 ,НТВ ХИТ
-http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 ,НТВ ПРАВО
-http://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
+#EXTINF:-1 ,НТВ СЕРИАЛ
+http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
-http://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 ,НТВ ХИТ
+http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
 #EXTINF:-1 group-title=="+++",НТВ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTINF:-1 ,НТВ
@@ -47,10 +47,6 @@ http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_7.m3u8
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_8.m3u8
 #EXTINF:-1 group-title="+++",Россия 1 (+9)
 http://player.smotrim.ru/iframe/stream/live_id/64160?43e=5.m3u8
-#EXTINF:-1 ,Санкт-Петербург HD 
-http://player.smotrim.ru/iframe/stream/live_id/62037?43e=5.m3u8
-#EXTINF:-1 ,Лен ТВ 24
-http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
 #EXTINF:-1 ,Пятый канал
@@ -69,8 +65,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_5.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
 #EXTINF:-1 group-title="+++",Пятый канал (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
-#EXTINF:-1 ,Москва Доверие 
-http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
 #EXTINF:-1 group-title="+++",ТВЦ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC-1.m3u8
 #EXTINF:-1 ,ТВЦ
@@ -139,6 +133,8 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
 #EXTINF:-1 ,Домашний
 http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF:-1 ,Перец International
+http://dmi3y-tv.ru/hls/CH_PERETZ_INT.m3u8
 #EXTINF:-1 ,Звезда
 http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
 #EXTINF:-1 ,Звезда плюс 
@@ -241,6 +237,8 @@ http://45.144.31.195:8024/playlist.m3u8
 http://195.26.83.96:7022/play/a00t/index.m3u8
 #EXTINF:-1 ,Усадьба
 http://94.230.240.17:8080/usadba/index.m3u8
+#EXTINF:-1 ,Загородная жизнь
+http://dmi3y-tv.ru/hls/CH_ZAGORODNAYAZHIZN.m3u8
 #EXTINF:-1 ,Продвижение
 https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Лен ТВ 24 (Санкт-Петербург)
@@ -280,6 +278,22 @@ http://dmi3y-tv.ru/hls/CH_360TV.m3u8
 http://45.144.31.195:8013/playlist.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Ратник
 http://dmi3y-tv.ru/hls/CH_RATNIK.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",KINO 24
+http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино 1 International
+http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Дом кино
+http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМАН HD
+http://dmi3y-tv.ru/hls/zabava/CH_KINOMANHD.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Русский роман
+http://dmi3y-tv.ru/hls/CH_RUSSKIY_ROMAN.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ТЕЛЕКАФЕ
+http://dmi3y-tv.ru/hls/CH_TELEKAFE.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ROMANCE
+http://dmi3y-tv.ru/hls/CH_ROMANCE.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA II
+http://dmi3y-tv.ru/hls/CH_AMEDIAII.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новгородское областное телевидение (Великий Новгород)
 http://dmi3y-tv.ru/hls/zabava/region/NOVG/CH_NOVGORODTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТЕО ТВ HD (Москва)
@@ -288,3 +302,17 @@ http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_TEOTVHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/region/SOCHI/CH_SOCHI24HD.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мир Белогорья (Белгород)
 http://dmi3y-tv.ru/hls/zabava/region/BELG/CH_MIR_BLGRYA.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 1 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS1.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 2 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS2.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 3 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS3.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 24 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",СТВ HD (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_STVHD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",ОНТ (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_ONT_BLRUS.m3u8
