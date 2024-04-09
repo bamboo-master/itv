@@ -241,10 +241,10 @@ http://94.230.240.17:8080/usadba/index.m3u8
 http://dmi3y-tv.ru/hls/CH_ZAGORODNAYAZHIZN.m3u8
 #EXTINF:-1 ,Продвижение
 https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Лен ТВ 24 (Санкт-Петербург)
+#EXTINF:-1 ,Лен ТВ 24 
 http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
-#EXTINF:-1 ,Санкт-Петербург (Санкт-Петербург)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_SANKTPETERBURG_SPB.m3u8
+#EXTINF:-1 ,Санкт-Петербург 
+http://player.smotrim.ru/iframe/stream/live_id/62037?43e=5.m3u8
 #EXTINF:-1 ,Москва Доверие (Москва)
 http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
 #EXTINF:-1 group-title="+++" ,Россия К
@@ -274,8 +274,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_8.m3u8
 http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_9.m3u8
 #EXTINF:-1,360°
 http://dmi3y-tv.ru/hls/CH_360TV.m3u8
-#EXTINF:-1 ,Домашние Животные
-http://45.144.31.195:8013/playlist.m3u8
 #EXTINF:-1 group-title="Кино и Сериалы",Ратник
 http://dmi3y-tv.ru/hls/CH_RATNIK.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",KINO 24
@@ -286,14 +284,10 @@ http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМАН HD
 http://dmi3y-tv.ru/hls/zabava/CH_KINOMANHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Русский роман
-http://dmi3y-tv.ru/hls/CH_RUSSKIY_ROMAN.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ТЕЛЕКАФЕ
 http://dmi3y-tv.ru/hls/CH_TELEKAFE.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ROMANCE
 http://dmi3y-tv.ru/hls/CH_ROMANCE.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",AMEDIA II
-http://dmi3y-tv.ru/hls/CH_AMEDIAII.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новгородское областное телевидение (Великий Новгород)
 http://dmi3y-tv.ru/hls/zabava/region/NOVG/CH_NOVGORODTV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТЕО ТВ HD (Москва)
