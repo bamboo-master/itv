@@ -7,10 +7,6 @@ http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 http://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 ,НТВ СТИЛЬ
 http://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
-#EXTINF:-1 group-title="+++",НТВ (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
-#EXTINF:-1,НТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
 #EXTINF:-1 group-title=="+++",НТВ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTINF:-1 group-title=="+++",НТВ
@@ -22,7 +18,6 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_4.m3u8
 #EXTINF:-1 group-title="+++",НТВ (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
 #EXTINF:-1 group-title="+++",НТВ (+7)
-
 #EXTINF:-1 group-title="+++",Россия 1 (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1-1.m3u8
 #EXTINF:-1 ,Россия 1
