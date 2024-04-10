@@ -135,14 +135,6 @@ http://dmi3y-tv.ru/hls/CH_3BE3DAPLUS.m3u8
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,Телекафе
 http://stream01.vnet.am/Telekafe/mono.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV DARK HD
-http://dmi3y-tv.ru/hls/CH_BACKUSTVDARKHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV ORIGINAL HD
-http://dmi3y-tv.ru/hls/CH_BACKUSTVORIGINALHD.m3u8
-XTINF:-1  group-title="КИНО И СЕРИАЛЫ",FAN
-http://94.230.240.17:8080/fan/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Fox
-http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 ,Загородная жизнь
 http://dmi3y-tv.ru/hls/CH_ZAGORODNAYAZHIZN.m3u8
 #EXTINF:-1 ,Продвижение
@@ -200,8 +192,6 @@ http://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 http://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",KINO 24
 http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кино 1 International
-http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Дом кино
 http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМАН HD
@@ -240,13 +230,13 @@ http://strm.yandex.ru/kal/rtr_belarus/rtr_belarus0.m3u8
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INT.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Дом кино Премиум 
 http://188.113.190.15/91/tracks-v1a1/index.m3u8
-#EXTINF:-1 " group-title="КИНО И СЕРИАЛЫ",Мир сериала 
+#EXTINF:-1 ,Мир сериала 
 https://woobl.ru/hls987/Mir_seriala.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Мосфильм. Золотая коллекция 
+#EXTINF:-1 ,Мосфильм. Золотая коллекция 
 http://178.212.236.3:8802/play/404
-#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",НТВ Сериал 
+#EXTINF:-1  ,НТВ Сериал 
 http://91.205.199.3:80/ntvserial/index.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ Хит 
+#EXTINF:-1 ,НТВ Хит 
 http://92.242.110.52:9835/udp/238.1.7.27:1234
 #EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",.black 
 http://otv.wotom.net:4433/udp/238.1.1.139:1234
@@ -304,7 +294,7 @@ http://109.239.208.82:80/retro/index.m3u8
 http://188.113.190.15/182/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Start Air 
 http://92.242.110.52:9835/udp/238.1.7.28:1234
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Star Family 
+#EXTINF:-1 ,Star Family 
 http://88.135.128.20:7272/MTsnTXg1kReNwSf
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 Русское 
 http://92.242.110.52:9835/udp/238.1.8.22:1234
@@ -312,9 +302,9 @@ http://92.242.110.52:9835/udp/238.1.8.22:1234
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Победа 
 http://188.113.190.15/85/tracks-v1a1/index.m3u8
 https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
-#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Русский бестселлер 
+#EXTINF:-1  ,Русский бестселлер 
 http://176.113.48.221:8986/44
-#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Русский детектив 
+#EXTINF:-1  Русский детектив 
 http://176.113.48.221:8986/45
 #EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Русский иллюзион 
 http://45.15.43.12:80/illuzion/video.m3u8?token=test
@@ -336,3 +326,11 @@ http://ott-cdn.ucom.am/s31/04.m3u8
 http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Кухня ТВ 
 http://stream01.vnet.am/KukhnyaTv/mono.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV DARK HD
+http://dmi3y-tv.ru/hls/CH_BACKUSTVDARKHD.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV ORIGINAL HD
+http://dmi3y-tv.ru/hls/CH_BACKUSTVORIGINALHD.m3u8
+XTINF:-1  group-title="КИНО И СЕРИАЛЫ",FAN
+http://94.230.240.17:8080/fan/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Fox
+http://stream01.vnet.am/Fox/mono.m3u8
