@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,НТВ СЕРИАЛ
-http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ ХИТ
-http://cdn.ntv.ru/th_hit/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ ПРАВО
-http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ СТИЛЬ
-http://cdn.ntv.ru/th_stil/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="+++",НТВ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTINF:-1 ,НТВ
@@ -204,8 +196,6 @@ http://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
 http://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",CINEMA HD (auto)
 http://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НСТ (auto)
-http://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TRASH HD
 http://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",KINO 24
@@ -216,8 +206,6 @@ http://dmi3y-tv.ru/hls/CH_KINO1_INT.m3u8
 http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМАН HD
 http://dmi3y-tv.ru/hls/zabava/CH_KINOMANHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",KINO 24
-http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ТЕЛЕКАФЕ
 http://dmi3y-tv.ru/hls/CH_TELEKAFE.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ROMANCE
@@ -250,3 +238,121 @@ http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
 http://strm.yandex.ru/kal/rtr_belarus/rtr_belarus0.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 5 Интернет (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INT.m3u8
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Дом кино Премиум (HD)
+http://188.113.190.15/91/tracks-v1a1/index.m3u8
+#EXTINF:-1 " group-title="КИНО И СЕРИАЛЫ",Мир сериала (EDTV 576p)
+https://woobl.ru/hls987/Mir_seriala.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Мосфильм. Золотая коллекция (EDTV 576p)
+http://178.212.236.3:8802/play/404
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",НТВ Сериал (EDTV 576p)
+http://91.205.199.3:80/ntvserial/index.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",НТВ Хит (EDTV 576p)
+http://92.242.110.52:9835/udp/238.1.7.27:1234
+
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",.black (EDTV 576p)
+http://otv.wotom.net:4433/udp/238.1.1.139:1234
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",.red (EDTV 576p)
+http://otv.wotom.net:4433/udp/238.1.1.141:1234
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",.sci-fi (EDTV 576p)
+http://92.242.110.52:9835/udp/238.1.8.18:1234
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Amedia 1 (EDTV 576p)
+http://45.15.43.12:80/amedia1/video.m3u8?token=test
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Amedia 2 (EDTV 576p)
+http://176.113.48.221:8986/128
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Amedia Premium (EDTV 576p)
+http://92.242.110.52:9835/udp/238.1.11.4:1234
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Cinema (EDTV 576p)
+http://otv.wotom.net:4433/udp/238.1.1.140:1234
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",FAN (HD)
+http://hlss.goodgame.ru/hls/157239.m3u8
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Filmbox Arthouse (EDTV 576p)
+http://188.113.190.15/207/mono.m3u8
+
+
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",KinoLiving (EDTV 576p)
+http://92.242.110.52:9835/udp/238.1.8.1:1234
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Plan B (HD)
+http://88.85.172.243:7012/play/a028
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Start World (HD)
+https://bkm.beetv.kz/btv/live/hls/000007818.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 (EDTV 576p)
+http://92.242.110.52:9835/udp/238.1.8.23:1234
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 Action (EDTV 576p)
+http://92.242.110.52:9835/udp/238.1.8.24:1234
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 Новелла (HD)
+http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju+ Comedy (EDTV 576p)
+http://188.113.190.15/203/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju+ Megahit (HD)
+http://92.242.110.52:9835/udp/238.1.3.7:1234
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Viju+ Premiere (EDTV 576p)
+http://188.113.190.15/201/tracks-v1a1/index.m3u8
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Viju+ Serial (HD)
+http://176.113.48.221:8986/68
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Еврокино (EDTV 576p)
+http://109.239.208.82:80/eurokino/index.m3u8
+#EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://epgx.site/p/illuzion-plus.png" group-title="КИНО И СЕРИАЛЫ",Иллюзион+ (EDTV 576p)
+http://176.113.48.221:8986/73
+
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Комедия (EDTV 576p)
+http://188.113.190.15/214/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кинеко (EDTV 576p)
+http://92.242.110.52:9835/udp/238.1.8.12:1234
+
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кинопремьера (HD)
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кинохит (EDTV 576p)
+http://109.248.236.21:4433/udp/238.1.1.53:1234
+
+
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Ретро (EDTV 576p)
+http://109.239.208.82:80/retro/index.m3u8
+#EXTINF:-1   group-title="КИНО И СЕРИАЛЫ",Сапфир (HD)
+http://188.113.190.15/182/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Start Air (HD)
+http://92.242.110.52:9835/udp/238.1.7.28:1234
+
+#EXTINF:-1 tvg-id="star-family" tvg-logo="https://epgx.site/p/star-family.png" group-title="КИНО И СЕРИАЛЫ",Star Family (Латвия, HD)
+http://88.135.128.20:7272/MTsnTXg1kReNwSf
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 Русское (EDTV 576p)
+http://92.242.110.52:9835/udp/238.1.8.22:1234
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",День Победы (HD ready)
+
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Победа (EDTV 576p)
+http://188.113.190.15/85/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ" user-agent="ExoPlayer2/2.37",Родное кино (SDTV 576i)
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+#EXTINF:-1 tvg-id="russky-bestseller" tvg-logo="https://epgx.site/p/russky-bestseller.png" group-title="КИНО И СЕРИАЛЫ",Русский бестселлер (EDTV 576p)
+http://176.113.48.221:8986/44
+#EXTINF:-1 tvg-id="russky-detektiv" tvg-logo="https://epgx.site/p/russky-detektiv.png" group-title="КИНО И СЕРИАЛЫ",Русский детектив (EDTV 576p)
+http://176.113.48.221:8986/45
+#EXTINF:-1 tvg-id="russky-illuzion" tvg-logo="https://epgx.site/p/russky-illuzion.png" group-title="КИНО И СЕРИАЛЫ",Русский иллюзион (EDTV 576p)
+http://45.15.43.12:80/illuzion/video.m3u8?token=test
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Феникс+Кино (EDTV 576p)
+http://188.113.190.15/24/mono.m3u8
+#EXTINF:-1,НТВ Стиль 
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Усадьба (EDTV 576p)
+http://176.113.48.221:8986/188
+#EXTINF:-1 ,Бобер (EDTV 576p)
+http://178.212.71.253:8002/play/a00m/index.m3u8
+#EXTINF:-1 ,Доктор (EDTV 576p)
+http://88.85.172.243:7004/play/a01l
+#EXTINF:-1 ,Домашние Животные (EDTV 576p)
+http://109.239.208.82:80/animals/index.m3u8
+#EXTINF:-1 ,Загородный (480p)
+http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:-1 ,Здоровое ТВ (EDTV 576p)
+http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
+#EXTINF:-1 ,Кухня ТВ (EDTV 576p)
+http://stream01.vnet.am/KukhnyaTv/mono.m3u8
