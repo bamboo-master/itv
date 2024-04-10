@@ -7,19 +7,19 @@ http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 #EXTINF:-1 ,НТВ ХИТ
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
-#EXTINF:-1 group-title=="+++",НТВ (-1)
+#EXTINF:-1 group-title="+++",НТВ (-1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
 #EXTINF:-1 ,НТВ
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF:-1 group-title=="+++",НТВ (+1)
+#EXTINF:-1 group-title="+++",НТВ (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_1.m3u8
-#EXTINF:-1 group-title=="+++",НТВ (+2)
+#EXTINF:-1 group-title="+++",НТВ (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
-#EXTINF:-1 group-title=="+++",НТВ (+3)
+#EXTINF:-1 group-title="+++",НТВ (+3)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_3.m3u8
-#EXTINF:-1 group-title=="+++",НТВ (+4)
+#EXTINF:-1 group-title="+++",НТВ (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_4.m3u8
-#EXTINF:-1 group-title=="+++",НТВ (+5)
+#EXTINF:-1 group-title="+++",НТВ (+5)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_5.m3u8
 #EXTINF:-1 group-title="+++",НТВ (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
