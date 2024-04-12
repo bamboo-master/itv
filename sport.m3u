@@ -1,17 +1,11 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! СТРАНА
-http://bl.uma.media/live/291663/HLS/4614144_1/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 1
-http://bl.uma.media/live/126863/HLS/6866944_1/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 2
-http://bl.uma.media/live/126864/HLS/6866944_1/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 3
-http://bl.uma.media/live/126865/HLS/6866944_1/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ПРЕМЬЕР
-http://bl.uma.media/live/126866/HLS/6866944_1/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! АРЕНА
-http://bl.uma.media/live/126868/HLS/6866944_1/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ПЛАНЕТА
-http://bl.uma.media/live/126869/HLS/6866944_1/2/1/playlist.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Соловьев Live
-http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVEVLIVE.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 5 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 5 (Беларусь) (auto)
+http://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 5 HD (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 5 Интернет (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INT.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 5 Интернет HD (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
