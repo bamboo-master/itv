@@ -1,128 +1,332 @@
 #EXTM3U
-#EXTINF:-1 ,НТВ СЕРИАЛ
-http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
-#EXTINF:-1 ,НТВ СТИЛЬ
-http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
-#EXTINF:-1 ,НТВ ХИТ
-http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
-#EXTINF:-1 ,НТВ (+1)
-https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ (+2)
-https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ (+3)
+#EXTINF:-1 group-title="+++",НТВ (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
+#EXTINF:-1 ,НТВ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
+#EXTINF:-1 group-title="+++",НТВ (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_1.m3u8
+#EXTINF:-1 group-title="+++",НТВ (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
+#EXTINF:-1 group-title="+++",НТВ (+3)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_3.m3u8
-#EXTINF:-1 ,НТВ (+4)
-https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ (+5)
+#EXTINF:-1 group-title="+++",НТВ (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_4.m3u8
+#EXTINF:-1 group-title="+++",НТВ (+5)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_5.m3u8
-#EXTINF:-1 ,НТВ (+6)
+#EXTINF:-1 group-title="+++",НТВ (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
-#EXTINF:-1 ,НТВ (+7)
-https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Россия 1 (+1)
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VLG_SARATOV_ROSSIA1/variant.m3u8
-#EXTINF:-1 ,Россия 1 (+2)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_KRG.m3u8
-#EXTINF:-1,Россия 1 (+3)
-http://rt-sib-omsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SIB_OMSK_ROSSIA1_OMSKOBL/variant.m3u8
-#EXTINF:-1 ,Россия 1 (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 ,Россия 1 (+5)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_IRK.m3u8
-#EXTINF:-1 ,Россия 1 (+6)
-http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_CHITA.m3u8
-#EXTINF:-1 ,Россия 1 (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_7.m3u8
-#EXTINF:-1,Россия 1 (+8)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_8.m3u8
-#EXTINF:-1 ,Россия 1 (+9)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RUSSIA1_9.m3u8
-#EXTINF:-1 ,Пятый канал (+1)
+#EXTINF:-1 group-title="+++",НТВ (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_7.m3u8
+#EXTINF:-1 ,Россия 1 (+0) 
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_SPB.m3u8
+#EXTINF:-1 group-title="+++",Россия 24 (+0) 
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_SPB.m3u8
+#EXTINF:-1 group-title="+++",Россия 1 (+1)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_1.m3u8
+#EXTINF:-1 group-title="+++",Россия 1 (+2)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
+#EXTINF:-1 group-title="+++",Россия 1 (+3)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_3.m3u8
+#EXTINF:-1 group-title="+++",Россия 1 (+4)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 group-title="+++",Россия 1 (+5)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
+#EXTINF:-1 group-title="+++",Россия 1 (+6)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_6.m3u8
+#EXTINF:-1 group-title="+++",Россия 1 (+7)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_7.m3u8
+#EXTINF:-1 group-title="+++",Россия 1 (+8)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_8.m3u8
+#EXTINF:-1 group-title="+++",Россия 1 (+9)
+http://player.smotrim.ru/iframe/stream/live_id/64160?43e=5.m3u8
+#EXTINF:-1 group-title="+++",Пятый канал (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
+#EXTINF:-1 ,Пятый канал
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF:-1 group-title="+++",Пятый канал (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_1.m3u8
-#EXTINF:-1 ,Пятый канал (+2)
+#EXTINF:-1 group-title="+++",Пятый канал (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_2.m3u8
-#EXTINF:-1 ,Пятый канал (+3)
+#EXTINF:-1 group-title="+++",Пятый канал (+3)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_3.m3u8
-#EXTINF:-1 ,Пятый канал (+4)
+#EXTINF:-1 group-title="+++",Пятый канал (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_4.m3u8
-#EXTINF:-1 ,Пятый канал (+5)
+#EXTINF:-1 group-title="+++",Пятый канал (+5)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_5.m3u8
-#EXTINF:-1 ,Пятый канал (+6)
+#EXTINF:-1 group-title="+++",Пятый канал (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
-#EXTINF:-1 ,Пятый канал (+7)
+#EXTINF:-1 group-title="+++",Пятый канал (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
-#EXTINF:-1 ,ТВЦ (+1)
+#EXTINF:-1 group-title="+++",ТВЦ (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC-1.m3u8
+#EXTINF:-1 ,ТВЦ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
+#EXTINF:-1 group-title="+++",ТВЦ (+1)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_1.m3u8
-#EXTINF:-1 ,ТВЦ (+2)
+#EXTINF:-1 group-title="+++",ТВЦ (+2)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
-#EXTINF:-1 ,ТВЦ (+3)
+#EXTINF:-1 group-title="+++",ТВЦ (+3)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_3.m3u8
-#EXTINF:-1 ,ТВЦ (+4)
+#EXTINF:-1 group-title="+++",ТВЦ (+4)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_4.m3u8
-#EXTINF:-1 ,ТВЦ (+5)
+#EXTINF:-1 group-title="+++",ТВЦ (+5)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_5.m3u8
-#EXTINF:-1 ,ТВЦ (+6)
+#EXTINF:-1 group-title="+++",ТВЦ (+6)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
-#EXTINF:-1 ,ТВЦ (+7)
+#EXTINF:-1 group-title="+++",ТВЦ (+7)
 http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
-#EXTINF:- ,СТС Love (+4)
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
-#EXTINF:-1 ,ТВ3 (-1)
-TV3(-1), http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
-#EXTINF:-1 ,ТВ3 (+1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_1.m3u8
-#EXTINF:-1 ,ТВ3 (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_2.m3u8
-#EXTINF:-1 ,ТВ3 (+3)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_3.m3u8
-#EXTINF:-1 ,ТВ3 (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_4.m3u8
-#EXTINF:-1 ,ТВ3 (+5)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_5.m3u8
-#EXTINF:-1 ,ТВ3 (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
-#EXTINF:-1 ,ТВ3 (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
-#EXTINF:-1 ,Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
-http://dmi3y-tv.ru/hls/CH_NASHENOVOEKINO.m3u8
-#EXTINF:-1 ,STAR CINEMA
-http://dmi3y-tv.ru/hls/okko/CH_STARCINEMA.m3u8
-#EXTINF:-1 ,STAR FAMILY
-http://dmi3y-tv.ru/hls/okko/CH_STARFAMILY.m3u8
-#EXTINF:-1 ,Кухня ТВ
-http://dmi3y-tv.ru/hls/CH_KUHNYATV.m3u8
-#EXTINF:-1 ,Кино и сериалы (СМОТРИМ)
+#EXTINF:-1 ,КИНО И СЕРИАЛЫ (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Мелодрамы (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
-#EXTINF:-,СТВ (Беларусь)
-http://dmi3y-tv.ru/hls/blrus/CH_STVHD720_BLRUS.m3u8
-#EXTINF:-1 ,БелРос (Беларусь)
-http://dmi3y-tv.ru/hls/blrus/CH_BELROS_BLRUS.m3u8
-#EXTINF:-1 ,7tv
-http://dmi3y-tv.ru/hls/CH_7TV.m3u8
-#EXTINF:-1 ,Выборг ТВ
-http://dmi3y-tv.ru/hls/CH_WTV.m3u8
-#EXTINF:-1 ,Мир Белогорья (Белгород)
+#EXTINF:-1 ,Тайны (СМОТРИМ)
+http://dmi3y-tv.ru/hls/smotrim/CH_TAYNY.m3u8
+#EXTINF:-1 ,СТС
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
+#EXTINF:-1 group-title="+++",СТС Love (-1)
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE-1.m3u8
+#EXTINF:-1 ,СТС Love
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
+#EXTINF:-1 group-title="+++",СТС Love (+2)
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
+#EXTINF:-1 group-title="+++",СТС Love (+4)
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
+#EXTINF:-1 group-title="+++",ТВ3 (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
+#EXTINF:-1 ,ТВ3
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
+#EXTINF:-1 group-title="+++",ТВ3 (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_1.m3u8
+#EXTINF:-1 group-title="+++",ТВ3 (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_2.m3u8
+#EXTINF:-1 group-title="+++",ТВ3 (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_3.m3u8
+#EXTINF:-1 group-title="+++",ТВ3 (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_4.m3u8
+#EXTINF:-1 group-title="+++",ТВ3 (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_5.m3u8
+#EXTINF:-1 group-title="+++",ТВ3 (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
+#EXTINF:-1 group-title="+++",ТВ3 (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
+#EXTINF:-1 ,Пятница!
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF:-1 ,Суббота!
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
+#EXTINF:-1 ,Че!
+http://dmi3y-tv.ru/hls/zabava/CH_CHE.m3u8
+#EXTINF:-1 ,Ю
+http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
+#EXTINF:-1 ,ОТР
+http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 ,МИР
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
+#EXTINF:-1 ,РЕН ТВ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
+#EXTINF:-1 ,Домашний
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF:-1 ,Перец International
+http://dmi3y-tv.ru/hls/CH_PERETZ_INT.m3u8
+#EXTINF:-1 ,Звезда
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
+#EXTINF:-1 ,Звезда плюс 
+http://dmi3y-tv.ru/hls/CH_3BE3DAPLUS.m3u8
+#EXTINF:-1 ,Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 ,Телекафе
+http://stream01.vnet.am/Telekafe/mono.m3u8
+#EXTINF:-1 ,Загородная жизнь
+http://dmi3y-tv.ru/hls/CH_ZAGORODNAYAZHIZN.m3u8
+#EXTINF:-1 ,Продвижение
+https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Лен ТВ 24 
+http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
+#EXTINF:-1 ,Санкт-Петербург 
+http://player.smotrim.ru/iframe/stream/live_id/62037?43e=5.m3u8
+#EXTINF:-1 ,Москва Доверие 
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
+#EXTINF:-1 group-title="+++" ,Россия К
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="+++" ,Первый канал
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
+#EXTINF:-1 group-title="+++",Первый канал (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
+http://dmi3y-tv.ru/hls/okko/CH_1TVHD.m3u8
+#EXTINF:-1 group-title="+++",Первый канал (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_1.m3u8
+#EXTINF:-1 group-title="+++",Первый канал (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_2.m3u8
+#EXTINF:-1 group-title="+++",Первый канал (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_3.m3u8
+#EXTINF:-1 group-title="+++",Первый канал (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_4.m3u8
+#EXTINF:-1 group-title="+++",Первый канал (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_5.m3u8
+#EXTINF:-1 group-title="+++",Первый канал (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_6.m3u8
+#EXTINF:-1 group-title="+++",Первый канал (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_7.m3u8
+#EXTINF:-1 group-title="+++",Первый канал (+8)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_8.m3u8
+#EXTINF:-1 group-title="+++",Первый канал (+9)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_9.m3u8
+#EXTINF:-1,360°
+http://dmi3y-tv.ru/hls/CH_360TV.m3u8
+#EXTINF:-1 ,Твое ТВ HD
+http://dmi3y-tv.ru/hls/CH_TVOETVHD.m3u8
+#EXTINF:-1 ,Сарафан 
+http://strm.yandex.ru/kal/sarahfan_belarus/sarahfan_belarus0.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Ратник
+http://dmi3y-tv.ru/hls/CH_RATNIK.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",HollywooD HD 
+http://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Dizi Channel HD 
+http://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМАН 
+http://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV XXI 
+http://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",CINEMA HD 
+http://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TRASH HD
+http://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",KINO 24
+http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Дом кино
+http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМАН HD
+http://dmi3y-tv.ru/hls/zabava/CH_KINOMANHD.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ТЕЛЕКАФЕ
+http://dmi3y-tv.ru/hls/CH_TELEKAFE.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ROMANCE
+http://dmi3y-tv.ru/hls/CH_ROMANCE.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новгородское областное телевидение (Великий Новгород)
+http://dmi3y-tv.ru/hls/zabava/region/NOVG/CH_NOVGORODTV.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТЕО ТВ HD (Москва)
+http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_TEOTVHD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сочи 24 HD (Сочи)
+http://dmi3y-tv.ru/hls/zabava/region/SOCHI/CH_SOCHI24HD.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мир Белогорья (Белгород)
 http://dmi3y-tv.ru/hls/zabava/region/BELG/CH_MIR_BLGRYA.m3u8
-#EXTINF:-1 ,Губерния 33 HD (Владимир)
-http://dmi3y-tv.ru/hls/zabava/region/VLAD/CH_GUBERNIA33HD.m3u8
-#EXTINF:-1 ор,Тюменское время HD (Тюмень)
-http://dmi3y-tv.ru/hls/zabava/region/TUM/CH_TUMVREMYA.m3u8
-#EXTINF:-1 ,Регион 29 (Архангельск)
-http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_REGION29.m3u8
-#EXTINF:-1 ,СТВ 24 (Северодвинск)
-http://dmi3y-tv.ru/hls/zabava/region/ARKH/CH_STV24.m3u8
-#EXTINF:-1 ,Астрахань 24 HD (Астрахань)
-http://dmi3y-tv.ru/hls/zabava/region/ASTRH/CH_ASTRAKHAN24HD.m3u8
-#EXTINF:-1 ,Ачинское ТВ HD (Ачинск)
-http://dmi3y-tv.ru/hls/zabava/region/ACHINSK/CH_ACHINSKOETVHD.m3u8
-
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_YAMREG.m3u8
-#EXTINF:-1 ,МИГ ТВ HD (Ноябрьск)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_MIGTVHD.m3u8
-#EXTINF:-1 ,Импульс HD (Новый Уренгой)
-http://dmi3y-tv.ru/hls/zabava/region/NBK/CH_IMPULSHD.m3u8
-
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 1 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS1.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 2 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS2.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 3 (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELARUS3.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",СТВ HD (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_STVHD.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",БелРос (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",ОНТ (Беларусь)
+http://dmi3y-tv.ru/hls/blrus/CH_ONT_BLRUS.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",ТВ3 (Беларусь) 
+http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
+#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь РТР (Беларусь) 
+http://strm.yandex.ru/kal/rtr_belarus/rtr_belarus0.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Дом кино Премиум 
+http://188.113.190.15/91/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,Мир сериала 
+https://woobl.ru/hls987/Mir_seriala.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция 
+http://178.212.236.3:8802/play/404
+#EXTINF:-1  ,НТВ Сериал 
+http://91.205.199.3:80/ntvserial/index.m3u8
+#EXTINF:-1 ,НТВ Хит 
+http://92.242.110.52:9835/udp/238.1.7.27:1234
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",.black 
+http://otv.wotom.net:4433/udp/238.1.1.139:1234
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",.red 
+http://otv.wotom.net:4433/udp/238.1.1.141:1234
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",.sci-fi 
+http://92.242.110.52:9835/udp/238.1.8.18:1234
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Amedia 1 
+http://45.15.43.12:80/amedia1/video.m3u8?token=test
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Amedia 2 
+http://176.113.48.221:8986/128
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Amedia Premium 
+http://92.242.110.52:9835/udp/238.1.11.4:1234
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Cinema 
+http://otv.wotom.net:4433/udp/238.1.1.140:1234
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",FAN 
+http://hlss.goodgame.ru/hls/157239.m3u8
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Filmbox Arthouse 
+http://188.113.190.15/207/mono.m3u8
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",KinoLiving 
+http://92.242.110.52:9835/udp/238.1.8.1:1234
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Plan B 
+http://88.85.172.243:7012/play/a028
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Start World 
+https://bkm.beetv.kz/btv/live/hls/000007818.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 
+http://92.242.110.52:9835/udp/238.1.8.23:1234
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 Action 
+http://92.242.110.52:9835/udp/238.1.8.24:1234
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 Новелла 
+http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju+ Comedy 
+http://188.113.190.15/203/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju+ Megahit 
+http://92.242.110.52:9835/udp/238.1.3.7:1234
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Viju+ Premiere 
+http://188.113.190.15/201/tracks-v1a1/index.m3u8
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Viju+ Serial 
+http://176.113.48.221:8986/68
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Еврокино 
+http://109.239.208.82:80/eurokino/index.m3u8
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Иллюзион+ 
+http://176.113.48.221:8986/73
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Комедия 
+http://188.113.190.15/214/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кинеко 
+http://92.242.110.52:9835/udp/238.1.8.12:1234
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кинопремьера 
+http://stream02.vnet.am/Kinopremera/mono.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кинохит 
+http://109.248.236.21:4433/udp/238.1.1.53:1234
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Ретро 
+http://109.239.208.82:80/retro/index.m3u8
+#EXTINF:-1   group-title="КИНО И СЕРИАЛЫ",Сапфир 
+http://188.113.190.15/182/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Start Air 
+http://92.242.110.52:9835/udp/238.1.7.28:1234
+#EXTINF:-1 ,Star Family 
+http://88.135.128.20:7272/MTsnTXg1kReNwSf
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 Русское 
+http://92.242.110.52:9835/udp/238.1.8.22:1234
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",День Победы 
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Победа 
+http://188.113.190.15/85/tracks-v1a1/index.m3u8
+https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
+#EXTINF:-1  ,Русский бестселлер 
+http://176.113.48.221:8986/44
+#EXTINF:-1  Русский детектив 
+http://176.113.48.221:8986/45
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Русский иллюзион 
+http://45.15.43.12:80/illuzion/video.m3u8?token=test
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Феникс+Кино 
+http://188.113.190.15/24/mono.m3u8
+#EXTINF:-1,НТВ Стиль 
+http://cdn2.ntv.ru/th_style/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Усадьба 
+http://176.113.48.221:8986/188
+#EXTINF:-1 ,Бобер 
+http://178.212.71.253:8002/play/a00m/index.m3u8
+#EXTINF:-1 ,Доктор 
+http://88.85.172.243:7004/play/a01l
+#EXTINF:-1 ,Домашние Животные 
+http://109.239.208.82:80/animals/index.m3u8
+#EXTINF:-1 ,Загородный 
+http://ott-cdn.ucom.am/s31/04.m3u8
+#EXTINF:-1 ,Здоровое ТВ 
+http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
+#EXTINF:-1 ,Кухня ТВ 
+http://stream01.vnet.am/KukhnyaTv/mono.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV DARK HD
+http://dmi3y-tv.ru/hls/CH_BACKUSTVDARKHD.m3u8
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV ORIGINAL HD
+http://dmi3y-tv.ru/hls/CH_BACKUSTVORIGINALHD.m3u8
+XTINF:-1  group-title="КИНО И СЕРИАЛЫ",FAN
+http://94.230.240.17:8080/fan/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Fox
+http://stream01.vnet.am/Fox/mono.m3u8
