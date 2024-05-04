@@ -293,9 +293,9 @@ http://92.242.110.52:9835/udp/238.1.7.28:1234
 #EXTINF:-1 ,Star Family 
 http://88.135.128.20:7272/MTsnTXg1kReNwSf
 #EXTINF:-1 ,Star Cinema 
-https://stream-us-east-1.getpublica.com/cl/240504corbels3ffmjhirt7r30/1280x720_1872199_1_f.m3u8?i=1017_3391
+https://stream-us-east-1.getpublica.com/cl/240504corbels3ffmjhirt7r30/1280x720_1872199_1_f.m3u8
 #EXTINF:-1 ,Star Cinema2 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3391
+https://stream.ads.ottera.tv/playlist.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 Русское 
 http://92.242.110.52:9835/udp/238.1.8.22:1234
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Победа 
@@ -310,7 +310,7 @@ http://45.15.43.12:80/illuzion/video.m3u8?token=test
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Феникс+Кино 
 http://188.113.190.15/24/mono.m3u8
 #EXTINF:-1,НТВ Стиль 
-https://cdn.ntv.ru/th_style/tracks-v3a1/mono.m3u8
+http://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1,НТВ Право 
 https://cdn.ntv.ru/th_pravo/tracks-v3a1/mono.m3u8
 #EXTINF:-1 ,Усадьба 
