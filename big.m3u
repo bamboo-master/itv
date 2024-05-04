@@ -67,12 +67,6 @@ http://188.113.190.15/182/tracks-v1a1/index.m3u8
 http://92.242.110.52:9835/udp/238.1.7.28:1234
 #EXTINF:-1 ,Star Family 
 http://88.135.128.20:7272/MTsnTXg1kReNwSf
-#EXTINF:-1 ,Star Cinema 1
-https://stream-us-east-1.getpublica.com/cl/240504corbels3ffmjhirt7r30/1280x720_1872199_1_f.m3u8?i=1017_3391
-#EXTINF:-1 ,Star Cinema 2
-https://stream-us-east-1.getpublica.com/cl/240504corbf3oorssnvf6273u0/1920x1080_4172199_0_f.m3u8?i=1017_3391
-#EXTINF:-1 ,Star Cinema 3
-https://stream-us-east-1.getpublica.com/cl/240504corbels3ffmjhirt7r30/1920x1080_4172199_0_f.m3u8?i=1017_3391
 #EXTINF:-1  ,Русский бестселлер 
 http://176.113.48.221:8986/44
 #EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Русский иллюзион 
