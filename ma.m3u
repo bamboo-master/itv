@@ -7,10 +7,6 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m
 https://stream4.24h.tv/hlsjwt/527b1bf66ecf99199648e5de24ac3eb033c317f6-784-0-24h15320171-5-1595462128-1714930326-e128-g62vzUWcmYkXaHR9EdaaUybqu26jv8K-GWRhSSbrXco/index.m3u8
 #EXTINF:-1 ,НТВ Хит 
 http://92.242.110.52:9835/udp/238.1.7.27:1234
-#EXTINF:-1 ,Кино 1 International
-https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 ,Советская киноклассика
-https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
 #EXTINF:-1  ,Русский бестселлер 
 http://176.113.48.221:8986/44
 #EXTINF:-1  Русский детектив 
@@ -21,10 +17,14 @@ http://188.113.190.15/24/mono.m3u8
 http://stream01.vnet.am/Telekafe/mono.m3u8
 #EXTINF:-1 ,Star Family 
 http://88.135.128.20:7272/MTsnTXg1kReNwSf
-#EXTINF:-1 ,Ретро 
-http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 ,Продвижение
 https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Кино 1 International
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 ,Советская киноклассика
+https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
+#EXTINF:-1 ,Ретро 
+http://109.239.208.82:80/retro/index.m3u8
 #EXTINF:-1 ,Лен ТВ 24 
 http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
 #EXTINF:-1 ,Санкт-Петербург 
