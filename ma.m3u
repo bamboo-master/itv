@@ -1,136 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="+++",НТВ (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
-#EXTINF:-1 ,НТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF:-1 group-title="+++",НТВ (+1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_1.m3u8
-#EXTINF:-1 group-title="+++",НТВ (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
-#EXTINF:-1 group-title="+++",НТВ (+3)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_3.m3u8
-#EXTINF:-1 group-title="+++",НТВ (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_4.m3u8
-#EXTINF:-1 group-title="+++",НТВ (+5)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_5.m3u8
-#EXTINF:-1 group-title="+++",НТВ (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
-#EXTINF:-1 group-title="+++",НТВ (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_7.m3u8
-#EXTINF:-1 ,Россия 1 (+0) 
-http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_SPB.m3u8
-#EXTINF:-1 group-title="+++",Россия 24 (+0) 
-http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_SPB.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+1)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_1.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+2)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+3)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_3.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+4)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+5)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+6)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_6.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+7)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_7.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+8)
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_8.m3u8
-#EXTINF:-1 group-title="+++",Россия 1 (+9)
-http://player.smotrim.ru/iframe/stream/live_id/64160?43e=5.m3u8
-#EXTINF:-1 group-title="+++",Пятый канал (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
-#EXTINF:-1 ,Пятый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF:-1 group-title="+++",Пятый канал (+1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_1.m3u8
-#EXTINF:-1 group-title="+++",Пятый канал (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_2.m3u8
-#EXTINF:-1 group-title="+++",Пятый канал (+3)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_3.m3u8
-#EXTINF:-1 group-title="+++",Пятый канал (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_4.m3u8
-#EXTINF:-1 group-title="+++",Пятый канал (+5)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_5.m3u8
-#EXTINF:-1 group-title="+++",Пятый канал (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
-#EXTINF:-1 group-title="+++",Пятый канал (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
-#EXTINF:-1 group-title="+++",ТВЦ (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC-1.m3u8
-#EXTINF:-1 ,ТВЦ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF:-1 group-title="+++",ТВЦ (+1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_1.m3u8
-#EXTINF:-1 group-title="+++",ТВЦ (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
-#EXTINF:-1 group-title="+++",ТВЦ (+3)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_3.m3u8
-#EXTINF:-1 group-title="+++",ТВЦ (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_4.m3u8
-#EXTINF:-1 group-title="+++",ТВЦ (+5)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_5.m3u8
-#EXTINF:-1 group-title="+++",ТВЦ (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
-#EXTINF:-1 group-title="+++",ТВЦ (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
+#EXTINF:-1 ,Мир сериала 
+https://woobl.ru/hls987/Mir_seriala.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция 
+http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
+#EXTINF:-1  ,НТВ Сериал 
+https://stream4.24h.tv/hlsjwt/527b1bf66ecf99199648e5de24ac3eb033c317f6-784-0-24h15320171-5-1595462128-1714930326-e128-g62vzUWcmYkXaHR9EdaaUybqu26jv8K-GWRhSSbrXco/index.m3u8
+#EXTINF:-1 ,НТВ Хит 
+http://92.242.110.52:9835/udp/238.1.7.27:1234
 #EXTINF:-1 ,КИНО И СЕРИАЛЫ (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 #EXTINF:-1 ,Мелодрамы (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 #EXTINF:-1 ,Тайны (СМОТРИМ)
 http://dmi3y-tv.ru/hls/smotrim/CH_TAYNY.m3u8
-#EXTINF:-1 ,СТС
-http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
-#EXTINF:-1 group-title="+++",СТС Love (-1)
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE-1.m3u8
-#EXTINF:-1 ,СТС Love
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
-#EXTINF:-1 group-title="+++",СТС Love (+2)
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_2.m3u8
-#EXTINF:-1 group-title="+++",СТС Love (+4)
-http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE_4.m3u8
-#EXTINF:-1 group-title="+++",ТВ3 (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3-1.m3u8
-#EXTINF:-1 ,ТВ3
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF:-1 group-title="+++",ТВ3 (+1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_1.m3u8
-#EXTINF:-1 group-title="+++",ТВ3 (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_2.m3u8
-#EXTINF:-1 group-title="+++",ТВ3 (+3)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_3.m3u8
-#EXTINF:-1 group-title="+++",ТВ3 (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_4.m3u8
-#EXTINF:-1 group-title="+++",ТВ3 (+5)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_5.m3u8
-#EXTINF:-1 group-title="+++",ТВ3 (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
-#EXTINF:-1 group-title="+++",ТВ3 (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
-#EXTINF:-1 ,Пятница!
-http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF:-1 ,Суббота!
-http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
-#EXTINF:-1 ,Че!
-http://dmi3y-tv.ru/hls/zabava/CH_CHE.m3u8
-#EXTINF:-1 ,Ю
-http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
-#EXTINF:-1 ,ОТР
-http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 ,МИР
-http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF:-1 ,РЕН ТВ
-http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF:-1 ,Домашний
-http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF:-1 ,Перец International
-http://dmi3y-tv.ru/hls/CH_PERETZ_INT.m3u8
-#EXTINF:-1 ,Звезда
-http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF:-1 ,Звезда плюс 
-http://dmi3y-tv.ru/hls/CH_3BE3DAPLUS.m3u8
 #EXTINF:-1 ,Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,Советская киноклассика
@@ -147,31 +29,6 @@ http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
 http://player.smotrim.ru/iframe/stream/live_id/62037?43e=5.m3u8
 #EXTINF:-1 ,Москва Доверие 
 http://dmi3y-tv.ru/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
-#EXTINF:-1 group-title="+++" ,Россия К
-http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIAK.m3u8
-#EXTINF:-1 group-title="+++" ,Первый канал
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF:-1 group-title="+++",Первый канал (-1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
-http://dmi3y-tv.ru/hls/okko/CH_1TVHD.m3u8
-#EXTINF:-1 group-title="+++",Первый канал (+1)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_1.m3u8
-#EXTINF:-1 group-title="+++",Первый канал (+2)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_2.m3u8
-#EXTINF:-1 group-title="+++",Первый канал (+3)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_3.m3u8
-#EXTINF:-1 group-title="+++",Первый канал (+4)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_4.m3u8
-#EXTINF:-1 group-title="+++",Первый канал (+5)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_5.m3u8
-#EXTINF:-1 group-title="+++",Первый канал (+6)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_6.m3u8
-#EXTINF:-1 group-title="+++",Первый канал (+7)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_7.m3u8
-#EXTINF:-1 group-title="+++",Первый канал (+8)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_8.m3u8
-#EXTINF:-1 group-title="+++",Первый канал (+9)
-http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_9.m3u8
 #EXTINF:-1,360°
 http://dmi3y-tv.ru/hls/CH_360TV.m3u8
 #EXTINF:-1 ,Твое ТВ HD
@@ -228,14 +85,6 @@ http://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
 http://strm.yandex.ru/kal/rtr_belarus/rtr_belarus0.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Дом кино Премиум 
 http://188.113.190.15/91/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Мир сериала 
-https://woobl.ru/hls987/Mir_seriala.m3u8
-#EXTINF:-1 ,Мосфильм. Золотая коллекция 
-http://178.212.236.3:8802/play/404
-#EXTINF:-1  ,НТВ Сериал 
-https://stream4.24h.tv/hlsjwt/527b1bf66ecf99199648e5de24ac3eb033c317f6-784-0-24h15320171-5-1595462128-1714930326-e128-g62vzUWcmYkXaHR9EdaaUybqu26jv8K-GWRhSSbrXco/index.m3u8
-#EXTINF:-1 ,НТВ Хит 
-http://92.242.110.52:9835/udp/238.1.7.27:1234
 #EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",.black 
 http://otv.wotom.net:4433/udp/238.1.1.139:1234
 #EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",.red 
@@ -310,7 +159,7 @@ http://188.113.190.15/24/mono.m3u8
 #EXTINF:-1,НТВ Стиль 
 http://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
 #EXTINF:-1,НТВ Право 
-https://cdn.ntv.ru/th_pravo/tracks-v3a1/mono.m3u8
+https://rec102.24h.tv/hlsjwt/527b1bf66ecf99199648e5de24ac3eb033c317f6-785-0-24h15320171-5-1595462128-1714932589-e128-o_8ZR4zChGjgeF1V3hhK6uV_3bP9AZ_GXnTiWDi-K6U/index.m3u8
 #EXTINF:-1 ,Усадьба 
 http://176.113.48.221:8986/188
 #EXTINF:-1 ,Бобер 
@@ -320,7 +169,7 @@ http://88.85.172.243:7004/play/a01l
 #EXTINF:-1 ,Домашние Животные 
 http://109.239.208.82:80/animals/index.m3u8
 #EXTINF:-1 ,Загородный 
-http://ott-cdn.ucom.am/s31/04.m3u8
+http://stream-msk-04.ott.tricolor.tv/dtv/id155_MSKSG-PVR-1--Zagorod_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
 #EXTINF:-1 ,Здоровое ТВ 
 http://178.124.179.122:8088/ZdorovoeTV/index.m3u8
 #EXTINF:-1 ,Кухня ТВ 
@@ -431,3 +280,149 @@ https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-p/tracks-v1a1/mono.m3u8
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-v/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 35
 https://ipv4.bozztv.com/dvrfl07/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Федеральные" ,НТВ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Россия 1 (+0) 
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA1_SPB.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Пятый канал
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF:-1 group-title="Федеральные" ,ТВЦ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Россия К
+http://dmi3y-tv.ru/hls/zabava/48/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="Федеральные" ,СТС
+http://dmi3y-tv.ru/hls/DVB-T2/CH_STS.m3u8
+#EXTINF:-1 group-title="Федеральные" ,СТС Love
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE.m3u8
+#EXTINF:-1 group-title="Федеральные" ,ТВ3
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Пятница!
+http://dmi3y-tv.ru/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Суббота!
+http://dmi3y-tv.ru/hls/zabava/CH_SUBBOTA.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Че!
+http://dmi3y-tv.ru/hls/zabava/CH_CHE.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Ю
+http://dmi3y-tv.ru/hls/zabava/CH_U.m3u8
+#EXTINF:-1 group-title="Федеральные" ,ОТР
+http://dmi3y-tv.ru/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 group-title="Федеральные" ,МИР
+http://dmi3y-tv.ru/hls/DVB-T2/CH_MIR.m3u8
+#EXTINF:-1 group-title="Федеральные" ,РЕН ТВ
+http://dmi3y-tv.ru/hls/DVB-T2/CH_RENTV.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Домашний
+http://dmi3y-tv.ru/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Перец International
+http://dmi3y-tv.ru/hls/CH_PERETZ_INT.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Звезда
+http://dmi3y-tv.ru/hls/DVB-T2/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Звезда плюс 
+http://dmi3y-tv.ru/hls/CH_3BE3DAPLUS.m3u8
+#EXTINF:-1 group-title="Федеральные" ,Первый канал
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
+#EXTINF:-1 group-title="Федеральные+",НТВ (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV-1.m3u8
+#EXTINF:-1 group-title="Федеральные+",НТВ (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_1.m3u8
+#EXTINF:-1 group-title="Федеральные+",НТВ (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_2.m3u8
+#EXTINF:-1 group-title="Федеральные+",НТВ (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_3.m3u8
+#EXTINF:-1 group-title="Федеральные+",НТВ (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_4.m3u8
+#EXTINF:-1 group-title="Федеральные+",НТВ (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_5.m3u8
+#EXTINF:-1 group-title="Федеральные+",НТВ (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_6.m3u8
+#EXTINF:-1 group-title="Федеральные+",НТВ (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_NTV_7.m3u8
+#EXTINF:-1 group-title="Федеральные+",Россия 24 (+0) 
+http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_SPB.m3u8
+#EXTINF:-1 group-title="Федеральные+",Россия 1 (+1)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_1.m3u8
+#EXTINF:-1 group-title="Федеральные+",Россия 1 (+2)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_2.m3u8
+#EXTINF:-1 group-title="Федеральные+",Россия 1 (+3)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_3.m3u8
+#EXTINF:-1 group-title="Федеральные+",Россия 1 (+4)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 group-title="Федеральные+",Россия 1 (+5)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_5.m3u8
+#EXTINF:-1 group-title="Федеральные+",Россия 1 (+6)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_6.m3u8
+#EXTINF:-1 group-title="Федеральные+",Россия 1 (+7)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_7.m3u8
+#EXTINF:-1 group-title="Федеральные+",Россия 1 (+8)
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1_8.m3u8
+#EXTINF:-1 group-title="Федеральные+",Россия 1 (+9)
+http://player.smotrim.ru/iframe/stream/live_id/64160?43e=5.m3u8
+#EXTINF:-1 group-title="Федеральные+",Пятый канал (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV-1.m3u8
+#EXTINF:-1 group-title="Федеральные+",Пятый канал (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_1.m3u8
+#EXTINF:-1 group-title="Федеральные+",Пятый канал (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_2.m3u8
+#EXTINF:-1 group-title="Федеральные+",Пятый канал (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_3.m3u8
+#EXTINF:-1 group-title="Федеральные+",Пятый канал (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_4.m3u8
+#EXTINF:-1 group-title="Федеральные+",Пятый канал (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_5.m3u8
+#EXTINF:-1 group-title="Федеральные+",Пятый канал (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_6.m3u8
+#EXTINF:-1 group-title="Федеральные+",Пятый канал (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_5TV_7.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВЦ (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC-1.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВЦ (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_1.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВЦ (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_2.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВЦ (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_3.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВЦ (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_4.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВЦ (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_5.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВЦ (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_6.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВЦ (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TVC_7.m3u8
+#EXTINF:-1 group-title="Федеральные+",СТС Love (-1)
+http://dmi3y-tv.ru/hls/zabava/CH_STSLOVE-1.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВ3 (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_1.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВ3 (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_2.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВ3 (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_3.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВ3 (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_4.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВ3 (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_5.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВ3 (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_6.m3u8
+#EXTINF:-1 group-title="Федеральные+",ТВ3 (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_TV3_7.m3u8
+#EXTINF:-1 group-title="Федеральные+",Первый канал (-1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV-1.m3u8
+http://dmi3y-tv.ru/hls/okko/CH_1TVHD.m3u8
+#EXTINF:-1 group-title="Федеральные+",Первый канал (+1)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_1.m3u8
+#EXTINF:-1 group-title="Федеральные+",Первый канал (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_2.m3u8
+#EXTINF:-1 group-title="Федеральные+",Первый канал (+3)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_3.m3u8
+#EXTINF:-1 group-title="Федеральные+",Первый канал (+4)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_4.m3u8
+#EXTINF:-1 group-title="Федеральные+",Первый канал (+5)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_5.m3u8
+#EXTINF:-1 group-title="Федеральные+",Первый канал (+6)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_6.m3u8
+#EXTINF:-1 group-title="Федеральные+",Первый канал (+7)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_7.m3u8
+#EXTINF:-1 group-title="Федеральные+",Первый канал (+8)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_8.m3u8
+#EXTINF:-1 group-title="Федеральные+",Первый канал (+9)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV_9.m3u8
+
