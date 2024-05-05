@@ -4,13 +4,6 @@ https://woobl.ru/hls987/Mir_seriala.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция 
 http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
 #EXTINF:-1  ,НТВ Сериал 
-https://rec102.24h.tv/hlsjwt/527b1bf66ecf99199648e5de24ac3eb033c317f6-784-0-24h15320171-5-1595462128-1714948810-e128-WxK9tEP-iTrSIHfLPADoQhAMReBu5MeTseMEslufSJY/index.m3u8
-#EXTINF:-1  ,НТВ Сериал 2
-https://cdn.ntv.ru/ntv0_hd/tracks-v5a1/mono.m3u8
-#EXTINF:-1  ,НТВ Сериал 3
-http://176.121.203.13:1234/1348_271/video.m3u8
-#EXTINF:-1  ,НТВ Сериал 4
-
 http://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 #EXTINF:-1 ,НТВ Хит 
 http://92.242.110.52:9835/udp/238.1.7.27:1234
@@ -31,13 +24,7 @@ http://88.135.128.20:7272/MTsnTXg1kReNwSf
 #EXTINF:-1 ,Продвижение
 https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/mono.m3u8
 #EXTINF:-1,НТВ Право 
-https://rec102.24h.tv/hlsjwt/527b1bf66ecf99199648e5de24ac3eb033c317f6-785-0-24h15320171-5-1595462128-1714948481-e128-MZHQS4jL7MGZgePe9FyEnJxjY1A4Z6hp_d9epKKaTOU/index.m3u8
-#EXTINF:-1,НТВ Право 2
-https://rec102.24h.tv/hlsjwt/527b1bf66ecf99199648e5de24ac3eb033c317f6-785-0-24h15320171-5-1595462128-1714932589-e128-o_8ZR4zChGjgeF1V3hhK6uV_3bP9AZ_GXnTiWDi-K6U/index.m3u8
-#EXTINF:-1,НТВ Право 3
 https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
-
-
 #EXTINF:-1 tvg-id="bolt-ru" ,Bolt Россия
 http://158.101.194.132:8080/channel/n67361a09/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 ,Кино 1 International
