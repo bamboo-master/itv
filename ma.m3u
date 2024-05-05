@@ -4,9 +4,7 @@ https://woobl.ru/hls987/Mir_seriala.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция 
 http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
 #EXTINF:-1  ,НТВ Сериал 
-https://tvcdnpotok.com/1B4riyFoR6wu0LJjyfmnJQ/509/1714964736/index.m3u8
-#EXTINF:-1  ,НТВ Сериал 2
-https://ser1.musical.uz/ntv_serial_web/tracks-v1a1/mono.m3u8?remote=95.24.209.240&token=16319516a2442783a9874fb96a61fb7b89da11f6-b8259666ce4613135e405961352f2f36-1714957228-1714946428
+https://stream5.24h.tv/hlsjwt/527b1bf66ecf99199648e5de24ac3eb033c317f6-784-0-24h15320171-5-1595462128-1714947772-e128-F_dpkXThmfwy3UKQp-uU7fMkBoQwzR3TCARNO3ZboHw/index.m3u8?ml=true&mp4=true
 #EXTINF:-1 ,НТВ Хит 
 http://92.242.110.52:9835/udp/238.1.7.27:1234
 #EXTINF:-1  ,Русский бестселлер 
@@ -26,7 +24,7 @@ http://88.135.128.20:7272/MTsnTXg1kReNwSf
 #EXTINF:-1 ,Продвижение
 https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/mono.m3u8
 #EXTINF:-1,НТВ Право 
-https://edge01-alm.beetv.kz/bpk-token/2an@2yjab2zwhbeqh4tjqwmgjtacydhociap2wf1wgba/btv/SWM/ntv_serial/ntv_serial.m3u8
+https://stream201.24h.tv/hlsjwt/527b1bf66ecf99199648e5de24ac3eb033c317f6-785-0-24h15320171-5-1595462128-1714947652-e128-g7FgpkmcvAacIJ7wQq9X82CkL28hc9herNie71Bv9rs/index.m3u8?ml=true&mp4=true
 #EXTINF:-1 tvg-id="bolt-ru" ,Bolt Россия
 http://158.101.194.132:8080/channel/n67361a09/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 ,Кино 1 International
