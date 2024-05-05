@@ -4,7 +4,7 @@ https://woobl.ru/hls987/Mir_seriala.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция 
 http://stream-msk-05.ott.tricolor.tv/dtv/id711_MSKSG-PVR-1--Mosfilm_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
 #EXTINF:-1  ,НТВ Сериал 
-https://edge01-alm.beetv.kz/bpk-token/2an@2yjab2zwhbeqh4tjqwmgjtacydhociap2wf1wgba/btv/SWM/ntv_serial/ntv_serial.m3u8
+https://tvcdnpotok.com/1B4riyFoR6wu0LJjyfmnJQ/509/1714964736/index.m3u8
 #EXTINF:-1 ,НТВ Хит 
 http://92.242.110.52:9835/udp/238.1.7.27:1234
 #EXTINF:-1  ,Русский бестселлер 
@@ -284,10 +284,12 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_1TV.m3u8
 #EXTINF:-1 group-title="Федеральные",Россия 24 (+0) 
 http://dmi3y-tv.ru/hls/smotrim/region/CH_RUSSIA24_SPB.m3u8
 
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Лен ТВ 24 
-http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",78
+https://river-6-601.rutube.ru/stream/genetta-314.m9.rutube.ru/28zNkf7JU41kq2G0R4lbmA/1715551569/bbf23277dbd0dd0e6a623526d4c3f8c9/720p_stream.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Санкт-Петербург 
 http://player.smotrim.ru/iframe/stream/live_id/62037?43e=5.m3u8
+#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Лен ТВ 24 
+http://dmi3y-tv.ru/hls/zabava/region/SPB/CH_LENTV24.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ", 360°
 http://dmi3y-tv.ru/hls/CH_360TV.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Москва Доверие 
