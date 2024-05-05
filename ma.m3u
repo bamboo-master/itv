@@ -71,7 +71,6 @@ http://188.113.190.15/85/tracks-v1a1/index.m3u8
 https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 Русское 
 http://92.242.110.52:9835/udp/238.1.8.22:1234
-#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Русский иллюзион
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 
 http://92.242.110.52:9835/udp/238.1.8.23:1234
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 Action 
@@ -86,6 +85,14 @@ http://92.242.110.52:9835/udp/238.1.3.7:1234
 http://188.113.190.15/201/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Viju+ Serial 
 http://176.113.48.221:8986/68
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Русский иллюзион
+http://45.15.43.12:80/illuzion/video.m3u8?token=test
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Amedia 1 
+http://45.15.43.12:80/amedia1/video.m3u8?token=test
+#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Amedia 2 
+http://176.113.48.221:8986/128
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Amedia Premium 
+http://92.242.110.52:9835/udp/238.1.11.4:1234
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",HollywooD HD 
 http://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Dizi Channel HD 
@@ -100,12 +107,6 @@ http://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
 http://livetv.mylifeisgood.net.ru/channels/trash.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМАН HD
 http://dmi3y-tv.ru/hls/zabava/CH_KINOMANHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Amedia 1 
-http://45.15.43.12:80/amedia1/video.m3u8?token=test
-#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Amedia 2 
-http://176.113.48.221:8986/128
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Amedia Premium 
-http://92.242.110.52:9835/udp/238.1.11.4:1234
 #EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",KinoLiving 
 http://92.242.110.52:9835/udp/238.1.8.1:1234
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Еврокино 
@@ -120,7 +121,6 @@ http://stream02.vnet.am/Kinopremera/mono.m3u8
 http://188.113.190.15/182/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Start Air 
 http://92.242.110.52:9835/udp/238.1.7.28:1234 
-http://45.15.43.12:80/illuzion/video.m3u8?token=test
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV DARK HD
 http://dmi3y-tv.ru/hls/CH_BACKUSTVDARKHD.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV ORIGINAL HD
@@ -133,14 +133,11 @@ http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 #EXTINF:-1 group-title="Кинозалы"  ,СМОТРИМ3
 http://dmi3y-tv.ru/hls/smotrim/CH_TAYNY.m3u8
-
 #EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/0720/74/52a7882bf655f06a149bf9b06147dd74.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Видеокассета
 https://playlist.nuum.ru/live/4968/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://sun9-61.userapi.com/impg/646OeYvAJd68T8_3C0i87vGI5X4fbZFuFkZV_w/SmWSkFgISno.jpg?size=807x807&quality=95&sign=1b4995cc7b66348f7e7713d57b1b9b06&c_uniq_tag=lTltG3GMuOjVJUJftuJ0cAsmmExBHHdisgmjxYb4e3w&type=album" tvg-id="no_epg_cinema" group-title="Кинозалы", Видеосалон VHS
 http://hls.goodgame.ru:8080/hls/175764.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", KINO TV VHS
-https://playlist.nuum.ru/live/28423/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", ℙ𝕣𝕖𝕞𝕚𝕖𝕣𝕖
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Bestfilm
 https://playlist.nuum.ru/live/94916/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" group-title="Кинозалы" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png",Кинозалы 1
 https://ipv4.bozztv.com/dvrfl07/ushba13/tracks-v1a1/mono.m3u8
