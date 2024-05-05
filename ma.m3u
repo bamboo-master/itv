@@ -35,6 +35,8 @@ http://109.239.208.82:80/retro/index.m3u8
 http://88.135.128.20:7272/szWljUvHlTAKXVa
 #EXTINF:-1 tvg-id="star-family" tvg-logo="https://epgx.site/p/star-family.png" ,Star Family
 http://88.135.128.20:7272/MTsnTXg1kReNwSf
+#EXTINF:-1 tvg-id="start-air" tvg-logo="https://epgx.site/p/start-air.png" ,Start Air 
+http://92.242.110.52:9835/udp/238.1.7.28:1234
 #EXTINF:-1 ,Дом кино
 http://dmi3y-tv.ru/hls/CH_DOMKINO.m3u8
 #EXTINF:-1 ,Дом кино Премиум 
@@ -83,8 +85,6 @@ http://188.113.190.15/203/tracks-v1a1/index.m3u8
 http://92.242.110.52:9835/udp/238.1.3.7:1234
 #EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Viju+ Premiere 
 http://188.113.190.15/201/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="start-air" tvg-logo="https://epgx.site/p/start-air.png" ,Start Air 
-http://92.242.110.52:9835/udp/238.1.7.28:1234
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Amedia 1 
 http://45.15.43.12:80/amedia1/video.m3u8?token=test
 #EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Amedia 2 
