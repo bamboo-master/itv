@@ -46,7 +46,7 @@ http://188.113.190.15/91/tracks-v1a1/index.m3u8
 http://188.113.190.15/53/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Наше новое кино HD
 http://stream-msk-09.ott.tricolor.tv/dtv/id272_MSKSG-PVR-1--Nashe_novoe_kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
-#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/2020/1gk.c2.jpg" group-title="КИНО И СЕРИАЛЫ",1+2
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/2020/1gk.c2.jpg" group-title="Кино и сериалы",1+2
 http://88.135.128.20:7272/KfbeysdY6Fva3sW
 #EXTINF:-1 , Наш Кинопоказ HD
 http://stream-msk-14.ott.tricolor.tv/dtv/id646_MSKSG-PVR-1--Nash_kinopokaz_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
@@ -62,11 +62,11 @@ http://stream-msk-12.ott.tricolor.tv/dtv/id647_MSKSG-PVR-1--Pro_Love_HD/03/plst.
 http://stream-msk-06.ott.tricolor.tv/dtv/id395_MSKSG-PVR-1--HD_Nash_Kinoroman/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
 #EXTINF:-1 ,Комедия 
 http://188.113.190.15/214/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Ратник
+#EXTINF:-1 group-title="Кино и сериалы",Ратник
 http://dmi3y-tv.ru/hls/CH_RATNIK.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Родное кино 
+#EXTINF:-1 group-title="Кино и сериалы",Родное кино 
 https://edge02.odtv.az/o2/rodnoekino/playlist.m3u8
-#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Русский иллюзион
+#EXTINF:-1  group-title="Кино и сериалы",Русский иллюзион
 http://45.15.43.12:80/illuzion/video.m3u8?token=test
 #EXTINF:-1 ,Победа 
 http://188.113.190.15/85/tracks-v1a1/index.m3u8
@@ -74,63 +74,63 @@ http://188.113.190.15/85/tracks-v1a1/index.m3u8
 http://92.242.110.52:9835/udp/238.1.8.22:1234
 #EXTINF:-1 ,Viju TV1000 Новелла 
 http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
-#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Viju+ Serial 
+#EXTINF:-1  group-title="Кино и сериалы",Viju+ Serial 
 http://176.113.48.221:8986/68
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 
+#EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 
 http://92.242.110.52:9835/udp/238.1.8.23:1234
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju TV1000 Action 
+#EXTINF:-1 group-title="Кино и сериалы",Viju TV1000 Action 
 http://92.242.110.52:9835/udp/238.1.8.24:1234
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju+ Comedy 
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ Comedy 
 http://188.113.190.15/203/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Viju+ Megahit 
+#EXTINF:-1 group-title="Кино и сериалы",Viju+ Megahit 
 http://92.242.110.52:9835/udp/238.1.3.7:1234
-#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Viju+ Premiere 
+#EXTINF:-1  group-title="Кино и сериалы",Viju+ Premiere 
 http://188.113.190.15/201/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Amedia 1 
+#EXTINF:-1 group-title="Кино и сериалы",Amedia 1 
 http://45.15.43.12:80/amedia1/video.m3u8?token=test
-#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Amedia 2 
+#EXTINF:-1  group-title="Кино и сериалы",Amedia 2 
 http://176.113.48.221:8986/128
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Amedia Premium 
+#EXTINF:-1 group-title="Кино и сериалы",Amedia Premium 
 http://92.242.110.52:9835/udp/238.1.11.4:1234
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",KINO 24
+#EXTINF:-1 group-title="Кино и сериалы",KINO 24
 http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Кинопоказ
+#EXTINF:-1 group-title="Кино и сериалы", Кинопоказ
 https://stream-msk-08.ott.tricolor.tv/dtv/id330_MSKSG-PVR-1--Kinopokaz/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ", Романтичное HD
+#EXTINF:-1 group-title="Кино и сериалы", Романтичное HD
 http://stream-msk-05.ott.tricolor.tv/dtv/id496_MSKSG-PVR-1--Romantichnoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNTM0NjI4OCwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE0NzQxNDg4LCJzZXNzaW9uX2lkIjoiMThkY2IyNDBmZDI4YzViOTAzZGE3MDY4YWM2ZWZmZjIiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.751csSCIv82knxBrU736FwWGxa7y1AbHG-IVcLIJyRs
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",HollywooD HD 
+#EXTINF:-1 group-title="Кино и сериалы",HollywooD HD 
 http://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Dizi Channel HD 
+#EXTINF:-1 group-title="Кино и сериалы",Dizi Channel HD 
 http://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМАН 
+#EXTINF:-1 group-title="Кино и сериалы",КИНОМАН 
 http://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV XXI 
+#EXTINF:-1 group-title="Кино и сериалы",TV XXI 
 http://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
-#EXTINF:-1 tvg-id="vip-comedy-cee" group-title="КИНО И СЕРИАЛЫ", Viasat Kino Comedy HD
+#EXTINF:-1 tvg-id="vip-comedy-cee" group-title="Кино и сериалы", Viasat Kino Comedy HD
 http://88.135.128.20:7272/5RqMvVnGzdoBQbf
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",CINEMA HD 
+#EXTINF:-1 group-title="Кино и сериалы",CINEMA HD 
 http://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TRASH HD
+#EXTINF:-1 group-title="Кино и сериалы",TRASH HD
 http://livetv.mylifeisgood.net.ru/channels/trash.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМАН HD
+#EXTINF:-1 group-title="Кино и сериалы",КИНОМАН HD
 http://dmi3y-tv.ru/hls/zabava/CH_KINOMANHD.m3u8
-#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",KinoLiving 
+#EXTINF:-1  group-title="Кино и сериалы",KinoLiving 
 http://92.242.110.52:9835/udp/238.1.8.1:1234
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Еврокино 
+#EXTINF:-1 group-title="Кино и сериалы",Еврокино 
 http://109.239.208.82:80/eurokino/index.m3u8
-#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Иллюзион+ 
+#EXTINF:-1  group-title="Кино и сериалы",Иллюзион+ 
 http://176.113.48.221:8986/73
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кинеко 
+#EXTINF:-1 group-title="Кино и сериалы",Кинеко 
 http://92.242.110.52:9835/udp/238.1.8.12:1234
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",Кинопремьера 
+#EXTINF:-1 group-title="Кино и сериалы",Кинопремьера 
 http://stream02.vnet.am/Kinopremera/mono.m3u8
-#EXTINF:-1   group-title="КИНО И СЕРИАЛЫ",Сапфир 
+#EXTINF:-1   group-title="Кино и сериалы",Сапфир 
 http://188.113.190.15/182/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV DARK HD
+#EXTINF:-1 group-title="Кино и сериалы",BACKUSTV DARK HD
 http://dmi3y-tv.ru/hls/CH_BACKUSTVDARKHD.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",BACKUSTV ORIGINAL HD
+#EXTINF:-1 group-title="Кино и сериалы",BACKUSTV ORIGINAL HD
 http://dmi3y-tv.ru/hls/CH_BACKUSTVORIGINALHD.m3u8
-#EXTINF:-1  group-title="КИНО И СЕРИАЛЫ",Fox
+#EXTINF:-1  group-title="Кино и сериалы",Fox
 http://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://i121.fastpic.org/big/2023/0511/f8/1088ec417c132914ff74f3f11d656cf8.png" group-title="Кинозалы",Смотрим ТВ 1
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
