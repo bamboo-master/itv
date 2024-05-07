@@ -42,7 +42,7 @@ http://193.201.98.10:5000/c28
 #EXTINF:-1 ,Продвижение
 https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/mono.m3u8
 #EXTINF:-1,НТВ Право 
-https://cdn.ntv.ru/ntv0_hd/tracks-v5a1/mono.m3u8
+https://cdn2.ntv.ru/th_pravo/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="nostalgia" ,Ностальгия 
 http://146.158.0.56/Nostalgiya/index.m3u8
 #EXTINF:-1 tvg-id="tro" tvg-logo="http://epg.it999.ru/img2/2294.png" group-title="Белорусские",БелРос 
