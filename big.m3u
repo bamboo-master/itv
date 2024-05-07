@@ -23,8 +23,6 @@ http://88.135.128.20:7272/MTsnTXg1kReNwSf
 http://92.242.110.52:9835/udp/238.1.7.28:1234
 #EXTINF:-1 tvg-id="domkino-premium" ,Дом кино Премиум 
 http://188.113.190.15/91/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="domkino-premium" ,Дом кино Премиум 2
-https://bkm.beetv.kz/btv/live/hls/000002943.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Кино и сериалы",Родное кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" , Любимое кино
@@ -49,28 +47,8 @@ http://176.113.48.221:8986/128
 http://92.242.110.52:9835/udp/238.1.11.4:1234
 #EXTINF:-1 group-title="Кино и сериалы",KINO 24
 http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
-#EXTINF:-1 tvg-id="kinoboevik-kz" group-title="Кино и сериалы",КиноБоевик 
-https://bkm.beetv.kz/btv/live/hls/000008490.m3u8
-#EXTINF:-1 tvg-id="mirovoe-kino-kz" group-title="Кино и сериалы",Мировое Кино 
-https://bkm.beetv.kz/btv/live/hls/000008488.m3u8
-#EXTINF:-1 tvg-id="premium-kino-kz" group-title="Кино и сериалы",Премиум Кино 
-https://bkm.beetv.kz/btv/live/hls/000008491.m3u8
-#EXTINF:-1 tvg-id="semejnoe-kino-kz" group-title="Кино и сериалы",Семейное Кино 
-https://bkm.beetv.kz/btv/live/hls/000008489.m3u8
-#EXTINF:-1 tvg-id="pro100" group-title="Кино и сериалы",PRO100
-http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Киноклуб
-https://v2.catcast.tv/content/39005/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",ВИДЕОСАЛОН VHS
-https://v2.catcast.tv/content/40391/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Dizi Channel HD 
-http://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",TV XXI 
 http://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
-#EXTINF:-1  group-title="Кино и сериалы",KinoLiving 
-http://92.242.110.52:9835/udp/238.1.8.1:1234
-#EXTINF:-1 group-title="Кино и сериалы",Еврокино 
-http://109.239.208.82:80/eurokino/index.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Кинопремьера 
 http://stream02.vnet.am/Kinopremera/mono.m3u8
 #EXTINF:-1  group-title="Кино и сериалы",Fox
@@ -89,23 +67,16 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="belarus3" tvg-logo="https://epgx.site/p/belarus3hd.png" group-title="Белорусские",Беларусь 3 
 https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="tro" tvg-logo="http://epg.it999.ru/img2/2294.png" group-title="Белорусские",БелРос 
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
 #EXTINF:-1 tvg-id="ont-by" tvg-logo="https://i.imgur.com/LbHdHEk.png" group-title="Белорусские",ОНТ 
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 tvg-id="stv-by" tvg-logo="https://epgx.site/p/stv-by.png" group-title="Белорусские",СТВ 
 http://80.94.225.126:8080/STV/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Кино и сериалы (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALY.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Кино и сериалы HD (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Мелодрамы (СМОТРИМ)
+#EXTINF:-1 group-title="Кино и сериалы",Смотрим1
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Мелодрамы HD (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMYHD.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Тайны (СМОТРИМ)
+#EXTINF:-1 group-title="Кино и сериалы",Смотрим2
 http://dmi3y-tv.ru/hls/smotrim/CH_TAYNY.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Тайны HD (СМОТРИМ)
-http://dmi3y-tv.ru/hls/smotrim/CH_TAYNYHD.m3u8
-
+#EXTINF:-1 group-title="Кино и сериалы",Смотрим3
+http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 
 
