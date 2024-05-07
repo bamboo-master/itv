@@ -69,12 +69,11 @@ http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
 #EXTINF:-1 tvg-id="ont-by" tvg-logo="https://i.imgur.com/LbHdHEk.png" group-title="Белорусские",ОНТ 
 https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
 #EXTINF:-1 tvg-id="stv-by" tvg-logo="https://epgx.site/p/stv-by.png" group-title="Белорусские",СТВ 
-http://80.94.225.126:8080/STV/mono.m3u8
+http://strm.yandex.ru/kal/stv_belarus/stv_belarus0.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Смотрим1
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Смотрим2
 http://dmi3y-tv.ru/hls/smotrim/CH_TAYNY.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Смотрим3
-http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+
 
 
