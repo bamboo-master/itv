@@ -24,7 +24,7 @@ http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 http://193.201.98.10:5000/c104
 
 #EXTINF:-1 tvg-id="match-nash-sport" ,Матч! Страна
-https://bl.video.matchtv.ru/media/playlist/ch_29ad3aa840945b8f2b214899b11f16e9/17_72477605/480/77048f8d76567c3f34b97f75c8e57360/1715383200.m3u8
+https://bl.video.matchtv.ru/media/playlist/ch_7b6c86aa2d529c5d3c72b90abe7ad87c/17_72477605/480/76f80dfd699b332d759c95dca9d9fa09/1715443200.m3u8
 
 #EXTINF:-1 ,Беларусь 5
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5.m3u8
