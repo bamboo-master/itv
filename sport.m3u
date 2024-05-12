@@ -1,30 +1,10 @@
 ﻿#EXTM3U
 
 
-#EXTINF:-1 tvg-id="match-premier",Матч! Премьер 
+#EXTINF:-1 ,Матч! Премьер 
 http://91.207.114.209:5000/c105
 
-
-#EXTINF:-1 ,Матч! Футбол 1
-http://193.201.98.10:5000/c114
-
-
-#EXTINF:-1 ,Матч! Футбол 2
-http://193.201.98.10:5000/c115
-
-#EXTINF:-1 ,Матч! Футбол 3
-http://193.201.98.10:5000/c116
-
-#EXTINF:-1 ,Матч! Арена 
-http://193.201.98.10:5000/c103
-
-#EXTINF:-1 tvg-id="match-igra",Матч! Игра
-http://193.201.98.10:5000/c104
-
-#EXTINF:-1 ,Матч! Страна
-http://91.207.114.209:5000/c106
-
-#EXTINF:-1 ,Беларусь 5
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
+#EXTINF:-1 ,Матч! Премьер 
+http://193.201.98.10:5000/c105
 
 
