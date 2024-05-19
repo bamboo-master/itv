@@ -15,24 +15,12 @@ http://88.135.128.20:7272/szWljUvHlTAKXVa
 http://88.135.128.20:7272/MTsnTXg1kReNwSf
 #EXTINF:-1 tvg-id="start-air" tvg-logo="https://epgx.site/p/start-air.png" group-title="Кино и сериалы",Start Air 
 http://92.242.110.52:9835/udp/238.1.7.28:1234
-#EXTINF:-1 tvg-id="bolt-ru" group-title="Кино и сериалы",Bolt Россия
-http://158.101.194.132:8080/channel/n67361a09/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
-#EXTINF:-1 ,Кино 7
-http://88.135.128.20:7272/Hdyt7wbXlSuwOpq
-#EXTINF:-1 ,TV Extra
-http://88.135.128.20:7272/IurtgdVgs6Tfa8J
-#EXTINF:-1 ,Super+
-http://88.135.128.20:7272/JkfGhb36Cvs7Fgz
 #EXTINF:-1 ,1+2
 http://88.135.128.20:7272/KfbeysdY6Fva3sW
-#EXTINF:-1 ,Канал 7 Baltic
-http://88.135.128.20:7272/OidghvyF6N7KlSd
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Кино и сериалы",Родное кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" , Любимое кино
 http://188.113.190.15/53/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvch-id="6023",КИНОСЕРИЯ
-http://81.23.189.75:4022/udp/234.0.0.119:2000
 #EXTINF:-1 , Наше новое кино
 http://193.201.98.10:5000/c41
 #EXTINF:-1 , Кинокомедия
