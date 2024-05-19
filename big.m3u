@@ -4,13 +4,11 @@ https://woobl.ru/hls987/Mir_seriala.m3u8
 #EXTINF:-1  group-title="Кино и сериалы",НТВ Сериал 
 https://cdn.ntv.ru/th_serial/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",НТВ Хит 
-http://92.242.110.52:9835/udp/238.1.7.27:1234
-#EXTINF:-1 group-title="Кино и сериалы",НТВ Хит 2
-http://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+http://91.205.199.3:80/ntvhit/index.m3u8
 #EXTINF:-1  group-title="Кино и сериалы",Русский бестселлер 
-http://176.113.48.221:8986/44
+http://193.201.98.10:5000/c34
 #EXTINF:-1 tvg-id="russky-roman" group-title="Кино и сериалы",Русский роман
-http://91.142.158.107:8092/play/25/index.m3u8
+http://193.201.98.10:5000/c32
 #EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://epgx.site/p/star-cinema.png" group-title="Кино и сериалы",Star Cinema
 http://88.135.128.20:7272/szWljUvHlTAKXVa
 #EXTINF:-1 tvg-id="star-family" tvg-logo="https://epgx.site/p/star-family.png" group-title="Кино и сериалы",Star Family
@@ -19,10 +17,22 @@ http://88.135.128.20:7272/MTsnTXg1kReNwSf
 http://92.242.110.52:9835/udp/238.1.7.28:1234
 #EXTINF:-1 tvg-id="bolt-ru" group-title="Кино и сериалы",Bolt Россия
 http://158.101.194.132:8080/channel/n67361a09/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
+#EXTINF:-1 ,Кино 7
+http://88.135.128.20:7272/Hdyt7wbXlSuwOpq
+#EXTINF:-1 ,TV Extra
+http://88.135.128.20:7272/IurtgdVgs6Tfa8J
+#EXTINF:-1 ,Super+
+http://88.135.128.20:7272/JkfGhb36Cvs7Fgz
+#EXTINF:-1 ,1+2
+http://88.135.128.20:7272/KfbeysdY6Fva3sW
+#EXTINF:-1 ,Канал 7 Baltic
+http://88.135.128.20:7272/OidghvyF6N7KlSd
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Кино и сериалы",Родное кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" , Любимое кино
 http://188.113.190.15/53/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvch-id="6023",КИНОСЕРИЯ
+http://81.23.189.75:4022/udp/234.0.0.119:2000
 #EXTINF:-1 , Наше новое кино
 http://193.201.98.10:5000/c41
 #EXTINF:-1 , Кинокомедия
@@ -39,12 +49,6 @@ http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c
 http://176.113.48.221:8986/68
 #EXTINF:-1 group-title="Кино и сериалы",Ратник
 http://dmi3y-tv.ru/hls/CH_RATNIK.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Кинопремьера 
-http://stream02.vnet.am/Kinopremera/mono.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",KINO 24
-http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
-#EXTINF:-1 tvg-id="kinopokaz" group-title="Кино и сериалы",Кинопоказ
-http://193.201.98.10:5000/c28
 #EXTINF:-1 ,Продвижение
 https://prodvizhenie.bonus-tv.ru/cdn/prodvizhenie/tracks-v1a1/mono.m3u8
 #EXTINF:-1,НТВ Право 
@@ -56,15 +60,7 @@ http://193.201.98.10:5000/c54
 #EXTINF:-1 ,Советское родное
 http://193.201.98.10:5000/c161
 #EXTINF:-1 ,Наше родное кино
-http://193.201.98.10:5000/c162
-#EXTINF:-1 ,Наше детство
-http://193.201.98.10:5000/c163
-#EXTINF:-1 ,Кинозал 4
 http://193.201.98.10:5000/c164
-#EXTINF:-1 ,Кинозал 5
-http://193.201.98.10:5000/c165
-#EXTINF:-1 ,Кинозал 6
-http://193.201.98.10:5000/c166
 #EXTINF:-1 tvg-id="tro" tvg-logo="http://epg.it999.ru/img2/2294.png" group-title="Белорусские",БелРос 
 http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
 #EXTINF:-1 tvg-id="stv-by" tvg-logo="https://epgx.site/p/stv-by.png" group-title="Белорусские",СТВ 
