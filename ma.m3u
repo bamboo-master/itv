@@ -55,6 +55,10 @@ http://188.113.190.15/53/tracks-v1a1/index.m3u8
 http://193.201.98.10:5000/c41
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/2020/1gk.c2.jpg" group-title="Кино и сериалы",1+2
 http://88.135.128.20:7272/KfbeysdY6Fva3sW
+#EXTINF:-1 ,Советское родное
+http://193.201.98.10:5000/c161
+#EXTINF:-1 ,Наше родное кино
+http://193.201.98.10:5000/c164
 #EXTINF:-1 ,Комедия 
 http://91.207.115.228:5000/c168
 #EXTINF:-1 group-title="Кино и сериалы",Ратник
