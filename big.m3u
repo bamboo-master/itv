@@ -63,3 +63,5 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Смотрим2
 http://dmi3y-tv.ru/hls/smotrim/CH_TAYNY.m3u8
+#EXTINF:-1 ,Анекдот ТВ
+https://mhd116.iptv2022.com/p/bJtkZOzfjXJCef5iHiZ3DA,1716498013/streaming/anekdot/324/1/index.m3u8
