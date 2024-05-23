@@ -63,3 +63,26 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Смотрим2
 http://dmi3y-tv.ru/hls/smotrim/CH_TAYNY.m3u8
+
+#EXTINF:-1 ,Мосфильм. Золотая Коллекция
+http://193.201.98.10:5000/c29
+#EXTINF:-1 , Мосфильм. Золотая Коллекция
+http://91.207.115.228:5000/c29
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
+#EXTINF:-1,Мосфильм. Золотая коллекция
+http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
+#EXTINF:-1  ,Мосфильм. Золотая коллекция
+http://188.130.138.86/84-1/index.m3u8?token=7GYBHDUVSLXQGH
+#EXTINF:-1  ,Мосфильм. Золотая коллекция
+http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY1MzU2NzUsImlhdCI6MTcxNjQ0OTI3NSwiY2lkIjo2LCJ1aWQiOjc3NjY4Mzg4NiwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.4hiuKCo5bn4unnVlkesBq9gmB5fmMTjUgja2YkwxtPc&offset=10
+#EXTINF:-1 ,Мосфильм. Золотая коллекция HD
+http://arbiter.bolshoe.tv/?path=abr4/mosfilm/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMy8yMDI0IDc6Mjc6NTcgQU0maGFzaF92YWx1ZT1DelpGV2VWTUF1WVFIWE9QZmZmS2JBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 ,Мосфильм. Золотая коллекция HD
+http://46.8.29.51:2020/channel/2bac7f96/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+#EXTINF:-1 ,Криминальное HD
+http://46.8.29.51:2020/channel/7cbfee5f/index.m3u8?q=a38daa3bb08ae3e108c4b30fae76e495
+#EXTINF:-1 ,Наше крутое HD
+http://127.0.0.1:6878/ace/getstream?id=4f40b12ad32618adf3262143db8cc80ae686a5f0&.mp4
+#EXTINF:-1 ,Мосфильм. Золотая коллекция HD
+http://127.0.0.1:6878/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d&.mp4
