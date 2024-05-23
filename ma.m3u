@@ -34,9 +34,9 @@ http://stream01.vnet.am/Nauka/mono.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Amedia Premium HD
 http://stream01.vnet.am/AmediaPremium/mono.m3u8
 #EXTINF:-1 tvg-id="star-cinema" group-title="Кино и сериалы", Star Cinema
-http://88.135.128.20:7272/szWljUvHlTAKXVa
+https://mhd116.iptv2022.com/p/4yFe-MiiwgmkVIr6JX2y4g,1716498007/streaming/star_cinema/324/1/index.m3u8
 #EXTINF:-1 tvg-id="star-family" group-title="Кино и сериалы", Star Family
-http://88.135.128.20:7272/MTsnTXg1kReNwSf
+https://mhd116.iptv2022.com/p/Lnh8u964RNCnCSZkifbjTw,1716498007/streaming/star_family/324/1/index.m3u8
 #EXTINF:-1 tvg-id="retro-tv" group-title="Кино и сериалы", Ретро ТВ
 http://188.113.190.15/67/mono.m3u8
 #EXTINF:-1 tvg-id="bolt-ru" group-title="Кино и сериалы",Bolt Россия
