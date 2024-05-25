@@ -91,31 +91,23 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
 #EXTINF:-1 ,Ратник
 http://92.53.64.197:5050/ratnik_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 ,Здоровое ТВ
-http://94.230.128.105:8080/ZdorovoeTV/index.m3u8
-#EXTINF:-1 ,Феникс+ Кино
-https://mhd116.iptv2022.com/p/BV3wOjmzkkvo-g5B5WrKKw,1716670807/streaming/fenixkino/324/1/index.m3u8
 #EXTINF:-1 ,Русский иллюзион
 https://mhd116.iptv2022.com/p/5Ie4UaLEmjX2cNOCaOO1aw,1716670807/streaming/rusilluzion/324/1/index.m3u8
-#EXTINF:-1 ,Здоровое ТВ
-https://mhd116.iptv2022.com/p/EFxCiMsiudMXlqYVGIn0KA,1716670809/streaming/zdorovoe/324/1/index.m3u8
+#EXTINF:-1 ,Тюменское Время
+https://mhd116.iptv2022.com/p/cdup01fW-oukh0tXoXyWqA,1716670815/streaming/tumentime/324/1/index.m3u8
+#EXTINF:-1 ,Star Family HD
+http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
 #EXTINF:-1 ,Дом кино
-http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3MDcxODQsImlhdCI6MTcxNjYyMDc4NCwiY2lkIjo2LCJ1aWQiOjc3NzI2NTk3OSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.j49EF6fVaYux8AXRtvYJZ9EjWxgttGvle-4kZxL8r10&offset=10
+http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
+#EXTINF:-1 ,Дом кино Премиум
+http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
 #EXTINF:-1 ,Наш Кинопоказ
-http://api.peers.tv/timeshift/nash_kinopokaz/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3MDcxODQsImlhdCI6MTcxNjYyMDc4NCwiY2lkIjo2LCJ1aWQiOjc3NzI2NTk3OSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.j49EF6fVaYux8AXRtvYJZ9EjWxgttGvle-4kZxL8r10&offset=10
+http://api.peers.tv/timeshift/nash_kinopokaz/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
 #EXTINF:-1 ,Феникс+кино
-http://arbiter.bolshoe.tv/?path=streaming/fenixkino/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI0IDc6MDY6MjYgQU0maGFzaF92YWx1ZT1YcTUxSVZkeXFxMllyVnA2TG5STEtBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1 ,Здоровое ТВ
-http://arbiter.bolshoe.tv/?path=mobile6/zdorovtv/71/tvrec/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI0IDc6MDY6MjYgQU0maGFzaF92YWx1ZT1YcTUxSVZkeXFxMllyVnA2TG5STEtBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1 ,Романтичное HD
-http://158.101.214.187:8080/channel/n5fd2cd7/index.m3u8?q=443d5edac354972a97f67425879f54e1
+http://arbiter.bolshoe.tv/?path=streaming/fenixkino/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI0IDc6MDA6MTkgUE0maGFzaF92YWx1ZT1nWk1hMHYyVk9DNWFDVDRIOFFvNlVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 ,Русский роман HD
+http://158.101.214.187:8080/channel/68a9a3f4/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 ,Продвижение
 http://158.101.214.187:8080/channel/299f11a3/index.m3u8?q=443d5edac354972a97f67425879f54e1
-#EXTINF:-1 ,Про Любовь HD
-http://158.101.214.187:8080/channel/n5bf0fb1c/index.m3u8?q=443d5edac354972a97f67425879f54e1
-#EXTINF:-1 ,Наше Мужское HD
-http://158.101.214.187:8080/channel/n383d9e5e/index.m3u8?q=443d5edac354972a97f67425879f54e1
-#EXTINF:-1 ,Криминальное HD
-http://158.101.214.187:8080/channel/7cbfee5f/index.m3u8?q=443d5edac354972a97f67425879f54e1
-#EXTINF:-1 ,Душевное HD
-http://158.101.214.187:8080/channel/n23e1be1d/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Сити Эдем - КиноКомедия
+https://v2.catcast.tv/content/41331/index.m3u8
