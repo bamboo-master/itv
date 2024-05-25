@@ -75,8 +75,6 @@ http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 ,Чехов ТВ/Продвижение
-http://s18209.cdn.ngenix.net/hls/CH_R01_CHEKHOVTV/variant.m3u8
 #EXTINF:-1 ,Дом кино
 http://persik.by/stream/5156/165744/302.m3u8
 #EXTINF:-1 ,КУХНЯ ТВ
@@ -93,8 +91,6 @@ http://sc.id-tv.kz/Nnk_hd.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Смотрим Детям
-https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-06.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Смотрим тайны
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
@@ -127,5 +123,3 @@ http://158.101.214.187:8080/channel/n383d9e5e/index.m3u8?q=443d5edac354972a97f67
 http://158.101.214.187:8080/channel/7cbfee5f/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 ,Душевное HD
 http://158.101.214.187:8080/channel/n23e1be1d/index.m3u8?q=443d5edac354972a97f67425879f54e1
-#EXTINF:-1 ,Феникс+Кино
-https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
