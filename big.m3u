@@ -10,13 +10,13 @@ http://176.113.48.221:8986/44
 #EXTINF:-1 tvg-id="russky-roman" group-title="Кино и сериалы",Русский роман
 http://193.201.98.10:5000/c32
 #EXTINF:-1 tvg-id="star-cinema" tvg-logo="https://epgx.site/p/star-cinema.png" group-title="Кино и сериалы",Star Cinema
-http://88.135.128.20:7272/szWljUvHlTAKXVa
+http://158.101.194.132:8888/channel/n2e9da519/index.m3u8?q=d0d79e659a509bb2e212c853a5906f11
 #EXTINF:-1 tvg-id="star-family" tvg-logo="https://epgx.site/p/star-family.png" group-title="Кино и сериалы",Star Family
-http://88.135.128.20:7272/MTsnTXg1kReNwSf
+http://158.101.194.132:8888/channel/21103994/index.m3u8?q=d0d79e659a509bb2e212c853a5906f11
 #EXTINF:-1 tvg-id="start-air" tvg-logo="https://epgx.site/p/start-air.png" group-title="Кино и сериалы",Start Air 
 http://92.242.110.52:9835/udp/238.1.7.28:1234
 #EXTINF:-1 ,1+2
-http://88.135.128.20:7272/KfbeysdY6Fva3sW
+http://158.101.194.132:8888/channel/6db89cee/index.m3u8?q=d0d79e659a509bb2e212c853a5906f11
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Кино и сериалы",Родное кино
 https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
 #EXTINF:-1 tvg-id="lubimoe-kino" , Любимое кино
@@ -63,5 +63,4 @@ https://edge60.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMY.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",Смотрим2
 http://dmi3y-tv.ru/hls/smotrim/CH_TAYNY.m3u8
-#EXTINF:-1 ,Анекдот ТВ
-https://mhd116.iptv2022.com/p/bJtkZOzfjXJCef5iHiZ3DA,1716498013/streaming/anekdot/324/1/index.m3u8
+
