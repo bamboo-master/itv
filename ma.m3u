@@ -75,16 +75,10 @@ http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 ,Дом кино
-http://persik.by/stream/5156/165744/302.m3u8
-#EXTINF:-1 ,КУХНЯ ТВ
-http://persik.by/stream/5156/165744/383.m3u8
-#EXTINF:-1 ,Ретро HD
-http://persik.by/stream/5156/165744/10709.m3u8
-#EXTINF:-1 ,Победа
-http://persik.by/stream/5156/165744/11209.m3u8
 #EXTINF:-1 ,Ретро
 https://st1.uzdigital.tv/Retro/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Победа
+http://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://sc.id-tv.kz/Nnk_hd.m3u8
 #EXTINF:-1 ,Смотрим Мелодрамы
@@ -105,6 +99,8 @@ https://mhd116.iptv2022.com/p/BV3wOjmzkkvo-g5B5WrKKw,1716670807/streaming/fenixk
 https://mhd116.iptv2022.com/p/5Ie4UaLEmjX2cNOCaOO1aw,1716670807/streaming/rusilluzion/324/1/index.m3u8
 #EXTINF:-1 ,Здоровое ТВ
 https://mhd116.iptv2022.com/p/EFxCiMsiudMXlqYVGIn0KA,1716670809/streaming/zdorovoe/324/1/index.m3u8
+#EXTINF:-1 ,Дом кино
+http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3MDcxODQsImlhdCI6MTcxNjYyMDc4NCwiY2lkIjo2LCJ1aWQiOjc3NzI2NTk3OSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.j49EF6fVaYux8AXRtvYJZ9EjWxgttGvle-4kZxL8r10&offset=10
 #EXTINF:-1 ,Наш Кинопоказ
 http://api.peers.tv/timeshift/nash_kinopokaz/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3MDcxODQsImlhdCI6MTcxNjYyMDc4NCwiY2lkIjo2LCJ1aWQiOjc3NzI2NTk3OSwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.j49EF6fVaYux8AXRtvYJZ9EjWxgttGvle-4kZxL8r10&offset=10
 #EXTINF:-1 ,Феникс+кино
