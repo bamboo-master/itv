@@ -9,17 +9,17 @@ https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 ,Ностальгия
 https://strm.yandex.ru/kal/nostalgia_belarus/nostalgia_belarus0.m3u8
-#EXTINF:-1 ,КУХНЯ ТВ
+#EXTINF:-1 ,КУХНЯ
 http://stream-msk-08.ott.tricolor.tv/dtv/id164_MSKSG-PVR-1--Kuhnya_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
 #EXTINF:-1 ,Анекдот ТВ
 http://stream-msk-06.ott.tricolor.tv/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
 #EXTINF:-1 ,Сарафан
 http://stream-msk-12.ott.tricolor.tv/dtv/id258_MSKSG-PVR-1--Sarafan/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
-#EXTINF:-1 ,Здоровое ТВ
+#EXTINF:-1 ,Здоровое
 http://188.113.190.15/70/video.m3u8
 #EXTINF:-1 ,Загородная жизнь
 https://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
-#EXTINF:-1 ,Феникс+ Кино
+#EXTINF:-1 ,Феникс
 http://188.113.190.15/24/mono.m3u8
 #EXTINF:-1 ,Viju TV1000 Русское
 http://188.113.190.15/35/tracks-v1a1/index.m3u8
@@ -27,7 +27,7 @@ http://188.113.190.15/35/tracks-v1a1/index.m3u8
 http://158.101.194.132:8888/channel/n2e9da519/index.m3u8?q=d0d79e659a509bb2e212c853a5906f11
 #EXTINF:-1 ,Star Family
 http://158.101.194.132:8888/channel/21103994/index.m3u8?q=d0d79e659a509bb2e212c853a5906f11
-#EXTINF:-1 ,Ретро ТВ
+#EXTINF:-1 ,Ретро
 http://188.113.190.15/67/mono.m3u8
 #EXTINF:-1 ,Bolt Россия
 http://188.113.190.15/84/video.m3u8
@@ -73,39 +73,299 @@ http://5.153.180.133:8001/play/a0bv
 http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
 #EXTINF:-1 ,Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 ,Советское родное
+http://91.207.114.209:5000/c161
 #EXTINF:-1 ,Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 ,Продвижение
+http://s18209.cdn.ngenix.net/hls/CH_R01_CHEKHOVTV/variant.m3u8
+#EXTINF:-1 ,Дом кино
+http://persik.by/stream/5156/165744/302.m3u8
+#EXTINF:-1 ,КУХНЯ
+http://persik.by/stream/5156/165744/383.m3u8
+#EXTINF:-1 ,Комедия HD
+http://persik.by/stream/5156/165744/10691.m3u8
+#EXTINF:-1 ,Ретро HD
+http://persik.by/stream/5156/165744/10709.m3u8
+#EXTINF:-1 ,Победа
+http://persik.by/stream/5156/165744/11209.m3u8
 #EXTINF:-1 ,Ретро
 https://st1.uzdigital.tv/Retro/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Телекафе
+https://st1.uzdigital.tv/Telekafe/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Дом кино
+http://193.201.98.10:5000/c30
+#EXTINF:-1 ,Наше новое кино
+http://193.201.98.10:5000/c41
+#EXTINF:-1 ,Время
+http://193.201.98.10:5000/c53
+#EXTINF:-1 ,Ностальгия
+http://193.201.98.10:5000/c54
+#EXTINF:-1 ,Сарафан
+http://193.201.98.10:5000/c75
+#EXTINF:-1 ,Телекафе
+http://193.201.98.10:5000/c84
+#EXTINF:-1 ,Здоровое
+http://193.201.98.10:5000/c92
+#EXTINF:-1 ,Советское родное
+http://193.201.98.10:5000/c161
+#EXTINF:-1 ,Наше родное кино
+http://193.201.98.10:5000/c162
+#EXTINF:-1 ,Комедия
+http://193.201.98.10:5000/c168
+#EXTINF:-1 ,Ретро
+http://193.201.98.10:5000/c174
+#EXTINF:-1 ,Победа
+http://193.201.98.10:5000/c184
+#EXTINF:-1 ,Дом кино
+http://91.207.115.228:5000/c30
+#EXTINF:-1 ,Наше новое кино
+http://91.207.115.228:5000/c41
+#EXTINF:-1 ,Время
+http://91.207.115.228:5000/c53
+#EXTINF:-1 ,Ностальгия
+http://91.207.115.228:5000/c54
+#EXTINF:-1 ,Сарафан
+http://91.207.115.228:5000/c75
+#EXTINF:-1 ,Телекафе
+http://91.207.115.228:5000/c84
+#EXTINF:-1 ,Здоровое
+http://91.207.115.228:5000/c92
+#EXTINF:-1 ,Комедия
+http://91.207.115.228:5000/c168
+#EXTINF:-1 ,Ретро
+http://91.207.115.228:5000/c174
+#EXTINF:-1 ,Победа
+http://91.207.115.228:5000/c184
+#EXTINF:-1 ,Загородная жизнь
+http://sc.id-tv.kz/Zagorod.m3u8
+#EXTINF:-1 ,Телекафе
+http://sc.id-tv.kz/Telecafe_36_37.m3u8
 #EXTINF:-1 ,Победа
 http://sc.id-tv.kz/Pobeda_34_35.m3u8
 #EXTINF:-1 ,Наше новое кино
 http://sc.id-tv.kz/Nnk_hd.m3u8
+#EXTINF:-1 ,Время
+http://sc.id-tv.kz/Vremya_36_37.m3u8
+#EXTINF:-1 ,Время
+https://bkm.beetv.kz/btv/live/hls/000000205.m3u8
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+https://bkm.beetv.kz/btv/live/hls/000006365.m3u8
+#EXTINF:-1 ,Победа
+https://bkm.beetv.kz/btv/live/hls/000004534.m3u8
+#EXTINF:-1 ,НТВ Сериал
+http://91.205.199.3:80/ntvserial/index.m3u8
+#EXTINF:-1 ,1+2
+http://88.135.128.20:7272/KfbeysdY6Fva3sW
+#EXTINF:-1 ,Super+
+http://88.135.128.20:7272/JkfGhb36Cvs7Fgz
+#EXTINF:-1 ,Star Family HD
+http://88.135.128.20:7272/MTsnTXg1kReNwSf
+#EXTINF:-1 ,Ностальгия
+http://mfe02.cliptv.az/dash/Nostalgiya_SDhdj020060.ism/playlist.mpd
+#EXTINF:-1 ,Комедия
+http://mfe02.cliptv.az/dash/Paramount_Comedy_SDfghsk.ism/playlist.mpd
+#EXTINF:-1 ,Родное кино
+http://mfe02.cliptv.az/dash/Rodnoe_Kino_SDqw45yu.ism/playlist.mpd
+#EXTINF:-1 ,Наше новое кино
+http://mfe01.cliptv.az/dash/Nashe_Novoe_Kino_SDfgffgfgf23.ism/playlist.mpd
+#EXTINF:-1 ,Мир сериала
+http://mfe01.cliptv.az/dash/Mir_seriala_SD12sdsdsd.ism/playlist.mpd
+#EXTINF:-1 ,НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,Смотрим Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Смотрим тайны
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 ,Время
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
 #EXTINF:-1 ,Мосфильм. Золотая коллекция
 http://135.181.115.81:8000/play/a011/index.m3u8?token=livetv
+#EXTINF:-1 ,Наше новое кино
+http://135.181.115.81:8000/play/a01b/index.m3u8?token=livetv
 #EXTINF:-1 ,Ратник
 http://92.53.64.197:5050/ratnik_tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 ,Здоровое
+http://94.230.128.105:8080/ZdorovoeTV/index.m3u8
+#EXTINF:-1 ,Комедия
+http://91.142.158.107:8092/play/30/index.m3u8
+#EXTINF:-1 ,Русский бестселлер
+http://91.142.158.107:8092/play/26/index.m3u8
+#EXTINF:-1 ,Русский детектив
+http://91.142.158.107:8092/play/27/index.m3u8
+#EXTINF:-1 ,Русский роман
+http://91.142.158.107:8092/play/25/index.m3u8
+#EXTINF:-1 ,Ностальгия
+http://146.158.0.56:80/Nostalgiya/index.m3u8
+#EXTINF:-1 ,Загородная жизнь
+http://146.158.0.56:80/ZagorodnayaJizn/index.m3u8
+#EXTINF:-1 ,Родное кино
+https://mhd116.iptv2022.com/p/YdlbL7c1gGZNtE2IE7btUA,1716670806/streaming/rodnoe/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1 ,Наше новое кино
+https://mhd116.iptv2022.com/p/V3MK5tp8C_4H1ox-qj87eA,1716670806/streaming/nashe_n_kino/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1 ,Star Family
+https://mhd116.iptv2022.com/p/vV-qFedHrzrI47-HmycqcA,1716670807/streaming/star_family/324/1/index.m3u8
+#EXTINF:-1 ,Star Cinema
+https://mhd116.iptv2022.com/p/gBV9TJtIZy4mnjf4d7hXgA,1716670807/streaming/star_cinema/324/1/index.m3u8
+#EXTINF:-1 ,Феникс
+https://mhd116.iptv2022.com/p/BV3wOjmzkkvo-g5B5WrKKw,1716670807/streaming/fenixkino/324/1/index.m3u8
+#EXTINF:-1 ,Русский иллюзион
+https://mhd116.iptv2022.com/p/5Ie4UaLEmjX2cNOCaOO1aw,1716670807/streaming/rusilluzion/324/1/index.m3u8
+#EXTINF:-1 ,Ратник
+https://mhd116.iptv2022.com/p/E6S5fnrX9q-g_KCJ7iJflg,1716670809/streaming/ratnik/324/1/index.m3u8
+#EXTINF:-1 ,Здоровое
+https://mhd116.iptv2022.com/p/EFxCiMsiudMXlqYVGIn0KA,1716670809/streaming/zdorovoe/324/1/index.m3u8
+#EXTINF:-1 ,Анекдот ТВ
+https://mhd116.iptv2022.com/p/CgGDqXwMkqRtzMsLxHAfKA,1716670811/streaming/anekdot/324/1/index.m3u8
+#EXTINF:-1 ,Ностальгия
+https://mhd116.iptv2022.com/p/nSf9Me5E-dzQy3jgtWTPLQ,1716670811/streaming/nostalgiya/324/1/index.m3u8
+#EXTINF:-1 ,Ретро
+https://mhd116.iptv2022.com/p/yqLvSwb4mxHc15TBYmelQA,1716670812/streaming/retro/324/1/index.m3u8
+#EXTINF:-1 ,Время
+https://mhd116.iptv2022.com/p/cdup01fW-oukh0tXoXyWqA,1716670815/streaming/tumentime/324/1/index.m3u8
 #EXTINF:-1 ,Star Family HD
 http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
 #EXTINF:-1 ,Дом кино
 http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
-#EXTINF:-1 ,Дом кино Премиум
+#EXTINF:-1 ,Дом кино
 http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
+#EXTINF:-1 ,Русский бестселлер
+http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
+#EXTINF:-1 ,Русский детектив
+http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
 #EXTINF:-1 ,Русский иллюзион
 http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
+#EXTINF:-1 ,Русский роман
+http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
+#EXTINF:-1 ,Наше новое кино
+http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
 #EXTINF:-1 ,Наш Кинопоказ
 http://api.peers.tv/timeshift/nash_kinopokaz/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
-#EXTINF:-1 ,Феникс+кино
+#EXTINF:-1 ,Комедия
+http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
+#EXTINF:-1 ,Победа
+http://api.peers.tv/timeshift/pobeda/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
+#EXTINF:-1 ,Мир сериала
+http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
+#EXTINF:-1 ,Загородная жизнь
+http://api.peers.tv/timeshift/zagorod_zh/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
+#EXTINF:-1 ,Сарафан
+http://api.peers.tv/timeshift/sarafan/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
+#EXTINF:-1 ,Телекафе
+http://api.peers.tv/timeshift/telekafe/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3NTAwMTgsImlhdCI6MTcxNjY2MzYxOCwiY2lkIjo2LCJ1aWQiOjc3NzQyNzU5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.zjg_jdol-ZIMjgClo2PKmsDVMU2oOhXSUTP_mcwH7OM&offset=10
+#EXTINF:-1 ,Феникс
 http://arbiter.bolshoe.tv/?path=streaming/fenixkino/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI0IDc6MDA6MTkgUE0maGFzaF92YWx1ZT1nWk1hMHYyVk9DNWFDVDRIOFFvNlVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 ,Наше новое кино
+http://arbiter.bolshoe.tv/?path=abr4/nashe_novoe_kino/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI0IDc6MDA6MTkgUE0maGFzaF92YWx1ZT1nWk1hMHYyVk9DNWFDVDRIOFFvNlVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 ,Мосфильм. Золотая коллекция HD
+http://arbiter.bolshoe.tv/?path=abr4/mosfilm/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI0IDc6MDA6MTkgUE0maGFzaF92YWx1ZT1nWk1hMHYyVk9DNWFDVDRIOFFvNlVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 ,Победа
+http://arbiter.bolshoe.tv/?path=abr1/pobeda/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI0IDc6MDA6MTkgUE0maGFzaF92YWx1ZT1nWk1hMHYyVk9DNWFDVDRIOFFvNlVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 ,Дом кино
+http://arbiter.bolshoe.tv/?path=abr1/domkino/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI0IDc6MDA6MTkgUE0maGFzaF92YWx1ZT1nWk1hMHYyVk9DNWFDVDRIOFFvNlVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 ,Ретро
+http://95.181.17.6/7nvenc/retro/71/sd/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI0IDc6MDA6MTkgUE0maGFzaF92YWx1ZT1nWk1hMHYyVk9DNWFDVDRIOFFvNlVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 ,Здоровое
+http://arbiter.bolshoe.tv/?path=mobile6/zdorovtv/71/tvrec/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI0IDc6MDA6MTkgUE0maGFzaF92YWx1ZT1nWk1hMHYyVk9DNWFDVDRIOFFvNlVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 ,Время
+http://arbiter.bolshoe.tv/?path=abr1/vremya/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI0IDc6MDA6MTkgUE0maGFzaF92YWx1ZT1nWk1hMHYyVk9DNWFDVDRIOFFvNlVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 ,Анекдот ТВ
+http://arbiter.bolshoe.tv/?path=abr3/anekdot/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI0IDc6MDA6MTkgUE0maGFzaF92YWx1ZT1nWk1hMHYyVk9DNWFDVDRIOFFvNlVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 ,Сарафан
+http://arbiter.bolshoe.tv/?path=streaming/sarafan/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI0IDc6MDA6MTkgUE0maGFzaF92YWx1ZT1nWk1hMHYyVk9DNWFDVDRIOFFvNlVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 ,Телекафе
+http://arbiter.bolshoe.tv/?path=streaming/telekafe/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9NS8yNS8yMDI0IDc6MDA6MTkgUE0maGFzaF92YWx1ZT1nWk1hMHYyVk9DNWFDVDRIOFFvNlVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
+#EXTINF:-1 ,Анекдот ТВ
+https://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/Anekdot_TV/index_0.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.6BbegtKBW5AerpPNKZG2mMlRGtFVAgvK74fppCju_pk.sdUwgQu4HRIdL21OyoEJkCHRFahAF9ZWcI7VkSCSvp8.1717268420.f0688bce35654b185e91b8ddb376d5f6
+#EXTINF:-1 ,Телекафе
+http://158.101.214.187:8080/channel/5dc1f60f/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Сарафан
+http://158.101.214.187:8080/channel/5a8149b7/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 ,Русский роман HD
 http://158.101.214.187:8080/channel/68a9a3f4/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Русский детектив
+http://158.101.214.187:8080/channel/n476a5e07/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Русский бестселлер
+http://158.101.214.187:8080/channel/5fe54a27/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Романтичное HD
+http://158.101.214.187:8080/channel/n5fd2cd7/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 ,Продвижение
 http://158.101.214.187:8080/channel/299f11a3/index.m3u8?q=443d5edac354972a97f67425879f54e1
-#EXTINF:-1 ,Сити Эдем - КиноКомедия
+#EXTINF:-1 ,Про Любовь HD
+http://158.101.214.187:8080/channel/n5bf0fb1c/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Наше Мужское HD
+http://158.101.214.187:8080/channel/n383d9e5e/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Наш Кинопоказ HD
+http://158.101.214.187:8080/channel/5c22569f/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Мосфильм. Золотая коллекция HD
+http://158.101.214.187:8080/channel/2bac7f96/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Криминальное HD
+http://158.101.214.187:8080/channel/7cbfee5f/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Комедия
+http://158.101.214.187:8080/channel/n1ccf8d/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Душевное HD
+http://158.101.214.187:8080/channel/n23e1be1d/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Время
+http://158.101.214.187:8080/channel/278563bf/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Анекдот ТВ
+http://158.101.214.187:8080/channel/n63934db/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Советская киноклассика
+http://158.101.214.187:8080/channel/nbae71fb/index.m3u8?q=443d5edac354972a97f67425879f54e1
+#EXTINF:-1 ,Наше новое кино
+https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+#EXTINF:-1 ,Родное кино
+https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
+#EXTINF:-1 ,Сарафан
+https://strm.yandex.ru/kal/sarahfan_belarus/sarahfan_belarus0.m3u8
+#EXTINF:-1 ,НТВ Хит
+https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
+#EXTINF:-1 ,НТВ Сериал
+https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
+#EXTINF:-1 ,НТВ Право
+https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
+#EXTINF:-1 ,Феникс
+https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
+#EXTINF:-1 ,Комедия
 https://v2.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1 ,НТВ Сериал
+http://127.0.0.1:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
+#EXTINF:-1 ,Феникс
+http://127.0.0.1:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6&.mp4
+#EXTINF:-1 ,Русский иллюзион
+http://127.0.0.1:6878/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1&.mp4
+#EXTINF:-1 ,Романтичное HD
+http://127.0.0.1:6878/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e&.mp4
+#EXTINF:-1 ,Про Любовь HD
+http://127.0.0.1:6878/ace/getstream?id=300552f346d9fe2dfd405f48fbafe084a95da563&.mp4
+#EXTINF:-1 ,Ностальгия
+http://127.0.0.1:6878/ace/getstream?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3&.mp4
+#EXTINF:-1 ,Наше Мужское HD
+http://127.0.0.1:6878/ace/getstream?id=646e1bd5cccfef3d0926eee34eb3fd7e01430507&.mp4
+#EXTINF:-1 ,Наше крутое HD
+http://127.0.0.1:6878/ace/getstream?id=4f40b12ad32618adf3262143db8cc80ae686a5f0&.mp4
+#EXTINF:-1 ,Наш Кинопоказ HD
+http://127.0.0.1:6878/ace/getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed&.mp4
+#EXTINF:-1 ,Мосфильм. Золотая коллекция HD
+http://127.0.0.1:6878/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d&.mp4
+#EXTINF:-1 ,Родное кино
+http://127.0.0.1:6878/ace/getstream?id=b46c879a624e1d0aa8eeb18300cda7413657e80a&.mp4
+#EXTINF:-1 ,Наше новое кино HD
+http://127.0.0.1:6878/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e&.mp4
+#EXTINF:-1 ,Здоровое
+http://127.0.0.1:6878/ace/getstream?id=33d0a8be4195259a9d2e341bcd62123cd7a903fd&.mp4
+#EXTINF:-1 ,Загородная жизнь
+http://127.0.0.1:6878/ace/getstream?id=fccd5e7ff7469f38dea15ac0d396034c81bd0e4d&.mp4
+#EXTINF:-1 ,Душевное HD
+http://127.0.0.1:6878/ace/getstream?id=82cc7621069b4095f002b43a669b40c2b5342afc&.mp4
+#EXTINF:-1 ,Дом кино HD
+http://127.0.0.1:6878/ace/getstream?id=c2877f4320f2029a59f2121525280c539fb1b9e9&.mp4
+#EXTINF:-1 ,Дом кино
+http://127.0.0.1:6878/ace/getstream?id=4403739564a9b19055786e9844ea48147b3f930b&.mp4
