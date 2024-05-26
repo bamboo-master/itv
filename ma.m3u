@@ -1,20 +1,12 @@
 #EXTM3U
-#EXTINF:-1 ,Россия 1
-https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
-#EXTINF:-1 ,НТВ
-https://live-stream-01.ott.tricolor.tv/live/live/NTV_0_hd/hls_enc/NTV_0_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
 #EXTINF:-1 ,НТВ Право
 https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
 #EXTINF:-1 ,НТВ Хит
 https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
 #EXTINF:-1 ,НТВ Сериал
 https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
-#EXTINF:-1 ,Мир
-https://live-stream-19.ott.tricolor.tv/live/live/Mir_HD/hls_enc/Mir_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
 #EXTINF:-1 ,Ратник
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:-1 ,78
-https://dumatv.iptv2022.com/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Ностальгия
 https://strm.yandex.ru/kal/nostalgia_belarus/nostalgia_belarus0.m3u8
 #EXTINF:-1 ,КУХНЯ
@@ -87,20 +79,18 @@ http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 ,Дом кино
+http://193.201.98.10:5000/c30
+#EXTINF:-1 ,Советское родное
+http://193.201.98.10:5000/c161
+#EXTINF:-1 ,Наше родное кино
+http://193.201.98.10:5000/c162
 #EXTINF:-1 ,Смотрим Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Смотрим Кино и сериалы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Смотрим тайны
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1 ,Санкт-Петербург
-http://92.53.64.197:5050/sankt-peterburg_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 ,СТС Love
-http://92.53.64.197:5050/ctc_love/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 ,ТВ3
-http://92.53.64.197:5050/tv3/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 ,Дом кино
-http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY4MzY0MDIsImlhdCI6MTcxNjc1MDAwMiwiY2lkIjo2LCJ1aWQiOjc3Nzg1MDEyOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.Lf-s1DgPoJrJpPcDlRfvDMT9AOt1yOWrM9moqjGZS1g&offset=10
 #EXTINF:-1 ,Русский иллюзион
 http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY4MzY0MDIsImlhdCI6MTcxNjc1MDAwMiwiY2lkIjo2LCJ1aWQiOjc3Nzg1MDEyOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.Lf-s1DgPoJrJpPcDlRfvDMT9AOt1yOWrM9moqjGZS1g&offset=10
 #EXTINF:-1 ,Мир сериала
