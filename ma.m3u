@@ -85,10 +85,6 @@ http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?
 https://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,Детское кино International
 https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 ,ТВ3
-https://st1.uzdigital.tv/TV3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,СТС Love
-http://mfe02.cliptv.az/dash/STS_Love_SDgggdd45.ism/playlist.mpd
 #EXTINF:-1 ,Смотрим Мелодрамы
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Смотрим Кино и сериалы
@@ -97,14 +93,16 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-07.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 ,Санкт-Петербург
 http://92.53.64.197:5050/sankt-peterburg_HD/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 ,СТС Love
+http://92.53.64.197:5050/ctc_love/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 ,ТВ3
+http://92.53.64.197:5050/tv3/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 ,Дом кино
 http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3OTMxMDAsImlhdCI6MTcxNjcwNjcwMCwiY2lkIjo2LCJ1aWQiOjc3NzYwNTA4NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.wQzbNRwWSl4MVVTrBN7Wc1WGQfO4iUVr0IJ22vb64TM&offset=10
 #EXTINF:-1 ,Русский иллюзион
 http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3OTMxMDAsImlhdCI6MTcxNjcwNjcwMCwiY2lkIjo2LCJ1aWQiOjc3NzYwNTA4NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.wQzbNRwWSl4MVVTrBN7Wc1WGQfO4iUVr0IJ22vb64TM&offset=10
 #EXTINF:-1 ,Мир сериала
 http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3OTMxMDAsImlhdCI6MTcxNjcwNjcwMCwiY2lkIjo2LCJ1aWQiOjc3NzYwNTA4NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.wQzbNRwWSl4MVVTrBN7Wc1WGQfO4iUVr0IJ22vb64TM&offset=10
-#EXTINF:-1 ,Москва
-http://api.peers.tv/timeshift/moskva_24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3OTMxMDAsImlhdCI6MTcxNjcwNjcwMCwiY2lkIjo2LCJ1aWQiOjc3NzYwNTA4NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.wQzbNRwWSl4MVVTrBN7Wc1WGQfO4iUVr0IJ22vb64TM&offset=10
 #EXTINF:-1 ,Продвижение
 http://158.101.214.187:8080/channel/299f11a3/index.m3u8?q=443d5edac354972a97f67425879f54e1
 #EXTINF:-1 ,Viju TV1000 Новелла
@@ -113,7 +111,5 @@ http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c
 http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 ,Смотрим Частный Детектив
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 ,Viju+ Serial
-https://woobl.ru/hls987/Viju_plus_Serial_hd.m3u8
 #EXTINF:-1 ,KINO 24
 http://dmi3y-tv.ru/hls/CH_KINO24.m3u8
