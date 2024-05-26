@@ -23,6 +23,8 @@ http://stream-msk-08.ott.tricolor.tv/dtv/id164_MSKSG-PVR-1--Kuhnya_TV/03/plst.m3
 http://stream-msk-06.ott.tricolor.tv/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
 #EXTINF:-1 ,Сарафан
 http://stream-msk-12.ott.tricolor.tv/dtv/id258_MSKSG-PVR-1--Sarafan/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MjIxOTAwODQ5MTc3NCIsImV4cCI6MTcxNzIwMTA0NSwiaHdpZCI6IjM0NDZlY2U1YWI3YzgwNDU2OTFkZWQ2OWFkOGEyNWVmMzk4Y2VhNjgwZWU1MTk2NDkwNTIwZTliMTBmMjJiMTgiLCJsYXN0X3JlcV9kYXRlIjoxNzE2NTk2MjQ1LCJzZXNzaW9uX2lkIjoiZWZjMWE3YzU3ZTNjNWZhN2YyNjg3NGE1MTg4ZmY3MDkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.9dWi6dYKqMzknDEtdfbr9ix3H3YZ1j2WmjNp_YI72P0
+#EXTINF:-1 ,Viju
+http://188.113.190.15/33/video.m3u8
 #EXTINF:-1 ,Здоровое
 http://188.113.190.15/70/video.m3u8
 #EXTINF:-1 ,Усадьба
@@ -98,15 +100,13 @@ http://92.53.64.197:5050/ctc_love/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 ,ТВ3
 http://92.53.64.197:5050/tv3/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 ,Дом кино
-http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3OTMxMDAsImlhdCI6MTcxNjcwNjcwMCwiY2lkIjo2LCJ1aWQiOjc3NzYwNTA4NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.wQzbNRwWSl4MVVTrBN7Wc1WGQfO4iUVr0IJ22vb64TM&offset=10
+http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY4MzY0MDIsImlhdCI6MTcxNjc1MDAwMiwiY2lkIjo2LCJ1aWQiOjc3Nzg1MDEyOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.Lf-s1DgPoJrJpPcDlRfvDMT9AOt1yOWrM9moqjGZS1g&offset=10
 #EXTINF:-1 ,Русский иллюзион
-http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3OTMxMDAsImlhdCI6MTcxNjcwNjcwMCwiY2lkIjo2LCJ1aWQiOjc3NzYwNTA4NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.wQzbNRwWSl4MVVTrBN7Wc1WGQfO4iUVr0IJ22vb64TM&offset=10
+http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY4MzY0MDIsImlhdCI6MTcxNjc1MDAwMiwiY2lkIjo2LCJ1aWQiOjc3Nzg1MDEyOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.Lf-s1DgPoJrJpPcDlRfvDMT9AOt1yOWrM9moqjGZS1g&offset=10
 #EXTINF:-1 ,Мир сериала
-http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY3OTMxMDAsImlhdCI6MTcxNjcwNjcwMCwiY2lkIjo2LCJ1aWQiOjc3NzYwNTA4NywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.wQzbNRwWSl4MVVTrBN7Wc1WGQfO4iUVr0IJ22vb64TM&offset=10
+http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MTY4MzY0MDIsImlhdCI6MTcxNjc1MDAwMiwiY2lkIjo2LCJ1aWQiOjc3Nzg1MDEyOCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzcsImFkdWx0IjpmYWxzZX0.Lf-s1DgPoJrJpPcDlRfvDMT9AOt1yOWrM9moqjGZS1g&offset=10
 #EXTINF:-1 ,Продвижение
 http://158.101.214.187:8080/channel/299f11a3/index.m3u8?q=443d5edac354972a97f67425879f54e1
-#EXTINF:-1 ,Viju TV1000 Новелла
-http://158.101.194.132:8080/channel/n51877d66/index.m3u8?q=5656d7c7c902657d3491c0330b58ec0e
 #EXTINF:-1 ,Бобер
 http://178.212.71.253:8002/play/a00m/index.m3u8
 #EXTINF:-1 ,Смотрим Частный Детектив
